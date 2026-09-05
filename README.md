@@ -42,3 +42,22 @@ Last updated 25 August 2026.
 ---
 
 *Mac Gille Chathbhaidh · Kellechaffe*
+
+
+
+---
+
+## Also in this repository
+
+**Family writings**
+
+- **[Blood of the North Atlantic](https://hmahaffeyges.github.io/mahaffey-surname-origin/blood-of-the-north-atlantic)** — a father's letter on the family's North Atlantic lines: the Faroes, Iceland, and the sea roads the blood remembers.
+- **[Covenant of the Horizon](https://hmahaffeyges.github.io/mahaffey-surname-origin/covenant-of-the-horizon)** — a story of two brothers, a horse's ten-thousand-year return, and the American West.
+
+**Theology library**
+
+- **[The Writers of the New Testament](https://hmahaffeyges.github.io/mahaffey-surname-origin/the-writers-of-the-new-testament)** — the series hub: eight volumes covering all twenty-seven books of the New Testament, author by author, chapter by chapter, with plain-language summaries.
+- **[Christ Revealed in the Torah](https://hmahaffeyges.github.io/mahaffey-surname-origin/christ-revealed-in-the-torah)** — the capstone companion volume.
+
+Further studies are linked from the series hub.
+
