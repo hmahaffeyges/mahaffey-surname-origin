@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Writers of the New Testament &mdash; An Eight-Volume, Author-by-Author Study Series</title>
+<meta name="description" content="The complete eight-volume study series covering all twenty-seven books of the New Testament, author by author: John, Luke, Mark, Matthew, Paul, Peter and Jude, James, and Hebrews with the story of the canon. Chapter-by-chapter deep dives with plain-language summaries.">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="author" content="H.W. Mahaffey">
+<meta property="og:type" content="article">
+<meta property="og:title" content="The Writers of the New Testament">
+<meta property="og:description" content="Eight volumes, twenty-seven books, every author with his face, his accent, and his fingerprints. The complete series hub.">
+<meta property="og:locale" content="en_US">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;500;700;900&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --night:#0E1A30; --tekhelet:#1F3A6E; --royal:#4B2360; --scarlet:#8F1D22;
+  --linen:#F7F2E7; --vellum:#EFE6D2; --gold:#C39A3B; --goldpale:#DDBE77;
+  --ink:#22273a; --bone:#E9DFC8; --measure:36rem;
+}
+*,*::before,*::after{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--linen);color:var(--ink);
+  font-family:"EB Garamond",Georgia,serif;
+  font-size:clamp(1.07rem,1rem + .32vw,1.24rem);line-height:1.72;
+  -webkit-font-smoothing:antialiased}
+::selection{background:var(--gold);color:var(--night)}
+a{color:var(--scarlet)}
+:focus-visible{outline:2px solid var(--tekhelet);outline-offset:3px}
+.veil{background-color:var(--linen);
+  background-image:repeating-linear-gradient(90deg,
+    var(--tekhelet) 0 34px, var(--royal) 34px 58px, var(--scarlet) 58px 82px,
+    var(--gold) 82px 86px, var(--linen) 86px 118px)}
+.ribbon{height:11px}.ribbon.thick{height:24px}
+.hero{position:relative;min-height:min(94vh,800px);display:grid;place-items:center;
+  background:var(--night);overflow:hidden;text-align:center;padding:5rem 1.25rem 4rem}
+.hero .bg{position:absolute;inset:0}
+.hero .bg svg{width:100%;height:100%;display:block}
+.hero::after{content:"";position:absolute;inset:0;
+  background:radial-gradient(ellipse at 50% 46%,rgba(8,13,25,.04) 0%,rgba(8,13,25,.5) 60%,rgba(8,13,25,.88) 100%)}
+.hero-inner{position:relative;z-index:2;max-width:48rem}
+.eyebrow{font-family:"Frank Ruhl Libre",serif;font-weight:500;color:var(--goldpale);
+  letter-spacing:.3em;text-transform:uppercase;font-size:clamp(.6rem,.54rem + .3vw,.76rem);margin:0 0 1.2rem}
+.hero h1{font-family:"Frank Ruhl Libre",serif;font-weight:900;color:var(--gold);
+  font-size:clamp(2.2rem,1.2rem + 5vw,4.6rem);line-height:1.08;margin:0 0 .7rem;
+  text-shadow:0 2px 30px rgba(0,0,0,.85)}
+.hero .sub{font-family:"Frank Ruhl Libre",serif;color:var(--bone);letter-spacing:.12em;
+  font-size:clamp(.8rem,.72rem + .4vw,1.05rem);margin:0;text-transform:uppercase}
+.hero .motto{margin:2.3rem auto 0;color:var(--goldpale);font-style:italic;font-size:1rem;opacity:.92}
+main{padding:clamp(3rem,7vw,6rem) 1.25rem 1rem}
+.chapter{max-width:var(--measure);margin:0 auto}
+.entry-head{max-width:var(--measure);margin:3rem auto 1rem}
+.entry-head h3{font-family:"Frank Ruhl Libre",serif;font-weight:700;color:var(--tekhelet);
+  font-size:clamp(1.2rem,1.05rem + .8vw,1.6rem);line-height:1.25;margin:0}
+.entry-head .rule{width:4.5rem;height:2px;background:linear-gradient(90deg,var(--gold),transparent);margin-top:.5rem}
+p{margin:0 0 1.25rem}
+strong{font-weight:600;color:#3a2a55}
+p.plain{background:var(--vellum);border-left:4px solid var(--gold);padding:1rem 1.1rem;border-radius:0 10px 10px 0;font-size:.98em}
+p.plain strong{color:var(--scarlet)}
+.band{background:var(--night);color:var(--bone);margin-top:clamp(4rem,8vw,7rem);
+  padding:clamp(2.4rem,5vw,3.8rem) 1.25rem;text-align:center}
+.band .numeral{font-family:"Frank Ruhl Libre",serif;font-weight:500;color:var(--goldpale);
+  letter-spacing:.32em;text-transform:uppercase;font-size:.78rem;margin:0 0 .5rem}
+.band h2{font-family:"Frank Ruhl Libre",serif;font-weight:700;color:var(--gold);margin:0 auto;
+  font-size:clamp(1.5rem,1.1rem + 2vw,2.4rem);line-height:1.2;max-width:44rem}
+.band .back{display:inline-block;margin-top:1.1rem;font-size:.82rem;color:var(--goldpale);letter-spacing:.1em;text-decoration:none;border-bottom:1px solid rgba(221,190,119,.4)}
+figure.scene{max-width:var(--measure);margin:2.2rem auto 0;border-radius:14px;overflow:hidden;box-shadow:0 10px 30px rgba(14,26,48,.3)}
+figure.scene svg{display:block;width:100%;height:auto}
+.indexwrap{background:var(--vellum);padding:clamp(2.6rem,5vw,4rem) 1.25rem}
+.indexwrap h2{font-family:"Frank Ruhl Libre",serif;font-weight:700;color:var(--tekhelet);text-align:center;
+  font-size:clamp(1.4rem,1.1rem + 1.6vw,2.1rem);margin:0 0 .4rem}
+.indexwrap .lede{text-align:center;font-style:italic;color:#6a6250;max-width:38rem;margin:0 auto 2rem}
+.index{max-width:56rem;margin:0 auto;columns:2;column-gap:3rem}
+@media (max-width:46rem){.index{columns:1}}
+.index .grp{break-inside:avoid;margin:0 0 1.6rem}
+.index .grp h4{font-family:"Frank Ruhl Libre",serif;font-weight:700;color:var(--scarlet);
+  font-size:.9rem;letter-spacing:.08em;text-transform:uppercase;margin:0 0 .5rem;
+  border-bottom:2px solid var(--gold);padding-bottom:.3rem}
+.index ol{margin:0;padding-left:1.15rem;font-size:.92rem;line-height:1.45}
+.index li{margin-bottom:.32rem}
+.index a{color:var(--ink);text-decoration:none;border-bottom:1px dotted rgba(31,58,110,.4)}
+.index a:hover{color:var(--tekhelet)}
+footer{background:var(--night);color:var(--bone);text-align:center;padding:2.8rem 1.25rem 2.4rem}
+footer p{max-width:36rem;margin:0 auto;font-style:italic;font-size:.96rem}
+footer .seal{font-family:"Frank Ruhl Libre",serif;font-style:normal;letter-spacing:.24em;color:var(--gold);font-size:.8rem;margin-top:1.3rem;text-transform:uppercase}
+@media print{.hero{min-height:auto}}
+</style>
+<style>
+.wrap{max-width:46rem;margin:0 auto;padding:2.6rem 1.25rem}
+.wrap h2{font-family:"Frank Ruhl Libre",serif;font-weight:700;color:var(--tekhelet);
+  font-size:clamp(1.5rem,1.2rem + 1.4vw,2.1rem);margin:0 0 1rem}
+.wrap p{max-width:var(--measure);margin:0 auto 1.1rem}
+.volswrap{max-width:72rem;margin:0 auto;padding:1rem 1.25rem 3rem}
+.vols{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:1.4rem}
+.vol{background:var(--night);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;
+  box-shadow:0 10px 30px rgba(14,26,48,.25)}
+.vol .stripe{height:8px}
+.vol .inner{padding:1.5rem 1.5rem 1.6rem;display:flex;flex-direction:column;gap:.55rem;flex:1}
+.vol .vnum{font-family:"Frank Ruhl Libre",serif;color:var(--goldpale);letter-spacing:.28em;
+  text-transform:uppercase;font-size:.68rem;margin:0}
+.vol h3{font-family:"Frank Ruhl Libre",serif;font-weight:700;color:var(--gold);
+  font-size:1.45rem;line-height:1.2;margin:0}
+.vol .who{color:var(--bone);font-style:italic;margin:0;font-size:1.02rem}
+.vol .cov{color:#b9c4dd;margin:0;font-size:.95rem}
+.vol .feat{color:#dfe5f2;margin:.2rem 0 0;font-size:.98rem;line-height:1.55;flex:1}
+.vol a.read{align-self:flex-start;margin-top:1rem;background:var(--gold);color:var(--night);
+  text-decoration:none;font-family:"Frank Ruhl Libre",serif;font-weight:700;letter-spacing:.06em;
+  padding:.55rem 1.1rem;border-radius:999px;font-size:.92rem}
+.vol a.read:hover{background:var(--goldpale)}
+.coverage{background:var(--night);color:var(--bone);text-align:center;padding:2.4rem 1.25rem}
+.coverage p{max-width:44rem;margin:0 auto;font-size:1.05rem}
+.coverage strong{color:var(--gold)}
+.companion{background:var(--vellum)}
+.companion ul{max-width:var(--measure);margin:0 auto;padding-left:1.2rem}
+.companion li{margin-bottom:.7rem}
+.companion .note{font-size:.9rem;opacity:.75;font-style:italic}
+footer{background:var(--night);color:var(--bone);text-align:center;padding:3rem 1.25rem;font-size:.95rem}
+footer .seal{font-family:"Frank Ruhl Libre",serif;color:var(--gold);letter-spacing:.25em;
+  text-transform:uppercase;font-size:.8rem;margin-top:1.2rem}
+footer a{color:inherit}
+</style>
+</head><body>
+<div class="veil ribbon" aria-hidden="true"></div>
+<header class="hero">
+  <div class="bg" aria-hidden="true"><svg viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
+      <rect width="1200" height="800" fill="#0E1A30"/>
+      <ellipse cx="600" cy="710" rx="660" ry="230" fill="#16294C" opacity=".8"/>
+      <g fill="#DDBE77" opacity=".95"><path d="M600 74 l7 21 21 7 -21 7 -7 21 -7 -21 -21 -7 21 -7 z"/></g>
+      <circle cx="600" cy="102" r="54" fill="#C39A3B" opacity=".14"/>
+      <path d="P" fill="none"/>
+      <rect x="230" y="560" width="740" height="18" rx="5" fill="#0A1424"/>
+      <rect x="252" y="578" width="20" height="120" fill="#0A1424"/><rect x="928" y="578" width="20" height="120" fill="#0A1424"/>
+      <g>
+        <rect x="292" y="420" width="70" height="140" rx="4" fill="#1F3A6E"/><rect x="292" y="436" width="70" height="10" fill="#C39A3B"/>
+        <rect x="372" y="408" width="70" height="152" rx="4" fill="#4B2360"/><rect x="372" y="424" width="70" height="10" fill="#C39A3B"/>
+        <rect x="452" y="420" width="70" height="140" rx="4" fill="#8F1D22"/><rect x="452" y="436" width="70" height="10" fill="#C39A3B"/>
+        <rect x="532" y="400" width="72" height="160" rx="4" fill="#1F3A6E"/><rect x="532" y="416" width="72" height="10" fill="#C39A3B"/>
+        <rect x="614" y="412" width="70" height="148" rx="4" fill="#4B2360"/><rect x="614" y="428" width="70" height="10" fill="#C39A3B"/>
+        <rect x="694" y="424" width="70" height="136" rx="4" fill="#8F1D22"/><rect x="694" y="440" width="70" height="10" fill="#C39A3B"/>
+        <rect x="774" y="410" width="70" height="150" rx="4" fill="#1F3A6E"/><rect x="774" y="426" width="70" height="10" fill="#C39A3B"/>
+        <rect x="854" y="420" width="64" height="140" rx="4" fill="#4B2360"/><rect x="854" y="436" width="64" height="10" fill="#C39A3B"/>
+      </g>
+      <circle cx="600" cy="480" r="190" fill="#C39A3B" opacity=".07"/>
+      <path d="M-10 756 Q300 736 600 748 T1210 750" stroke="#8F1D22" stroke-width="5" fill="none" opacity=".8"/>
+      <g fill="#DDBE77" opacity=".9"><circle cx="150" cy="150" r="1.7"/><circle cx="380" cy="90" r="1.3"/><circle cx="840" cy="120" r="1.4"/><circle cx="1030" cy="200" r="1.5"/><circle cx="250" cy="260" r="1.4"/><circle cx="960" cy="90" r="1.4"/></g>
+    </svg></div>
+  <div class="hero-inner">
+    <p class="eyebrow">A Complete Study Series &middot; Eight Volumes</p>
+    <h1>The Writers of the<br>New Testament</h1>
+    <p class="sub">An author-by-author study of all twenty-seven books</p>
+    <p class="motto">"These are written so that you may believe."</p>
+  </div>
+</header>
+<div class="veil ribbon thick" aria-hidden="true"></div>
+
+<section class="wrap">
+  <h2>What this is</h2>
+  <p>This series walks the entire New Testament one author at a time, because the books were written that way: by a tax collector, a physician, an interpreter, a beloved disciple, a converted persecutor, a mended fisherman, two skeptical brothers, and one majestic anonymous. Each volume opens with the author's full story, the traditional account and what modern scholars say, both stated fairly, then a toolkit of that writer's style, sound, and signatures, and then a chapter-by-chapter walk through everything he wrote. Every chapter's deep dive ends with a short summary "in plain terms," set in a gold box, so a reader can always find the road again.</p>
+  <p>Three arguments run through all eight volumes. First, nobody invents these authors: legends do not choose tax collectors, deserters, family skeptics, and anonymous preachers as their founders' voices. Second, the accents are real: the Greek of each book carries the fingerprints of its writer, a fisherman's roughness, a physician's polish, a Pharisee's trained argument, and no committee could fake the differences. Third, the chain is public: creeds older than the letters that quote them, documents read aloud in the assemblies from the first Sunday, a canon recognized in the open, tested under persecution, and copied abundantly enough to audit.</p>
+  <h2>What this is not</h2>
+  <p>It is not a devotional, not an academic commentary, and not a paraphrase of Scripture; the text quoted is the text, and the reader is expected to have a Bible open beside it. Disputed passages and disputed books are never hidden or settled by fiat: where faithful readers divide, the main readings are stated at their strongest and the reader is equipped rather than told. Corrections are welcome at the address in the footer; that offer is part of the method.</p>
+</section>
+
+<div class="veil ribbon" aria-hidden="true"></div>
+<section class="coverage">
+  <p><strong>The whole New Testament, accounted for:</strong> four Gospels, the Acts of the Apostles, twenty-one letters, and the Revelation, all twenty-seven books, each in its author's volume below.</p>
+</section>
+
+<section class="volswrap">
+  <div class="vols"><article class="vol"><div class="stripe veil"></div><div class="inner"><p class="vnum">Volume One</p><h3>The Writings of John</h3><p class="who">The beloved disciple, the thunder-son who outlived them all</p><p class="cov">The Gospel of John &middot; 1, 2 &amp; 3 John &middot; Revelation</p><p class="feat">The eyewitness texture, the Word made flesh, the seven signs, the "these are written so that you may believe" thesis, and the series' first chapters on how the canon formed.</p><a class="read" href="the-writings-of-john.html">Read the volume</a></div></article><article class="vol"><div class="stripe veil"></div><div class="inner"><p class="vnum">Volume Two</p><h3>The Writings of Luke</h3><p class="who">The Gentile physician who investigated everything from the beginning</p><p class="cov">The Gospel of Luke &middot; The Acts of the Apostles</p><p class="feat">The historian tested against the ground he describes, the best Greek in the collection, the Magnificat, the women Luke alone preserves, and the linguistic case that real distinct authors stand behind these books.</p><a class="read" href="the-writings-of-luke.html">Read the volume</a></div></article><article class="vol"><div class="stripe veil"></div><div class="inner"><p class="vnum">Volume Three</p><h3>The Writings of Mark</h3><p class="who">The interpreter of Peter, the young man who fled and was restored</p><p class="cov">The Gospel of Mark</p><p class="feat">Peter's preaching on the page with the tape hiss still audible: the Aramaic preserved, the accent argument, the deserter of Perga requested by name from the death cell.</p><a class="read" href="the-writings-of-mark.html">Read the volume</a></div></article><article class="vol"><div class="stripe veil"></div><div class="inner"><p class="vnum">Volume Four</p><h3>The Writings of Matthew</h3><p class="who">The tax collector who counted money and mercy in the same columns</p><p class="cov">The Gospel of Matthew</p><p class="feat">The fulfillment formulas, the five great discourses, the Sermon on the Mount, and the ledger-keeper's Gospel of the kingdom, written for the synagogue reader first.</p><a class="read" href="the-writings-of-matthew.html">Read the volume</a></div></article><article class="vol"><div class="stripe veil"></div><div class="inner"><p class="vnum">Volume Five</p><h3>The Writings of Paul</h3><p class="who">The persecutor whose reversal no natural account survives</p><p class="cov">Romans through Philemon: all thirteen letters</p><p class="feat">The largest volume in the series: Damascus weighed as evidence, the creeds older than the letters, every disputed passage given both readings at strength, and the cell at the end: the cloak, the books, above all the parchments.</p><a class="read" href="the-writings-of-paul.html">Read the volume</a></div></article><article class="vol"><div class="stripe veil"></div><div class="inner"><p class="vnum">Volume Six</p><h3>The Writings of Peter and Jude</h3><p class="who">The mended fisherman, and the Lord's brother who called himself a servant</p><p class="cov">1 &amp; 2 Peter &middot; Jude</p><p class="feat">One man sounding three ways through three pens, the living stones, the two wolf-manuals, Scripture's own account of its inspiration, and the canon bombshell: Paul's letters ranked "with the other Scriptures" inside the first century.</p><a class="read" href="the-writings-of-peter-and-jude.html">Read the volume</a></div></article><article class="vol"><div class="stripe veil"></div><div class="inner"><p class="vnum">Volume Seven</p><h3>The Writings of James</h3><p class="who">The other brother: skeptic, pillar, martyr attested by Josephus</p><p class="cov">The Letter of James</p><p class="feat">The Proverbs of the New Testament: faith that works or lies there a corpse, the tongue as rudder and fire, the Sermon on the Mount remembered in the family idiom, and the Magnificat, his mother's song, as the letter's home key.</p><a class="read" href="the-writings-of-james.html">Read the volume</a></div></article><article class="vol"><div class="stripe veil"></div><div class="inner"><p class="vnum">Volume Eight</p><h3>The Writings of Hebrews</h3><p class="who">The majestic anonymous: "who wrote it, God alone knows"</p><p class="cov">Hebrews &middot; with the full Story of the Canon</p><p class="feat">Melchizedek, the better covenant, the torn veil, the hall of faith, the unshakable kingdom, and the series' capstone: how the twenty-seven books became the Book, recognition, not coronation.</p><a class="read" href="the-writings-of-hebrews.html">Read the volume</a></div></article></div>
+</section>
+
+<div class="veil ribbon" aria-hidden="true"></div>
+<section class="wrap companion">
+  <h2>Companion studies</h2>
+  <p>The series cross-references a wider shelf of studies by the same author:</p>
+  <ul>
+    <li><a href="christ-revealed-in-the-torah">Christ Revealed in the Torah</a> &mdash; the capstone companion: the shadow-and-substance reading of the Law, the Prophets, and the Writings.</li>
+    <li><a href="brides-built-of-adams.html">The Brides Built of Adams</a> &mdash; the thread on women in the story of redemption, from Eden's rib to the Bride of the Lamb.</li>
+    <li><a href="who-was-Jesus-anyways.html">Who Was Jesus Anyways</a> &mdash; the evidence a reader can check: sources, creeds, dates, and the case for the resurrection.</li>
+    <li><a href="believe-into-him.html">Believe Into Him</a> &mdash; the verb that English broke: the Hebrew and Greek vocabulary of faith, weight planted, not opinion held.</li>
+    <li><a href="his-feet-like-burnished-bronze.html">His Feet Like Burnished Bronze</a> &mdash; four words from Eden to the throne room: serpent, bronze, the burning ones, and the expectant gaze.</li>
+    <li><a href="suffering-with.html">Suffering With</a> &mdash; the true definition of compassion, and what the Bible actually says to the desperate: bread, sleep, and presence.</li>
+  </ul>
+</section>
+
+<div class="veil ribbon" aria-hidden="true"></div>
+<footer>
+  <p>"The Writers of the New Testament," complete in eight volumes.<br>
+  By the same author: <a href="index.html">Mahaffey: the Incredible Origin of the Surname and the Bloodline</a>.</p>
+  <p class="seal">Eight Volumes &middot; Twenty-Seven Books &middot; One Voice</p>
+  <p style="margin-top:1.4rem;font-size:.82rem;opacity:.75;line-height:1.7">
+    Last updated 31 August 2026. Corrections welcome: <a href="mailto:hmahaffeyges@aol.com">hmahaffeyges@aol.com</a>
+  </p>
+</footer>
+</body>
+</html>
