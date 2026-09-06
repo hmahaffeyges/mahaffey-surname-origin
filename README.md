@@ -54,10 +54,23 @@ Last updated 25 August 2026.
 - **[Blood of the North Atlantic](https://hmahaffeyges.github.io/mahaffey-surname-origin/blood-of-the-north-atlantic)** — a father's letter on the family's North Atlantic lines: the Faroes, Iceland, and the sea roads the blood remembers.
 - **[Covenant of the Horizon](https://hmahaffeyges.github.io/mahaffey-surname-origin/covenant-of-the-horizon)** — a story of two brothers, a horse's ten-thousand-year return, and the American West.
 
-**Theology library**
+**Theology library: Eyewitnesses of His Majesty, and the Scriptures He Opened to Them**
 
-- **[The Writers of the New Testament](https://hmahaffeyges.github.io/mahaffey-surname-origin/the-writers-of-the-new-testament)** — the series hub: eight volumes covering all twenty-seven books of the New Testament, author by author, chapter by chapter, with plain-language summaries.
-- **[Christ Revealed in the Torah](https://hmahaffeyges.github.io/mahaffey-surname-origin/christ-revealed-in-the-torah)** — the capstone companion volume.
+A free, complete, book-by-book study of the whole Bible in two series, meant to be read in order. Start at the project page:
 
-Further studies are linked from the series hub.
+- **[Eyewitnesses of His Majesty, and the Scriptures He Opened to Them](https://hmahaffeyges.github.io/mahaffey-surname-origin/eyewitnesses-and-the-scriptures-he-opened)** — the front door: what the project is, what makes it different, how to read it, and about the author.
 
+*Series one, read first:*
+
+- **[The Writers of the New Testament](https://hmahaffeyges.github.io/mahaffey-surname-origin/the-writers-of-the-new-testament)** — eight volumes covering all twenty-seven books, one author at a time (John, Luke, Mark, Matthew, Paul, Peter and Jude, James, Hebrews), with the historical evidence, the story of the canon, and plain-language summaries. **[Sources](https://hmahaffeyges.github.io/mahaffey-surname-origin/sources)** for the series, every claim linked to a public copy.
+
+*Series two, read second:*
+
+- **[The Old Testament Unveiled: The Scriptures He Opened](https://hmahaffeyges.github.io/mahaffey-surname-origin/the-old-testament-unveiled)** — eight volumes walking the whole Hebrew Bible in the order Jesus named it, the Law, the Prophets, and the Writings (the Torah; the Former Prophets; the Latter Prophets; the Twelve; the Psalms; the Wisdom Books; the Scrolls and the Court Tales; Chronicles, Ezra and Nehemiah), with every New Testament citation marked and the synagogue's reading stated beside it, from Rashi, the Targums, and the Talmud.
+- **[Before You Begin: What the Tanakh Is](https://hmahaffeyges.github.io/mahaffey-surname-origin/before-you-begin)** — the orientation to read before Volume One: the three shelves of the Jewish Bible, the canon in Jesus's day and today, why the Christian Old Testament is ordered differently, the other Jewish books the apostles knew, and what Jews study today.
+- **[The Books Between the Testaments](https://hmahaffeyges.github.io/mahaffey-surname-origin/the-books-between-the-testaments)** — the companion volume, read after the eight: Enoch, Jubilees, the Testaments, the Maccabees, Tobit, Judith, Ben Sira, the Wisdom of Solomon, the Psalms of Solomon, 4 Ezra, the Dead Sea Scrolls, Philo, and Josephus, each dated, described, traced through its New Testament echoes, and explained: why it is not on the shelf.
+- **[Sources for The Old Testament Unveiled](https://hmahaffeyges.github.io/mahaffey-surname-origin/ot-sources)** — the Hebrew text and its oldest manuscripts, the Talmud, Targums, and Rashi on Sefaria and Chabad, the ancient witnesses to the canon, and the inscriptions at their museums' own records.
+
+*Shorter studies:* Christ Revealed in the Torah, The Brides Built of Adams, Who Was Jesus Anyways, Believe Into Him, His Feet Like Burnished Bronze, and Suffering With are linked from both series hubs and from the project page.
+
+**Also by the author:** *(IAM) Informational Actualization Model: The Synthesis: How Modern Physics, Classical Philosophy, and Christian Theology Converge on a Coherent Vision of Reality* — the book, on Amazon, and its public science in the [IAM-Validation](https://github.com/hmahaffeyges/IAM-Validation) repository: the papers, the code, and the MCMC chains, open to replication and review.
