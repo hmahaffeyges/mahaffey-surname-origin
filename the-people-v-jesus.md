@@ -1,0 +1,2133 @@
+# The People v. Jesus of Nazareth
+
+## A Cross-Examination
+
+### A court-case handbook for the skeptic, the believer, and the juror in between (The Scriptures He Opened)
+
+---
+
+## THE RULES OF THE COURT
+
+### The premise
+
+Every objection that can be brought against Jesus of Nazareth, his existence, his words, his death, his resurrection, and the documents that report them, is here, stated at its strongest and in the form its best proponents give it, with those proponents named. That is the prosecution's filing, and it was assembled first, before a word of defense was written, from the mythicists, the textual critics, the New Atheists, the Muslim apologists, the Jewish counter-missionaries, the philosophers, the Satanists, the other Jesuses, and the comment sections where most of these arguments actually live. Then each count is answered. Not waved at: answered, with the evidence linked so the reader can check it, and with the weight of that evidence stated in the open so the reader can disagree on the record.
+
+### The format
+
+Every count receives the same panels. **The Prosecution** states the objection in full, with its proponents. **The Defense** answers it. **The Exhibits** link the evidence: the manuscripts, the inscriptions, the ancient authors, the museum records, the Talmud and the Qur'an where they are the witnesses, and the study-guide volumes of this series where a question has already been walked at length. Where a matter of historical fact is in dispute, a fourth panel, **The Weight**, scores the evidence on the criteria historians actually use: multiple independent attestation, early attestation, embarrassment (would anyone have invented this?), hostile corroboration (do the enemies confirm it?), coherence, and archaeological anchoring. Where the count is a question of doctrine or meaning rather than fact, the fourth panel is **The Standing**: what the answer rests on, so the reader knows whether he is weighing evidence or weighing a reading.
+
+### The standard
+
+The reader is the jury. The handbook does not ask for faith; it asks for the standard a court asks for, and it names which standard each count meets: preponderance of the evidence, clear and convincing evidence, or beyond reasonable doubt. Some counts meet the last; some meet only the first; a few are not questions of evidence at all, and the handbook says so rather than pretending. No probability number is offered for the resurrection, because such numbers (they exist, on both sides, and reach opposite conclusions from the same theorem) hide their assumptions inside the arithmetic; a scorecard shows the reader where the weight comes from.
+
+### The order
+
+The witnesses are called in the order a reader can follow: the questions everyone asks; the claim that he never existed; the documents; the canon; the claims themselves, count by count; then the New Atheist, the Muslim, the Jewish, and the philosophical witnesses, each deeper than the last; the minor witnesses; and finally the comparables (Jesus beside Alexander, Caesar, Tiberius, Socrates, Hannibal, the Buddha, and Muhammad on the same scorecard) and the verdict method. Read in order, the case builds; read by count, each stands alone.
+
+---
+
+## PART ONE: THE QUESTIONS EVERYONE ASKS
+
+*Witness: the gallery. What people actually type in the comments. Short questions, answered shortly, each with a door into the deeper chapters where the same question returns at full weight.*
+
+### Count 1. If Jesus was God, who was running the universe while he was dead?
+
+**The Prosecution.** The most common question in every comment thread, and a fair one: Christianity says Jesus is God and that Jesus died. Either the universe was unattended for three days, or he was not really dead, or he was not really God.
+
+**The Defense.** The question assumes God is a single being who was wholly located in a corpse, which is not what the doctrine says. Christian teaching from the first century on (John 1:1-3, 14; Colossians 1:16-17; Hebrews 1:3) is that the Son is the one "through whom all things were made" and who "upholds the universe by the word of his power," and that this Son, without ceasing to be that, took on a human nature and lived a human life that ended in a human death. What died on the cross was the man, Jesus of Nazareth, body and soul parted as every human death parts them; what did not and cannot die is the divine nature the Son never laid down, nor the Father and the Spirit, who were never on the cross at all. "Who was running the universe" is answered the way it is answered on any Tuesday: God was, as he always is, the Son included, since the Son's holding of the cosmos was never done from a body in the first place. The paradox the question feels is real, and it is the same paradox as the incarnation itself: how the infinite can take on the finite without ceasing to be infinite. Count 176 (the Philosopher's witness) takes that paradox at full length. The short answer is that Christians have always said God did not stop being God when a Galilean stopped breathing, because the Galilean's breathing was never what held the stars up.
+
+**The Exhibits.** John 1:1-14; Colossians 1:15-20; Hebrews 1:1-4; Philippians 2:5-11 (the "emptying"); the Chalcedonian Definition of 451 (two natures, one person, "without confusion, without change, without division, without separation").
+
+**The Standing.** A question of doctrine, not fact. It rests on what "God" and "died" mean in the claim, which the claim itself defines; it is answered by the doctrine's own terms, and the terms are older than the objection.
+
+### Count 2. Why did Jesus have to die? Couldn't God just forgive?
+
+**The Prosecution.** A father forgives his child without demanding a death. A God who cannot forgive without blood is either bound by a law above himself or bloodthirsty. Either way, the cross was unnecessary.
+
+**The Defense.** God does forgive freely; the question is what forgiveness costs, and the answer, in every human case, is that it costs the forgiver. When you forgive a debt, you absorb the loss; when you forgive a wrong, you carry what the wrongdoer should have carried. Forgiveness is never free; it is free to the forgiven because it is paid by the forgiver. The cross is that principle at the scale of the world: not God demanding payment from a third party, but God, in the Son, absorbing the cost himself, "God was in Christ reconciling the world to himself, not counting their trespasses against them" (2 Corinthians 5:19). Why a death rather than a decree? Because the wrong being forgiven was itself death-dealing; because justice, which a good God cannot suspend without ceasing to be good, requires that evil be named and answered rather than ignored; and because the Bible's whole account of sin is that it separates from the source of life, so that the remedy had to be someone entering that separation from the inside and coming out. Isaiah put it eight centuries early: "the chastisement that brought us peace was upon him." Could God have done it otherwise? Aquinas thought so and said this way was the most fitting; the church has never claimed to know the alternatives. What it claims is that this is the way he chose, and that it was not a demand made of someone else. Counts 174 and 175 take the justice of it at full length.
+
+**The Exhibits.** Isaiah 53; Romans 3:21-26; 2 Corinthians 5:18-21; Hebrews 9-10; Volume Three of the Old Testament series (Isaiah 53); Volume Six (Job as the innocent sufferer); Aquinas, *Summa Theologiae* III.46.
+
+**The Standing.** Doctrine. It rests on what forgiveness is; the defense's claim is that the objection describes a forgiveness that exists nowhere, not even among us.
+
+### Count 3. Why does God need blood?
+
+**The Prosecution.** The Old Testament is drenched in animal sacrifice, and the New Testament says "without the shedding of blood there is no forgiveness" (Hebrews 9:22). This is a primitive idea, the god who must be fed.
+
+**The Defense.** God does not need blood; the point of the sacrificial system was to teach that blood was needed, which is a different claim. Leviticus says it directly: "the life of the flesh is in the blood... it is the blood that makes atonement by the life" (17:11). Blood is life made visible; the sacrifice taught, at the altar, every day, that sin costs a life, that the worshiper's own life was forfeit, and that God accepted a substitute. The prophets then spent centuries insisting that God did not want the blood itself: "I desire mercy, and not sacrifice" (Hosea 6:6); "the sacrifices of God are a broken spirit" (Psalm 51:17); "sacrifice and offering you have not desired" (Psalm 40:6). The pagan gods needed feeding; Israel's God said "if I were hungry, I would not tell you, for the world and its fullness are mine" (Psalm 50:12). What Hebrews means by "without the shedding of blood" is not that God is paid in blood but that forgiveness costs a life, and that the life given was, at the last, his own. A God who needed blood would have kept the altars running. This one ended them, by providing the Lamb himself, exactly as Abraham was told on Moriah: "God will provide for himself the lamb." Count 174 returns to this.
+
+**The Exhibits.** Leviticus 17:11; Genesis 22:8; Hosea 6:6; Psalm 40:6-8 and 50:8-15; Micah 6:6-8; Hebrews 9:11-10:18; Volume One of the Old Testament series (Leviticus); Volume Four (Hosea 6:6, the verse Jesus assigned twice as homework).
+
+**The Standing.** Doctrine; rests on what the sacrificial system was for, which the Old Testament states repeatedly in its own voice.
+
+### Count 4. If Jesus knew he would rise, what did he actually sacrifice? A bad weekend?
+
+**The Prosecution.** A being who knows with certainty that he will be alive again in thirty-six hours and reign forever has not paid an infinite price. Human martyrs risk everything; he risked nothing. (The Philosopher's witness restates this as Count 175.)
+
+**The Defense.** The objection measures sacrifice by duration and outcome, and neither is what the Gospels say the cost was. The cost was not the length of the death but its content: a real human death, with the fear a human feels ("my soul is very sorrowful, even to death," and sweat like blood in the garden), the pain of the most deliberately cruel execution the ancient world devised, and, beneath both, the thing the Gospels place at the center and the objection never mentions, the forsakenness: "My God, my God, why have you forsaken me?" The Christian claim is that on the cross the Son experienced, from the inside, the separation from God that sin produces, which is the one thing he had never known and the one thing worse than death. Knowing you will survive a surgery does not make the surgery painless; knowing you will be reunited does not empty a parting. And the knowledge itself was not what the objection imagines: the Gospels show a man who trusted his Father's promise, not a man watching a script, "Father, if it be possible, let this cup pass," and then drinking it. Martyrs risk their lives; he gave his, and the giving was not less real for the promise on the other side of it. Isaiah's servant "poured out his soul to death"; the pouring is the sacrifice, not the emptiness of the vessel afterward.
+
+**The Exhibits.** Mark 14:32-42; Matthew 27:46 and Psalm 22 (Volume Five of the Old Testament series, "the psalm the Crucified prayed"); Luke 22:44; Hebrews 5:7-9; Isaiah 53:12.
+
+**The Standing.** Doctrine and text. It rests on what the Gospels report the cross to have been, which the objection has not read closely.
+
+### Count 5. Why didn't Jesus write anything himself?
+
+**The Prosecution.** A teacher who wanted his message preserved would have written it. That we have only others' reports, decades later, suggests either that there was no message worth keeping or that the followers invented it.
+
+**The Defense.** Neither did Socrates, the Buddha, Confucius, Pythagoras, or Muhammad, whose Qur'an was recited and later compiled by others; the greatest teachers of the ancient world taught by voice and were preserved by disciples, because that is how teaching worked in an oral culture, and no historian doubts Socrates because Plato wrote him down. The Gospels are, in fact, unusually close to their subject by ancient standards: Mark within forty years, all four within seventy, while the eyewitnesses were alive (Paul names five hundred "most of whom are still alive"), and the earliest Christian creed is dated within five years of the crucifixion (Count 29). What Jesus did instead of writing was train twelve men for three years and commission them to teach what he had taught (Matthew 28:20), which in a first-century Jewish setting, where rabbis' students memorized their masters' sayings verbatim, was the normal and reliable method. The one time the Gospels show him writing, he wrote in the dust, and no one recorded the words (John 8:6). Count 19 (the documents) takes up the dating; Count 21, the transmission.
+
+**The Exhibits.** Matthew 28:18-20; Luke 1:1-4; 1 Corinthians 15:3-8; Bauckham, *Jesus and the Eyewitnesses*; the Gospel-dating discussion in "The Writers of the New Testament."
+
+**The Standing.** Historical context. The objection is answered by every other founder in antiquity.
+
+### Count 6. Why did the Jews, who knew the prophecies best, reject him?
+
+**The Prosecution.** The people who wrote and studied the prophecies for a thousand years looked at Jesus and said no. Their verdict should count more than a Gentile church's.
+
+**The Defense.** First, the premise is wrong about the numbers: the entire first church was Jewish, thousands in Jerusalem within weeks (Acts 2:41; 21:20), the apostles, the writers of every New Testament book but Luke, and a Jewish-Christian presence in the land for centuries. The question is not why the Jews rejected him but why the Jewish leadership did while a Jewish minority did not, and the Gospels give the leadership's reason in their own words: he did not fit the Messiah they expected. That expectation is documented outside the New Testament (the Psalms of Solomon 17: a conquering son of David who purges Jerusalem of Gentiles), and a crucified man was its opposite, "a stumbling block to Jews" (1 Corinthians 1:23). Second, the rejection was itself foretold, by the same prophets, as the Servant "despised and rejected," the stone "the builders rejected," and Israel's own long pattern of rejecting its prophets before honoring them, which Jesus named ("Jerusalem, Jerusalem, who kills the prophets"). Third, Paul, a Pharisee trained under Gamaliel, spent three chapters on this exact question (Romans 9-11) and answered that the rejection was partial, temporary, and providential, the root remaining holy and the branches to be grafted back. The Jewish witness (Part Eight) presents the counter-missionary case at full strength, and this handbook answers it there, text by text.
+
+**The Exhibits.** Acts 2:41, 4:4, 21:20; Romans 9-11; Isaiah 53:3; Psalm 118:22; Psalms of Solomon 17 (companion volume, "The Books Between the Testaments"); the orientation page on the canon Jesus read.
+
+**The Standing.** History and text. The premise ("the Jews rejected him") is a generalization the first century's own numbers contradict.
+
+### Count 7. Why didn't Jesus appear to Pilate, Caiaphas, or the crowds after rising? A public appearance would have settled it.
+
+**The Prosecution.** He appeared only to his already-devoted followers. If he wanted the world to believe, one walk through the Sanhedrin would have ended the argument forever. (Restated by the Philosopher as Count 180.)
+
+**The Defense.** He did appear to the hostile and the uncommitted: to his brother James, who had thought him mad (1 Corinthians 15:7; Mark 3:21), and to Saul of Tarsus, the church's most dangerous enemy, on the road to arrest Christians (Acts 9), the two conversions no hallucination theory can explain and the two witnesses a fabricator would never choose. As for Pilate and Caiaphas: the Gospels' own theory of belief answers it. "If they do not hear Moses and the Prophets, neither will they be convinced if someone should rise from the dead" (Luke 16:31), and the record bears it out: the Sanhedrin had already seen Lazarus walk out of a tomb and responded by plotting to kill Lazarus (John 12:10); the guards reported the empty tomb and the leaders paid them to lie (Matthew 28:11-15). Spectacle does not produce faith in the unwilling; it produces a new cover story. Beyond that, the question asks God to have chosen coercion over witness: a resurrection performed before Tiberius would have left the world no choice, and the whole method of the Gospels, from the manger to the ascension, is that God does not compel belief, he invites it through people who saw and were willing to die saying so. Five hundred at once, the Twelve, the women, the skeptic brother, the persecutor: the list was built for a court, and it was published in the city where the tomb was.
+
+**The Exhibits.** 1 Corinthians 15:3-8; Acts 9; Galatians 1:13-19; Luke 16:19-31; John 11:45-53, 12:9-11; Matthew 28:11-15; the resurrection chapter of "Who Was Jesus Anyways."
+
+**The Standing.** Text and history. The appearances to James and Paul are the exhibits; the rest is the Gospels' own account of how belief works.
+
+### Count 8. Why did the miracles stop?
+
+**The Prosecution.** Healings, water to wine, the dead raised: all in one generation, then nothing but claims. If God did it once, why not now, on camera?
+
+**The Defense.** Two answers, one from the Bible and one from the record. The Bible never presents miracles as evenly distributed; they cluster in three periods, the Exodus, the ministries of Elijah and Elisha, and the ministry of Jesus and the apostles, each at a hinge of revelation, with long stretches between where "the word of the LORD was rare" (1 Samuel 3:1). Miracles in Scripture are signs, not services; they attend the giving of the message, not its maintenance. That is why the apostles could heal and their grandchildren could not; the foundation was laid once. The record then complicates the "nothing since" claim: the church has never held that miracles ceased entirely, and the documentation of the modern period is not nothing (the Lourdes Medical Bureau's rules for verified cures are stricter than most journals'; Craig Keener's two-volume *Miracles* assembles medically attested cases). But the honest Christian answer is the first one: the miracles were the credentials of the message, and the message is now the thing to be weighed, which is what this handbook is doing.
+
+**The Exhibits.** 1 Samuel 3:1; John 20:30-31 ("these are written so that you may believe"); Hebrews 2:3-4; Keener, *Miracles* (2011); the Lourdes International Medical Committee's criteria.
+
+**The Standing.** Doctrine and record. The premise ("if once, why not always") is not a premise the Bible ever held.
+
+### Count 9. Where is Jesus now, physically?
+
+**The Prosecution.** Christians say he rose bodily and ascended. A body has a location. Where is it? Somewhere above the clouds? The claim is either childish cosmology or an admission that the resurrection was not physical.
+
+**The Defense.** The ascension narrative does not say he went to a place in the sky; it says "a cloud took him out of their sight" (Acts 1:9), the cloud being, throughout the Old Testament, the sign of God's presence (Sinai, the tabernacle, the temple's dedication, the transfiguration), not a weather report. The claim is that the risen body passed from this creation into God's presence, "heaven" in the Bible's sense of the dimension of God's rule rather than the sky, from which the same body will return to a renewed earth (Acts 1:11; Romans 8; Revelation 21). Where is it "physically"? In the same sense that the risen body already defied ordinary location before the ascension, appearing in a locked room and vanishing at Emmaus while eating fish and bearing wounds (Luke 24; John 20): Paul's term is "a spiritual body," not a spirit but a body no longer subject to death, the firstfruits of a physics we have not seen yet (1 Corinthians 15:42-49). The honest answer is that Christianity claims the resurrection body is a new kind of thing, and that "where" is a question about the old kind. That is not an evasion; it is the claim, and it was the claim from the first Easter, when the same disciples who touched him could not hold him.
+
+**The Exhibits.** Acts 1:9-11; Luke 24:13-43; John 20:19-29; 1 Corinthians 15:35-58; Exodus 40:34-38; Daniel 7:13.
+
+**The Standing.** Doctrine; rests on what the New Testament says the resurrection body is, which is stranger than the objection assumes.
+
+### Count 10. If God wrote the Bible, why are there so many contradictions?
+
+**The Prosecution.** Two creation orders, two flood chronologies, two genealogies, four resurrection mornings that do not match, Judas dead two ways. A divine author would not contradict himself.
+
+**The Defense.** God did not write the Bible in the sense the objection assumes; Christians have never claimed dictation. The claim (2 Timothy 3:16; 2 Peter 1:21) is that God breathed through human authors who wrote in their own words, genres, and perspectives, which is why Luke opens by describing his research method (1:1-4). Four witnesses who agreed in every detail would be, in any court, evidence of collusion; four who agree on the event and differ on the peripheral details are what independent testimony looks like, and the resurrection accounts are the textbook case: every one has the tomb empty on the first day of the week, women first, Mary Magdalene named, and a proclamation that he is risen, while the number of angels, the order of arrivals, and who ran where vary exactly as eyewitness reports of one morning vary. Many "contradictions" dissolve on reading (Judas hanged himself, and the rope or branch gave and the body fell and burst, both accounts true of one death, as Augustine saw); some are differences of purpose (Matthew's genealogy is legal and royal, Luke's is another line); a few are real difficulties the church has always acknowledged (Count 21 walks them). What none of them touches is the thing the objection needs: a contradiction in the core testimony. There is none.
+
+**The Exhibits.** Luke 1:1-4; 2 Timothy 3:16; the harmonization of Matthew 27:5 and Acts 1:18; the resurrection-narrative comparison in "The Writers of the New Testament"; Counts 20-21 of this handbook (the documents).
+
+**The Standing.** Doctrine (what inspiration means) and text. The premise misdescribes the claim.
+
+### Count 11. Why does the Bible never mention dinosaurs, the Americas, or germs?
+
+**The Prosecution.** A book from God would know what God knows. Its silence on the world beyond the Mediterranean and the science beyond the Iron Age proves it is a human book of its time.
+
+**The Defense.** It is a human book of its time, as the previous count said; that is how God chose to give it, in the languages, images, and knowledge of the people he gave it to, which is what "the Word became flesh" means at the level of a text. The Bible is not an encyclopedia and never claims to be; it is the record of God's dealings with one people so that all peoples could learn who he is, and it says so (John 20:31). A Bible that discussed antibiotics to Bronze Age shepherds would have been unintelligible for three thousand years and would still have been incomplete to us. The objection is really a demand that revelation be a science textbook, and the church's answer since Augustine has been that "the Spirit of God who spoke through the sacred writers did not wish to teach men these things, which would be of no use for their salvation." As for the Americas: the same objection applies to every ancient text ever written, and no one thinks Herodotus a fraud for not knowing Peru. Count 118 (the New Atheist witness) takes Genesis and science at full length.
+
+**The Exhibits.** John 20:31; Augustine, *Literal Meaning of Genesis* 2.9; Galileo's Letter to the Grand Duchess Christina (quoting Baronius: "the Bible teaches how to go to heaven, not how the heavens go").
+
+**The Standing.** Doctrine (what the Bible is for). The objection sets a standard the Bible never proposed for itself.
+
+### Count 12. Where did Cain's wife come from?
+
+**The Prosecution.** Adam, Eve, Cain, Abel. Cain kills Abel and then "knew his wife" and builds a city. Who did he marry, and who lived in the city? Genesis is not even internally coherent.
+
+**The Defense.** Genesis answers it itself, two verses after the question is usually asked: "The days of Adam after he fathered Seth were 800 years; and he had other sons and daughters" (5:4). Cain married a sister or a niece, which is what the text implies and what the earliest readers, Jewish and Christian, assumed; the prohibition on sibling marriage comes at Sinai, two thousand years of genetic drift later, and Abraham was still married to his half-sister with no comment. The city and Cain's fear of "whoever finds me" (4:14) show a population beyond the named four, which the text takes for granted and the reader is meant to. The count belongs on the docket only because it is asked so often; its answer is in the same chapter. (The series' Old Testament Volume One walks the primeval history; the timeline shows its internal count of years.)
+
+**The Exhibits.** Genesis 4:14-17; 5:4; 20:12; Leviticus 18:9.
+
+**The Standing.** Text. Answered by the passage itself.
+
+### Count 13. Why does God allow Satan to exist?
+
+**The Prosecution.** An all-powerful God could end evil's source in an instant. That he does not means either he cannot or he will not, and neither is a good God.
+
+**The Defense.** The question is the problem of evil with a name attached, and the New Atheist witness raises it at full length (Count 112); here, the short form. The Bible's answer is not that God tolerates Satan but that he has sentenced him and stayed the execution for the sake of the harvest: "the God of peace will soon crush Satan under your feet" (Romans 16:20), and the "soon" is measured by the same patience that keeps the wheat and the tares in one field "until the harvest" lest the wheat be torn up with them (Matthew 13:24-30). Why permit any evil at all? Because a world with genuinely free creatures is a world in which rebellion is possible, and God chose, at Eden, a world with real choosers over a world of puppets; the alternative to permitting Satan's rebellion was not permitting anyone's love. The cross is the Bible's own statement that God's answer to evil is not to switch it off from outside but to enter it and defeat it from inside, and the resurrection is the down payment on the day the field is reaped. The timing is the whirlwind's business, not ours; Job asked the same question and was answered with a tour of a universe larger than his complaint.
+
+**The Exhibits.** Job 38-42 (Old Testament series, Volume Six); Matthew 13:24-30; Romans 16:20; Revelation 20:10; 2 Peter 3:9 ("patient... not wishing that any should perish").
+
+**The Standing.** Doctrine. Rests on the free-will defense and the parable of the tares; the full argument is at Count 112.
+
+### Count 14. Why is Jesus white in every painting?
+
+**The Prosecution.** A first-century Galilean Jew was a Middle Eastern man with brown skin and dark hair. The blue-eyed Jesus of Western art is a lie, and the lie shows the religion is a European construction.
+
+**The Defense.** The prosecution is right about the man and wrong about the inference. Jesus was a Galilean Jew, and looked like one; the earliest Christian art, in the Roman catacombs and on the sarcophagi, shows him as a beardless Mediterranean youth, and the Byzantine icons, the Ethiopian manuscripts, the Chinese scrolls, and the Andean paintings each show him as one of their own, which is the point: every culture has painted him as its own because the claim was always that he came for every culture. The Northern European Jesus is the Northern European church painting itself, no different from the Ethiopian church painting an Ethiopian; the mistake is not that Europeans did it but that European power made their version travel. Nothing in the faith depends on his appearance, which is why no Gospel describes it, and the one Old Testament line about it says "he had no form or majesty that we should look at him" (Isaiah 53:2). If the objection is that the religion is a European construction, its founders, its Scriptures, its first churches, and its first three centuries of martyrs answer it: they were Jews, Syrians, Greeks, Egyptians, and North Africans, and Europe was the mission field.
+
+**The Exhibits.** Isaiah 53:2; the Dura-Europos house church (c. 240); the catacomb of Callixtus; Ethiopian and Coptic iconography; the Nubian and Chinese Nestorian art.
+
+**The Standing.** History and art. Concedes the premise and denies the conclusion.
+
+### Count 15. If the Bible is true, why do Christians ignore its dietary laws and wear mixed fabrics?
+
+**The Prosecution.** Leviticus forbids shellfish, pork, and wool-linen blends, and Christians cite Leviticus against homosexuality while eating bacon. Either keep the whole law or admit you are picking and choosing.
+
+**The Defense.** The distinction is not the Christians' invention; it is the New Testament's, and the Old Testament's before it. The Torah itself separates the moral law (the Ten Words, the commands about neighbor, the sexual ethics of Leviticus 18, which are grounded in creation and applied to the nations too) from the ceremonial and purity law that marked Israel off from the nations (diet, fabrics, festivals, sacrifice), and the prophets said the second existed for the sake of the first. The New Testament then records, as history, the moment the ceremonial law's purpose was declared fulfilled: Peter's vision ("what God has made clean, do not call common"), the Jerusalem council's ruling that Gentiles are not bound by it, and Paul's teaching that these were "a shadow of the things to come." The moral law was never suspended; Jesus intensified it ("you have heard... but I say"), and the New Testament repeats every one of the Ten Words except the Sabbath's form. So the Christian who eats bacon and holds Leviticus 18's ethics is not picking and choosing; he is following the distinction the apostles drew in Acts 15, which is older than the objection by nineteen centuries. The Old Testament series' Volume One walks Leviticus, and the handbook's Count 92 (the Muslim witness) returns to the law.
+
+**The Exhibits.** Acts 10-11, 15; Mark 7:19; Colossians 2:16-17; Hebrews 8-10; Matthew 5:17-48; the discussion of the law's three parts in Aquinas, *Summa* I-II.99.
+
+**The Standing.** Doctrine and text. Answered by Acts 15, which the objection has not read.
+
+### Count 16. What about the people before Jesus, or who never heard of him?
+
+**The Prosecution.** If Jesus is the only way, then everyone born before AD 30 and everyone born since who never heard the name is damned by geography. That is not justice.
+
+**The Defense.** Scripture and the church have never taught what the objection attributes to them. Hebrews 11 lists the saved from before Abraham, Abel, Enoch, Noah, and states the rule that covers everyone: "whoever would draw near to God must believe that he exists and that he rewards those who seek him." Paul says the nations without the law are judged by the law "written on their hearts" (Romans 2:14-16), that God overlooked "the times of ignorance" (Acts 17:30), and that the cross reaches backward, God "in his divine forbearance having passed over former sins" (Romans 3:25). Peter says "in every nation anyone who fears him and does what is right is acceptable to him" (Acts 10:35). The church's formal teaching, from Justin's "those who lived by reason were Christians before Christ" to Vatican II's *Lumen Gentium* 16, is that those who never heard are judged by the light they had, and that Christ's death is the ground of their salvation whether they knew his name or not. "No one comes to the Father except through me" is a claim about the road, not about who has to have read the map. Count 116 (the New Atheist witness) returns to the justice of it.
+
+**The Exhibits.** Hebrews 11:1-7; Romans 2:14-16, 3:25; Acts 10:34-35, 17:26-31; Justin Martyr, *First Apology* 46; *Lumen Gentium* 16; the earlier discussion of the Great Spirit and the peoples before Abraham (Old Testament series).
+
+**The Standing.** Doctrine; rests on texts the objection has not consulted.
+
+### Count 17. Why does God need worship? Isn't that vanity?
+
+**The Prosecution.** A being who demands praise, and punishes its absence, is insecure. Human beings who behave so are called narcissists.
+
+**The Defense.** God does not need worship; we do. The Bible says so in the same breath it commands praise: "if I were hungry, I would not tell you" (Psalm 50); "the Most High does not live in houses made by hands... nor is he served by human hands, as though he needed anything" (Acts 17:24-25). Worship is commanded for the worshiper's sake, the way a doctor commands exercise, because the creature that turns its face toward the source of its life flourishes and the one that turns away withers, and because "you become what you worship" (Psalm 115:8, a principle every culture confirms: the people who worship power become brutal, the people who worship money become hollow). C. S. Lewis, who once found the demand for praise offensive, noticed the answer in ordinary life: we praise what we enjoy, spontaneously, and praise completes the enjoyment; God commands what would happen anyway if we saw him clearly, and the command is for the ones who don't yet. A narcissist demands praise to fill a lack; the God of the Bible commands it to fill ours.
+
+**The Exhibits.** Psalm 50:7-15; Acts 17:24-25; Psalm 115:4-8; Lewis, *Reflections on the Psalms*, chapter 9.
+
+**The Standing.** Doctrine; rests on what the Bible itself says God needs, which is nothing.
+
+### Count 18. If God is outside time, why did he wait so long?
+
+**The Prosecution.** Two hundred thousand years of humans, and the message arrives in one province in the last two thousand. Either God is indifferent to the earlier ones or the story is a late human invention.
+
+**The Defense.** The objection assumes that "late" is a fact about God rather than about us; a God outside time is not waiting, as the question concedes in its own premise. The Bible's own account is that the promise was given at the first sin (Genesis 3:15), renewed to every generation that would listen (Count 16), and fulfilled "when the fullness of time had come" (Galatians 4:4), which Christians have read as the moment the world had an alphabet, a common language, roads, a diaspora, and a peace that let one message reach every city in a generation, the conditions under which the story could be written down and carried, which it was, faster than any message in human history. The people before were not abandoned; the cross reaches them (Count 16). And the objection proves too much: it is Habakkuk's "how long," Daniel's "how long," and the martyrs' "how long" under the altar, which is to say it is a question the Bible asks of God more often than skeptics do, and God's recorded answer is the whirlwind's: the timing is his, the patience is for the sake of those still to come, and the delay you feel from inside is not a delay he experiences from outside.
+
+**The Exhibits.** Genesis 3:15; Galatians 4:4; Acts 17:26-27; 2 Peter 3:8-9; Habakkuk 2:3; Job 38-41.
+
+**The Standing.** Doctrine and philosophy. The objection answers itself in its first clause.
+
+---
+
+*Part One complete. Next: Part Two, the mythicist witness: did he exist at all?*
+
+---
+
+## PART TWO: DID HE EXIST AT ALL?
+
+*Witness: the mythicist. The claim that Jesus of Nazareth never lived, argued by Richard Carrier, Robert Price, Earl Doherty, and the internet. It is called first among the serious witnesses because it is the most common skeptical claim online and the one the evidence answers most completely, and because no historian of antiquity, believing or not, holds it. That last fact is not itself an argument, so the counts are answered on the evidence, not the consensus; the consensus is noted at the end as the verdict the evidence produced.*
+
+### Count 19. There are no contemporary sources: no one who met Jesus wrote anything, and no Roman record mentions him during his life.
+
+**The Prosecution.** Every source for Jesus is Christian and postdates his death by decades. No official document, no letter, no inscription from the 30s mentions him. For a man who supposedly drew crowds, healed the sick, and was executed by the state, that silence is deafening. (Carrier; Doherty; the standard opening move.)
+
+**The Defense.** The standard the objection sets would erase most of the ancient world. We have no contemporary source for Hannibal, who nearly destroyed Rome; every account of him is Roman and written after his death. We have no contemporary source for Boudica, who burned London. Pontius Pilate, the Roman governor who tried Jesus, is attested by exactly one inscription (found in 1961) and by Josephus and Philo writing after his term. Judea in the 30s produced no surviving contemporary account of anything: no letters, no chronicles, no court records, because the province's archives burned in AD 70 and papyrus does not survive in that climate. The question is never "who wrote at the time?" but "how close are the earliest sources?", and by that measure Jesus is unusually well documented for a provincial figure: Paul's letters begin within twenty years of the crucifixion; the creed Paul quotes in 1 Corinthians 15 is dated by scholars across the spectrum to within five years; Mark's Gospel is within forty years, all four within seventy, inside the lifetimes of witnesses Paul says were still alive; and by comparison, the earliest surviving full biographies of Alexander the Great are three centuries after his death. A "Roman record" of a provincial execution would be a docket entry in a Jerusalem archive that no longer exists, and its absence is exactly what the survival rate of Roman provincial paperwork predicts; we have no trial records for anyone Pilate executed. What we do have from Rome is Tacitus, writing from a senator's access to state records, stating that Christus "suffered the extreme penalty during the reign of Tiberius at the hands of one of our procurators, Pontius Pilatus" (Count 21). The objection mistakes the ordinary condition of ancient evidence for a special silence about one man.
+
+**The Exhibits.** 1 Corinthians 15:3-8 (the creed; dated by Lüdemann, Ehrman, and others to the 30s); Galatians 1:18-19 (Paul's meeting with Peter and James, c. AD 36); the Pilate Stone (Caesarea, 1961); Tacitus, *Annals* 15.44; the survival of Roman provincial records (none from Judea).
+
+**The Weight.** *Early attestation:* the creed within five years, Paul within twenty, Mark within forty, all four Gospels within seventy: closer than the sources for nearly every ancient figure. *Multiple attestation:* Paul, the four Gospels (with independent material in each), Josephus, Tacitus. *Hostile corroboration:* Tacitus, Josephus, the Talmud. *Comparables:* Alexander at three centuries; Hannibal and Boudica with no contemporary source at all. Standard met: beyond reasonable doubt that a documentary base exists comparable to or better than that for any provincial figure of the era.
+
+### Count 20. Josephus's Testimonium is a Christian forgery, and the James passage is an interpolation too.
+
+**The Prosecution.** The famous paragraph in *Antiquities* 18.63-64 calls Jesus "the Christ," says "he appeared to them on the third day, restored to life," and asks "if indeed one ought to call him a man." No Jew who never converted wrote that. It is a Christian insertion, and once it falls, the shorter reference to "James, the brother of Jesus who was called Christ" (20.200) falls with it as a marginal gloss that crept into the text. (Carrier, "Origen, Eusebius, and the Accidental Interpolation," 2012.)
+
+**The Defense.** The prosecution is half right, and the half it is right about has been conceded by Christian scholars for two centuries. The Testimonium as it stands in the Greek manuscripts contains confessions Josephus did not write, and Origen, who read Josephus in the third century, said plainly that Josephus "did not believe in Jesus as the Christ." But the passage is not therefore a whole forgery. The reasons the large majority of scholars, Jewish, Christian, and secular, hold it to be an authentic notice with Christian additions are these: it stands in every manuscript; its neutral clauses ("a wise man," "a doer of surprising deeds," "a teacher of such people as accept the truth gladly," "Pilate condemned him to a cross on the accusation of the principal men among us," "the tribe of the Christians, so called after him, has not disappeared") are Josephan in vocabulary and un-Christian in tone (no Christian calls the church a "tribe"); a tenth-century Arabic version preserved by Agapius, transmitted outside the Greek tradition, lacks the confessional phrases and reads like the original; and, decisively, the James passage two books later refers back to "the aforementioned Christ," which requires an earlier mention. The James passage itself is accepted as authentic by nearly all scholars, including those most hostile to the Testimonium: it is cited by Origen a century before Eusebius, so it did not "creep in" after Eusebius; its phrasing, "the brother of Jesus who was called Christ," is exactly what a non-Christian writer distinguishing one James from others would write and exactly what a Christian interpolator would not ("who was called Christ" is neutral to the point of skepticism); and its context, the illegal stoning of James by the high priest Ananus in AD 62, is a story about Ananus, not about Jesus, told for Josephus's own purposes. Carrier's argument that it was a marginal note about a different James and a different Jesus has persuaded almost no one, because it requires Origen to have hallucinated the phrase. What survives the cross-examination: a first-century Jewish historian, writing about sixty years after the events, recorded that a wise man named Jesus did surprising deeds, was crucified by Pilate on the accusation of the Jewish leaders, left a movement that persisted, and had a brother named James who was executed in 62.
+
+**The Exhibits.** Josephus, *Antiquities* 18.63-64 and 20.200 (Early Jewish Writings, Antiquities 18 and 20); Origen, *Against Celsus* 1.47 and *Commentary on Matthew* 10.17 (citing the James passage and denying Josephus's belief); the Agapius Arabic text (Shlomo Pines, 1971); the survey of scholarship in John P. Meier, *A Marginal Jew*, vol. 1, ch. 3; Louis Feldman's census of Josephus scholarship (the large majority for partial authenticity).
+
+**The Weight.** *Hostile corroboration:* Josephus was a Jew who did not convert; the surviving neutral core is his. *Independent attestation:* the James notice is independent of the Gospels, uses a non-Christian formula, and is cited by Origen before Eusebius. *Consensus:* partial authenticity of the Testimonium and full authenticity of the James passage is the position of the large majority across confessional lines. Standard met: clear and convincing for the James passage; preponderance, with strong support, for the Testimonium's core.
+
+### Count 21. Tacitus wrote eighty years later and was only repeating what Christians told him; Pliny and Suetonius mention Christians, not Jesus.
+
+**The Prosecution.** Tacitus (*Annals* 15.44, c. AD 116) says Christus was executed by Pilate, but he got it from Christians, not from records, and he calls Pilate a "procurator" when the correct title was "prefect," proving he was not consulting archives. Pliny (c. 112) reports only that Christians sang hymns "to Christ as to a god"; Suetonius (c. 121) mentions a "Chrestus" stirring up Jews in Rome under Claudius, who may be someone else entirely. None is a witness to Jesus.
+
+**The Defense.** Tacitus was a Roman senator and consul, the most careful historian of his generation, with access to the senate's acta and the imperial archives, and a contempt for Christians ("a class hated for their abominations") that makes him the opposite of a friendly source. What he records is that "Christus, from whom the name had its origin, suffered the extreme penalty during the reign of Tiberius at the hands of one of our procurators, Pontius Pilatus, and a most mischievous superstition, thus checked for the moment, again broke out not only in Judaea, the first source of the evil, but even in Rome." Whether he consulted a Judean docket or drew on the common knowledge of Rome's governing class, he is a hostile Roman confirming the core: a man called Christ, executed by Pilate, under Tiberius, in Judea, founder of a movement that reached Rome within a generation. The "procurator" objection cuts the other way: Tacitus uses the title current in his own day for the office, as historians do, and the Pilate Stone shows Pilate was in fact "prefect," which means the Gospels, which call him "governor," and Tacitus, who calls him procurator, are both using the ordinary loose term; if Tacitus were copying a Christian source he would have copied the Christian term. Pliny, governor of Bithynia, writing to Trajan about how to prosecute Christians, is a witness to what Christians were doing by 112, twenty years before Tacitus and eighty after the cross: worshiping Christ as a god, in a province five hundred miles from Judea, in numbers large enough to empty the temples. Suetonius's "Chrestus" is most likely Christ under a common misspelling (Tertullian says pagans routinely said "Chrestians"), and his notice of Claudius expelling Jews from Rome in 49 matches Acts 18:2 exactly, which puts Christian disturbance in Rome within twenty years of the crucifixion. Lucian of Samosata, a satirist with no sympathy, mocks Christians around 165 for worshiping "the man who was crucified in Palestine because he introduced this new cult into the world." And Mara bar Serapion, a Syrian pagan writing to his son, asks what the Jews gained "by executing their wise king," after which "their kingdom was abolished" and the wise king "lived on in the teaching he had given." None of these men liked Christianity. All of them took its founder's existence and execution as fact, which is what hostile witnesses are for.
+
+**The Exhibits.** Tacitus, *Annals* 15.44; Pliny the Younger, *Letters* 10.96-97; Suetonius, *Claudius* 25.4 and *Nero* 16.2; Lucian, *The Passing of Peregrinus* 11-13; Mara bar Serapion (British Library Syriac MS, Add. 14658); the Pilate Stone; Acts 18:2.
+
+**The Weight.** *Hostile corroboration:* five non-Christian witnesses, four of them contemptuous. *Early attestation:* Suetonius's expulsion dates a Christian presence in Rome to 49; Pliny's letter, Christian worship of Christ as divine by 112 at the empire's far edge. *Independence:* Tacitus and Pliny were colleagues who wrote independently of the Gospels and, on the Pilate detail, agree with them against what a Christian informant would have supplied. Standard met: beyond reasonable doubt that the movement's founder was a real man executed under Pilate, on the testimony of his enemies.
+
+### Count 22. Paul never describes a historical Jesus: no parables, no miracles, no Pilate, only a celestial figure "revealed" in visions; "brother of the Lord" means fellow Christian.
+
+**The Prosecution.** Paul's letters are the earliest Christian documents, and their Jesus is a heavenly being known through revelation and Scripture, crucified by demonic "rulers of this age" in the lower heavens. Paul never quotes the Sermon on the Mount, never mentions Galilee, Nazareth, Pilate, or a single miracle. "James the brother of the Lord" uses "brother" the way Paul uses it of every believer. The historical Jesus was invented later by the Gospel writers to give the celestial Christ a biography. (Doherty, *The Jesus Puzzle*; Carrier, *On the Historicity of Jesus*.)
+
+**The Defense.** Paul's letters are occasional correspondence to churches that already knew the story, not biographies, and the objection reads their silences as if they were denials. But the silences are not as complete as claimed, and the affirmations are fatal to the thesis. Paul says Jesus was "born of woman, born under the law" (Galatians 4:4), a human birth into Jewish law; "descended from David according to the flesh" (Romans 1:3), a lineage; had brothers, including James, whom Paul met in Jerusalem (Galatians 1:19), and whom he distinguishes from the apostles and from Peter by the title "the Lord's brother," a distinction that makes no sense if it meant only "a Christian" (Peter was a Christian too); instituted a meal "on the night when he was betrayed" with bread and cup and quoted words (1 Corinthians 11:23-25), which is a specific night, a specific act, and a betrayal; was killed by "the Jews... who killed the Lord Jesus and the prophets" (1 Thessalonians 2:14-15), on earth, by people; was "crucified," "buried," and "raised on the third day," and then appeared to Cephas, the Twelve, five hundred, James, and all the apostles (1 Corinthians 15:3-8), a list of named earthly people; and is quoted by Paul as a teacher whose commands bind the church: on divorce ("not I, but the Lord," 1 Corinthians 7:10-11), on the support of preachers ("the Lord commanded," 9:14), on the Lord's coming ("by a word of the Lord," 1 Thessalonians 4:15), with echoes of his teaching on blessing persecutors, non-retaliation, and paying taxes (Romans 12-13), and an appeal to "the meekness and gentleness of Christ" as a known character (2 Corinthians 10:1). A celestial being crucified in the lower heavens does not have a brother Paul had lunch with, a Davidic bloodline, a betrayal night, and a ruling on divorce. Paul's relative silence on the miracles and parables is the silence of a man writing to churches about their problems (division, sexual ethics, the collection, the resurrection body), not a man unaware his Lord had lived; when he needs Jesus's life, he uses it: the poverty (2 Corinthians 8:9), the obedience unto death (Philippians 2:8), the cross as a public event "portrayed before your eyes" (Galatians 3:1). And "rulers of this age" (1 Corinthians 2:8) meant, to every reader for nineteen centuries and to Paul's own usage of the phrase, the earthly authorities, Pilate and the Sanhedrin, whose ignorance is the point of the verse. The mythicist reading of Paul requires that the earliest Christian, writing to people who knew the eyewitnesses, was describing a Jesus none of them had heard of.
+
+**The Exhibits.** Galatians 1:18-19, 4:4; Romans 1:3; 1 Corinthians 2:8, 7:10, 9:14, 11:23-25, 15:3-8; 1 Thessalonians 2:14-15, 4:15; 2 Corinthians 10:1; Philippians 2:5-11; Josephus, *Antiquities* 20.200 (independently calling James "the brother of Jesus who was called Christ").
+
+**The Weight.** *Early attestation:* the earliest Christian documents affirm a human, Jewish, Davidic, crucified, buried Jesus with a brother and a betrayal night. *Independent corroboration:* Josephus's James notice uses the same relationship from outside the church. *Coherence:* Paul's Jesus is the Gospels' Jesus in outline, written before the Gospels. Standard met: beyond reasonable doubt that Paul believed in an earthly Jesus; the "celestial Jesus" reading is held by no New Testament scholar of any confession.
+
+### Count 23. Philo of Alexandria, writing in Jesus's lifetime about Judea and Pilate, never mentions him.
+
+**The Prosecution.** Philo (c. 20 BC to AD 50) was the most prolific Jewish writer of the age, discussed Pilate's misconduct in Judea, and never says a word about Jesus. If a wonder-working Messiah had been crucified in Jerusalem, Philo would have known.
+
+**The Defense.** Philo lived in Alexandria, six hundred miles from Galilee, wrote philosophy and biblical allegory, and mentioned Judean events only when they touched the Jewish community's standing with Rome, which Pilate's provocations did (he tells the story of the shields in Jerusalem because the Jews petitioned Tiberius about them). He never mentions John the Baptist, whose movement Josephus thought important enough to record; never mentions the Pharisees, the Sadducees, or the Essenes of Judea by their parties; never mentions Judas the Galilean or any of the popular prophets of the period; and never mentions Hillel or Shammai, the two greatest rabbis of his lifetime. His silence about a Galilean teacher executed in Jerusalem is the silence of a man whose subject was the Torah read through Plato, and it is precisely matched by his silence about every other Judean religious figure of the age. The one first-century Jewish writer who did cover Judean affairs, Josephus, mentions Jesus twice. The argument from silence is only as strong as the expectation that the silent writer would have spoken, and Philo's corpus shows no such expectation.
+
+**The Exhibits.** Philo, *Embassy to Gaius* 299-305 (the shields; his one Pilate story); the index of Philo's works (no Baptist, no rabbis, no Judean prophets); Josephus, *Antiquities* 18.116-119 (the Baptist) and 18.63-64, 20.200.
+
+**The Weight.** *Argument from silence:* fails its own test, since Philo is equally silent on figures whose existence no one doubts. Standard: the count carries no evidential weight against existence.
+
+### Count 24. Nazareth did not exist in the first century.
+
+**The Prosecution.** Nazareth is unmentioned in the Old Testament, the Talmud, and Josephus; the archaeology shows nothing before the second century; the "Nazarene" was a sect name later turned into a hometown. (René Salm, *The Myth of Nazareth*, 2008.)
+
+**The Defense.** The archaeology has answered this since the objection was published. Excavations by the Israel Antiquities Authority in 2009 (Yardenna Alexandre) uncovered a first-century house in Nazareth with Herodian-period pottery; the Nazareth Village Farm excavations found terraces, a winepress, and tombs of the early Roman period; the kokhim-type tombs around the village are first-century; and a marble inscription from Caesarea, found in 1962, lists Nazareth among the villages where the priestly courses settled after AD 70, which requires it to have existed before. Nazareth was a hamlet of perhaps a few hundred people in the hills of lower Galilee, too small for Josephus to name among his forty-five Galilean towns and too insignificant for the Talmud, which is exactly how the Gospels treat it: "can anything good come out of Nazareth?" (John 1:46). A fabricated hometown for a Messiah would have been Bethlehem, which is where the objection itself says the Gospel writers wanted him from, not an unmentioned village whose name was a joke. Salm is not an archaeologist, and no archaeologist working in Galilee accepts his thesis.
+
+**The Exhibits.** Alexandre, IAA excavation report, Nazareth (2009); Ken Dark, *Roman-Period and Byzantine Nazareth and Its Hinterland* (2020); the Caesarea Maritima priestly-courses inscription (Avi-Yonah, 1962); John 1:46.
+
+**The Weight.** *Archaeological anchoring:* first-century occupation established. *Embarrassment:* an obscure, mocked hometown is not what a fabricator invents. Standard met: beyond reasonable doubt that first-century Nazareth existed.
+
+### Count 25. The Gospels are late, anonymous, mythological, and dependent on one another, so they are one source, not four.
+
+**The Prosecution.** Mark was written around 70; Matthew and Luke copied Mark; John is a theological composition from the 90s. None names its author; the titles were added later. Four Gospels that share a source are one witness in four copies, and the one witness is a Greek-speaking author decades removed from Galilee. (Carrier; Price; a standard reading of Ehrman.)
+
+**The Defense.** The dating is roughly the mainstream's and does not help the prosecution: forty to seventy years is within living memory, and Luke-Acts ends with Paul alive in Rome around 62, which a growing number of scholars take as its date of composition, before Mark on the usual reckoning. The "anonymous" claim is overstated: the four titles are uniform across every manuscript in every region, which is inexplicable if they were added independently later (Martin Hengel's argument), and Papias, around 110, names Mark as Peter's interpreter and Matthew as a collector of the sayings, within living memory of the apostles' students. The dependence claim proves less than it seems: Matthew and Luke share Mark, but each also contains a large body of material found nowhere else (the "M" and "L" traditions: the magi and the Sermon's form in Matthew; the shepherds, the Good Samaritan, the prodigal son, Zacchaeus, Emmaus in Luke), and John is independent of all three, so the Gospels yield at least four independent streams, plus Paul, plus the pre-Pauline creed, plus the material Matthew and Luke share that is not in Mark (the "Q" sayings). Bart Ehrman, no believer, counts "seven independent sources" for the historical Jesus, which is why he wrote a book against mythicism titled *Did Jesus Exist?*. And "mythological" is the conclusion the prosecution needs, not an observation: the Gospels' genre is ancient biography (Richard Burridge's demonstration is now standard), they are full of verifiable names, places, offices, and customs (Bauckham showed that the frequency of personal names in the Gospels matches the frequency in first-century Palestinian inscriptions and ossuaries, which a later foreign fabricator could not have known), and they contain, in every chapter, the kind of detail no mythmaker wants: the disciples' stupidity, Jesus's family thinking him mad, his failure at Nazareth, women as the first witnesses.
+
+**The Exhibits.** Papias in Eusebius, *Church History* 3.39; Hengel, *The Four Gospels and the One Gospel of Jesus Christ*; Burridge, *What Are the Gospels?*; Bauckham, *Jesus and the Eyewitnesses*, ch. 4 (the names); Ehrman, *Did Jesus Exist?* (the seven sources); the dating discussion in "The Writers of the New Testament."
+
+**The Weight.** *Multiple independent attestation:* at least four Gospel streams, Paul, and the creed. *Early attestation:* all within living memory; the creed within five years. *Embarrassment:* pervasive. *Archaeological anchoring:* the name-frequency data; the places and offices confirmed (Counts 32-35). Standard met: clear and convincing that the Gospels are multiple, early, and in the biographical genre; the "one late myth" characterization fails.
+
+### Count 26. The dying-and-rising-god pattern shows Jesus is a Jewish version of a common myth: virgin birth, December 25, twelve disciples, death and resurrection after three days, all borrowed from Horus, Mithras, Osiris, Dionysus, Attis.
+
+**The Prosecution.** *Zeitgeist* (2007), *The Pagan Christ*, *The Jesus Mysteries*: Horus was born of a virgin on December 25, had twelve disciples, was crucified and rose after three days; Mithras too; Osiris died and rose; Dionysus turned water into wine. Christianity is Egyptian and Persian myth with a Jewish name.
+
+**The Defense.** Nearly every specific claim in this list is false, and the falsehoods are checkable in the primary texts. Horus was conceived when Isis reassembled the dismembered Osiris and, in the myth, used a reconstituted phallus; not a virgin birth. Horus was not crucified, did not die, and had no twelve disciples; the "twelve" are the hours of the night in one funerary text. Mithras, in the Roman cult, was born from a rock, fully grown, and there is no death and resurrection of Mithras in any source; the December 25 date belonged to the Roman sun festival of the third century, and the Bible gives no date for Jesus's birth at all, the church settling on December 25 in the fourth century for reasons of its own. Osiris died and was reassembled to rule the dead in the underworld; he did not return to life on earth, and no Egyptian ever claimed to have seen him. Attis's "resurrection" is a late Roman rite with no early textual basis. The scholarly demolition of the whole "dying and rising gods" category was done by Jonathan Z. Smith, a historian of religion with no Christian stake, in the *Encyclopedia of Religion* (1987): the category was assembled by nineteenth-century scholars (Frazer) from mismatched fragments and does not survive contact with the sources. What remains is the general observation that the ancient world had gods who died, which is true and irrelevant, because the resurrection the first Christians proclaimed was not a seasonal vegetation myth but a Jewish doctrine, Daniel 12's bodily resurrection of the dead, claimed of one man in history, dated, located, and witnessed, which is a category of claim the mystery religions never made and their own devotees never understood themselves to be making. The early Christians, who lived among these cults, saw the surface resemblances and argued about them (Justin Martyr said the demons had imitated the prophecies in advance), which is what you'd expect from people who knew the myths were older and knew their own claim was different.
+
+**The Exhibits.** The Pyramid Texts and the Osiris myth in Plutarch, *Isis and Osiris*; the Mithraic evidence (Manfred Clauss, *The Roman Cult of Mithras*: rock-birth, no resurrection); J. Z. Smith, "Dying and Rising Gods," *Encyclopedia of Religion*; Ehrman, *Did Jesus Exist?*, ch. 7; Justin Martyr, *First Apology* 54; Daniel 12:2.
+
+**The Weight.** *Coherence:* the specific parallels are fabricated or misdated; the general category is rejected by the historians of religion who examined it. *Context:* the resurrection claim is Jewish, historical, and unlike the mysteries in kind. Standard: the count carries no evidential weight; its factual claims fail on the primary sources.
+
+### Count 27. The whole story was constructed from the Old Testament: prophecy historicized, not history remembered.
+
+**The Prosecution.** The passion narrative is Psalm 22, Isaiah 53, and Zechariah rewritten as events: the mockers, the lots for the garments, the vinegar, the thirty pieces, the pierced side. Where the Gospels have a "fulfilled" detail, the detail was generated by the prophecy. (Crossan, *Who Killed Jesus?*; Helms, *Gospel Fictions*.)
+
+**The Defense.** Five replies, one of them a concession. The concession: some fulfillments are pattern-readings, not predictions (Hosea 11:1; Matthew's "Nazarene"; the two donkeys; Rachel weeping), and this handbook says so wherever they occur. But notice the shape of those: they are awkward, and a writer generating events from prophecy would make them clean. Second, the thing no one would have invented: first-century Judaism expected a conquering Messiah (Psalms of Solomon 17), and a crucified one was "a stumbling block" under a Torah curse (Deuteronomy 21:23; Galatians 3:13). Isaiah 53 and Psalm 22 were not read as messianic proof-texts by the mainstream; the church found them afterward because the event forced the search, and Luke admits it: the disciples on the Emmaus road had to have the Scriptures opened to them. Fabricators build the Messiah their audience expects; the cross is the opposite. Third, the criterion of embarrassment: women as first witnesses, Peter's denial, the disciples' flight, the cry of dereliction, the family's disbelief, none of which serves the narrative and all of which survived. Fourth, the clock: the prophecies are demonstrably pre-Christian (the Isaiah Scroll, c. 125 BC), so the only possible fabrication is of the New Testament, and the New Testament's own dates squeeze it: the creed of 1 Corinthians 15, "died... according to the Scriptures," is within five years of the events, public, in Jerusalem, in the lifetime of everyone who could contradict it. Fifth, and decisive: the fulfillments that matter were performed by the enemies. The chief priests paid the thirty pieces; the mockers recited Psalm 22:8; Roman soldiers, following Roman custom, cast lots for the garments and left the legs unbroken; Pilate crucified him, and Tacitus records it. A story invented to check boxes would be smooth, expected, late, and self-serving; the Gospels are rough, unexpected, early, and cost their authors their lives.
+
+**The Exhibits.** Psalms of Solomon 17 (companion volume); Deuteronomy 21:23; Galatians 3:13; 1 Corinthians 1:23, 15:3-8; Luke 24:25-27; the Great Isaiah Scroll (Israel Museum); N. T. Wright, *The Resurrection of the Son of God*, ch. 1-4 (the reply to Crossan); the Old Testament series, Volume Five (Psalm 22) and Volume Three (Isaiah 53).
+
+**The Weight.** *Embarrassment:* decisive against fabrication. *Early attestation:* the Scripture-fulfillment claim is in the earliest creed. *Hostile corroboration:* the key fulfillments were enacted by opponents. *Coherence:* the awkward fits are evidence of history fitted to text, not text generating history. Standard met: clear and convincing that the core narrative was not generated from prophecy; the concession on pattern-readings is recorded.
+
+### Count 28. The Talmud's references to Yeshu are late, polemical, and describe a different man, hanged on Passover eve a century earlier under Alexander Jannaeus.
+
+**The Prosecution.** Sanhedrin 43a's "Yeshu" is hanged, not crucified, after a forty-day search for defense witnesses, which the Gospels never mention; Sanhedrin 107b places Yeshu in the reign of Jannaeus (c. 100 BC); the rabbis were describing a different figure or inventing one. Nothing there confirms the Gospels.
+
+**The Defense.** Read as what it is, hostile rabbinic tradition compiled centuries later, the Talmud's Jesus material confirms more than the prosecution allows. Sanhedrin 43a (in the uncensored text): "On the eve of Passover Yeshu was hanged... because he practiced sorcery and enticed Israel to apostasy," with a herald going before him for forty days. Strip the polemic and count the agreements: a man named Yeshu; executed; on the eve of Passover (John's chronology exactly); by "hanging," which is the Talmud's standard term for crucifixion (Deuteronomy 21:23's "hanged on a tree," the verse Paul applies to the cross); charged with sorcery, that is, with performing wonders the rabbis attributed to the wrong power, which is the Gospels' own record of the charge ("by Beelzebul he casts out demons"); and with leading Israel astray, the false-prophet charge of Deuteronomy 13, which is the Sanhedrin's charge in the Gospels. The forty-day herald is the rabbis' insistence that the trial was fair, not a datum about the man. The Jannaeus dating in Sanhedrin 107b is one of several rabbinic anachronisms (the same tradition makes Yeshu a disciple of a rabbi who lived a century before him), and Peter Schäfer, the leading scholar of the material, reads the Talmud's Jesus stories as deliberate, late counter-narratives to the Gospels, which they knew, not as independent history of a different man. What the material is good for is exactly what the prosecution denies: it shows that the rabbis, who had every motive to say "there was no such man," instead said "there was, he did wonders, and we executed him for good reason." Enemies do not deny the existence of the man they claim to have justly killed.
+
+**The Exhibits.** Babylonian Talmud, Sanhedrin 43a (uncensored text; Sefaria), 107b; Peter Schäfer, *Jesus in the Talmud* (2007); John 19:14; Deuteronomy 21:22-23; Galatians 3:13; Mark 3:22.
+
+**The Weight.** *Hostile corroboration:* a Jewish tradition affirming execution at Passover for wonder-working and leading the people, from the party that executed him. *Independence:* polemical response to the Gospels rather than independent record (Schäfer), which limits but does not erase its value. Standard: supports existence and execution as facts conceded by the opposition; carries no weight for the details.
+
+### Count 29. Mara bar Serapion and Lucian are too vague and too late to count.
+
+**The Prosecution.** Mara's "wise king" is unnamed and undated; Lucian is a satirist writing around 165 who mocks Christians without knowledge. Neither adds anything.
+
+**The Defense.** They add what secondary hostile witnesses add: confirmation that, by the second century, the pagan world took for granted that Christianity's founder was a real man executed in Palestine. Mara bar Serapion, a Stoic writing to his son from Roman custody (the letter is dated by most between 73 and the early second century), lists three unjust executions the world was punished for: Socrates, Pythagoras, and "the wise king" of the Jews, after whose death "their kingdom was abolished" and who "lived on in the teaching he had given." Unnamed, yes; but a Jewish "wise king" executed by his own people shortly before their kingdom was destroyed, who left a body of teaching, matches one man in Jewish history. Lucian mocks the Christians of his day for worshiping "that crucified sophist" and "the man who was crucified in Palestine because he introduced this new cult," and his mockery is worth exactly what mockery is worth as evidence: a second-century intellectual with no Christian source of his own took the crucifixion as a known fact. Neither is a primary witness, and the handbook does not rest on them; they are the background against which the mythicist claim has to be made, and it is a background in which no ancient enemy of the church, Jewish or pagan, ever thought to deny that the man existed. Celsus, the most learned pagan critic of Christianity (c. 178), attacked Jesus as an illegitimate sorcerer trained in Egypt, which is to say he attacked a man he took to be real. The argument that Jesus never lived appears nowhere in antiquity; it was born in eighteenth-century France.
+
+**The Exhibits.** Mara bar Serapion, letter (Cureton's edition, 1855; British Library Add. 14658); Lucian, *Peregrinus* 11-13; Origen, *Against Celsus* 1.28, 1.32, 1.38 (Celsus's Panthera and Egypt charges); Volney and Dupuis (1790s, the origin of mythicism).
+
+**The Weight.** *Hostile corroboration:* consistent and universal among ancient critics; none denies existence. Standard: supporting weight only; the count is answered by the absence of any ancient denial.
+
+### Count 30. Bayesian analysis gives at best a one-in-three chance he existed.
+
+**The Prosecution.** Richard Carrier's *On the Historicity of Jesus* (2014), peer-reviewed, applies Bayes' theorem to the evidence and concludes the probability Jesus existed is somewhere between one in three and one in twelve thousand. Mathematics, not faith.
+
+**The Defense.** Bayes' theorem is only as good as the numbers put into it, and Carrier's numbers are his own. His prior probability comes from classifying Jesus as a "Rank-Raglan hero," a folklore type (born of a virgin, threatened at birth, and so on) whose members are mostly mythical; but the classification is done by scoring the Gospels' Jesus, which assumes the conclusion, and the same scale scores Alexander, Augustus, and Muhammad as mythical heroes too. His likelihoods depend on the readings this Part has already examined and rejected: a celestial Paul, an interpolated Josephus, a hearsay Tacitus, a nonexistent Nazareth. Feed the theorem the mainstream readings and it returns the mainstream answer; feed it Carrier's and it returns Carrier's; the arithmetic did not adjudicate the readings, and the readings are the whole dispute. The book's reception makes the point: it was reviewed in the field's journals and rejected, not by Christians but by secular specialists (Daniel Gullotta's review in the *Journal for the Study of the Historical Jesus*, 2017, is the standard demolition), and no department of ancient history or New Testament in any university holds the mythicist position. Bart Ehrman, an agnostic and the most-read skeptical New Testament scholar alive, wrote a book against it whose thesis is in its title, *Did Jesus Exist?*, and answered: "The reality is that whether we like it or not, Jesus certainly existed." Maurice Casey, an atheist, wrote another. Michael Grant, the classical historian, put the consensus this way: "no serious scholar has ventured to postulate the non-historicity of Jesus, or at any rate very few, and they have not succeeded in disposing of the much stronger, indeed very abundant, evidence to the contrary."
+
+**The Exhibits.** Carrier, *On the Historicity of Jesus* (2014); Gullotta, "On Richard Carrier's Doubts," *JSHJ* 15 (2017); Ehrman, *Did Jesus Exist?* (2012); Casey, *Jesus: Evidence and Argument or Mythicist Myths?* (2014); Grant, *Jesus: An Historian's Review of the Gospels* (1977).
+
+**The Weight.** *Method:* the Bayesian result is determined by inputs the evidence rejects. *Consensus:* the specialists of every confession and none reject the conclusion. Standard: the count carries no independent weight; it restates the previous eleven counts in numerical form.
+
+### The verdict on Part Two
+
+The existence of Jesus of Nazareth, a Galilean Jew who taught, gathered disciples, was crucified in Jerusalem under Pontius Pilate at the instigation of the Jewish leadership, and whose followers proclaimed him risen within weeks, is established beyond reasonable doubt: by the earliest Christian documents (Paul, within twenty years; the creed, within five); by four Gospels in the genre of ancient biography with at least four independent streams; by a Jewish historian who did not convert and recorded the death of the man's brother; by a Roman senator who despised the movement and recorded its founder's execution; by a Roman governor, a Roman biographer, a Syrian Stoic, and a Greek satirist; by the rabbis who claimed to have executed him justly; and by the fact that no enemy of Christianity in antiquity, however hostile, ever thought to deny that he had lived. That is a better documentary base than exists for most figures of the ancient world, and it is why the historians who hold that Jesus never existed can be counted on one hand and are not employed to teach the subject. The mythicist witness is excused. The questions that remain are what the man said and did, and whether the tomb was empty, and those are the counts the prosecution should have led with.
+
+---
+
+*Part Two complete. Next: Part Three, the textual critic: can the documents be trusted?*
+
+---
+
+## PART THREE: CAN THE DOCUMENTS BE TRUSTED?
+
+*Witness: the textual critic. The case that the Gospels are anonymous, late, secondhand, corrupted in transmission, and contradictory, argued at its best by Bart Ehrman, whose books most skeptics who raise these counts have read, and at its worst by the meme that "the Bible was rewritten a thousand times." The counts are answered with the manuscripts, the dates, and the texts themselves, and the handbook concedes the genuine difficulties by name rather than pretending there are none.*
+
+### Count 31. The Gospels are anonymous; the names were added in the second century.
+
+**The Prosecution.** None of the four Gospels names its author in the text. The headings "According to Matthew" and the rest first appear in the second century, assigned by a church that needed apostolic names for anonymous books. (Ehrman, *Jesus, Interrupted*, ch. 3.)
+
+**The Defense.** The Gospels do not name their authors in their opening lines, which is true of most ancient histories and biographies as well (Plutarch's Lives, Tacitus's Annals); ancient authorship was carried by the title and by the community that received the book, not by a byline. What the prosecution must explain is the manuscript evidence: every surviving manuscript of every Gospel, from the earliest papyri that preserve a title (P66 and P75, around AD 200) through every region of the empire, Egypt, Syria, Rome, Gaul, North Africa, carries the same four names, and never any other. If the titles had been added independently by scattered churches in the second century, we would expect variation (the same happened with the anonymous Epistle to the Hebrews, which was attributed to Paul, Barnabas, Luke, Clement, and Apollos by different churches, and the variation shows the guessing). The uniformity means the names traveled with the books from the start; Martin Hengel's argument to this effect is now standard, and Ehrman has conceded the force of it in debate. The external testimony agrees: Papias, bishop of Hierapolis, writing about AD 110 from what "the elder" John's students told him, says Mark wrote down Peter's preaching and Matthew compiled the sayings; Justin Martyr, around 150, calls the Gospels "the memoirs of the apostles"; Irenaeus, around 180, who had sat under Polycarp, who had sat under John, names all four authors and no others; and no ancient source, Christian or hostile, ever attributes a canonical Gospel to anyone else. The names Matthew, Mark, Luke, and John are, moreover, not the names a forger chooses: Mark and Luke were not apostles at all, Matthew was a tax collector, and a church inventing authors would have picked Peter and James. (The books that were forged in apostolic names, the Gospel of Peter and the Gospel of Thomas, chose exactly those big names, and the church rejected them.)
+
+**The Exhibits.** P66 and P75 (Bodmer papyri, c. 200, with titles); Papias in Eusebius, *Church History* 3.39.15-16; Justin, *First Apology* 66-67; Irenaeus, *Against Heresies* 3.1.1; the Muratorian Fragment (c. 170-200); Hengel, *The Four Gospels and the One Gospel of Jesus Christ* (2000); the varied attributions of Hebrews (Origen: "who wrote the epistle, God knows").
+
+**The Weight.** *Multiple attestation:* uniform titles in every manuscript tradition; three independent second-century witnesses. *Embarrassment:* two non-apostles and a tax collector are not a forger's choices. Standard met: clear and convincing that the traditional attributions are original to the books' circulation; certainty about the men behind the names is a further question the handbook treats as probable, not proven.
+
+### Count 32. They were written forty to seventy years after the events by Greek-speaking non-eyewitnesses far from Palestine.
+
+**The Prosecution.** Mark c. 70, Matthew and Luke c. 80-90, John c. 90-100, all in Greek, by educated authors who had never seen Galilee, working from oral traditions that had circulated for two generations. Not eyewitness testimony. (Ehrman.)
+
+**The Defense.** Take the dates as given, though they are the latest defensible ones (Luke-Acts ends with Paul alive under house arrest in Rome about AD 62, never mentioning his death, Peter's death, the Jewish revolt, or the temple's fall, which is why a substantial body of scholars dates Luke-Acts before 64 and Mark before that). Forty to seventy years is within living memory, and the Gospels were written while the eyewitnesses were alive, which Luke says in his preface ("just as those who from the beginning were eyewitnesses and ministers of the word have delivered them to us," 1:2) and Paul says in his creed ("most of whom are still alive," 1 Corinthians 15:6, c. 55). The analogy the classical historian A. N. Sherwin-White drew in 1963 has never been answered: the sources for Tiberius are as late or later, and two generations are "too short" for legend to obliterate a historical core, as the study of Herodotus shows. Greek was the second language of Galilee, whose largest city, Sepphoris, four miles from Nazareth, was a Greek-speaking administrative center; Jews of the region were routinely bilingual, and Matthew, a tax collector, worked in Greek for a living. "Far from Palestine" is an inference from the Greek, not a fact: Mark's Gospel is saturated with Aramaic words it translates for its readers (talitha koum, ephphatha, Abba, Golgotha), which means the author knew Aramaic; and the Gospels' knowledge of Palestinian geography, customs, coinage, offices, and names is detailed enough that Richard Bauckham could show the frequency of personal names in the Gospels matches the frequency in first-century Palestinian ossuaries and inscriptions (Simon and Joseph the most common, Mary and Salome for women), a match no Greek author writing from Antioch or Rome a generation later could have engineered. The Gospels are not "eyewitness testimony" in the sense of first-person memoirs; they are, in Bauckham's phrase, testimony "in touch with" eyewitnesses, which is what Luke claims and what Papias describes for Mark, and it is the ordinary form ancient biography took.
+
+**The Exhibits.** Luke 1:1-4; Acts 28:30-31 (the ending); 1 Corinthians 15:6; Sherwin-White, *Roman Society and Roman Law in the New Testament* (1963), pp. 186-193; Bauckham, *Jesus and the Eyewitnesses*, chs. 3-4; Mark 5:41, 7:34, 14:36, 15:22 (Aramaic); the Sepphoris excavations.
+
+**The Weight.** *Early attestation:* within living memory by any dating; possibly within thirty years. *Archaeological anchoring:* the name-frequency data and the local knowledge. *Coherence:* Luke's stated method matches ancient historiographical practice. Standard met: clear and convincing that the Gospels rest on eyewitness tradition; the "far from Palestine" premise fails on internal evidence.
+
+### Count 33. The disciples were illiterate Aramaic-speaking peasants who could not have written Greek literature.
+
+**The Prosecution.** Acts 4:13 calls Peter and John "uneducated, common men." Ninety-seven percent of first-century Palestinians could not write. Galilean fishermen did not compose Greek biographies. (Ehrman, *Forged*.)
+
+**The Defense.** Acts 4:13's word, *agrammatoi*, means "without formal rabbinic training," which is what the Sanhedrin was sneering at, not "illiterate"; the same chapter shows Peter quoting Psalms from memory. But the objection misfires anyway, because the Gospels' traditional authors are not four fishermen. Matthew was a tax collector, a profession that required literacy in Greek and Aramaic and the keeping of written records; Luke was a physician, "the beloved physician," an educated Greek who writes the best prose in the New Testament; Mark, per Papias, was Peter's interpreter and secretary, which is precisely the role a literate assistant plays for a man who is not; and John's family owned a fishing business with hired men (Mark 1:20) and had a connection in the high priest's household (John 18:15), which is not the profile of a destitute peasant. Ancient authorship also routinely used secretaries: Paul dictated Romans to Tertius, who signs it (Romans 16:22), and Peter says he wrote 1 Peter "by Silvanus" (5:12). The claim that a fisherman "could not" have produced a Gospel through an amanuensis assumes a division of labor the ancient world did not observe. And the objection proves too much: by its logic, no unlettered founder's teaching could ever have been preserved, which would erase Socrates.
+
+**The Exhibits.** Acts 4:13 (the Greek *agrammatoi kai idiōtai*); Mark 1:20; John 18:15-16; Romans 16:22; 1 Peter 5:12; Papias on Mark as *hermēneutēs*; Colossians 4:14; the tax-collector's literacy (the Murabba'at and Nahal Hever documents show Greek-Aramaic bilingual record-keeping in Judea).
+
+**The Weight.** *Coherence:* the traditional authors' professions fit the books. *Context:* secretarial composition is attested in the New Testament itself. Standard met: the count carries little weight; its premise misidentifies the authors.
+
+### Count 34. Memory is unreliable; forty years of oral transmission is a telephone game.
+
+**The Prosecution.** Cognitive psychology shows memory distorts within days; stories retold across decades and communities mutate freely. Whatever Jesus said, the Gospels record what the church remembered, which is not the same. (Ehrman, *Jesus Before the Gospels*, 2016.)
+
+**The Defense.** The telephone game is the wrong model, and the scholars of oral tradition have said so. In the game, a message is whispered once, privately, by people with no stake in accuracy and no ability to check, to a stranger; in the transmission of the Jesus tradition, the stories were told publicly, repeatedly, by communities that had memorized them, in the presence of eyewitnesses who could and did correct (Paul's "most of whom are still alive"), in a culture that trained its students to memorize their teachers' words (a rabbi's disciple was expected to reproduce his sayings exactly, "like a plastered cistern that loses not a drop"), and with the written Gospels appearing while the first generation still lived. Kenneth Bailey's decades in Middle Eastern villages documented how such communities preserve core narratives with fixed wording and flexible detail across generations, which is exactly the pattern the Gospels show: the sayings of Jesus are strikingly stable across Matthew, Mark, and Luke (often word for word in Greek, implying a fixed Aramaic original), while the narrative settings vary. The creed of 1 Corinthians 15 shows the machinery at work: a formula fixed within five years, "delivered" and "received" in the technical vocabulary of controlled tradition, and reproduced by Paul twenty years later verbatim. Ehrman's own book concedes that memory is generally reliable for the gist of significant events and that eyewitnesses were present; his argument is that details drifted, which no one denies and which the Gospels' variations display in the open. The core did not drift, and the core is what the case rests on.
+
+**The Exhibits.** 1 Corinthians 15:3 ("delivered... received"); Mishnah Avot 2:8 (the cistern); Bailey, "Informal Controlled Oral Tradition and the Synoptic Gospels" (1991); Bauckham, *Jesus and the Eyewitnesses*, chs. 10-13; Gerhardsson, *Memory and Manuscript*; Keener, *Christobiography* (2019), the reply to Ehrman on memory.
+
+**The Weight.** *Coherence:* the tradition's stability in sayings and creed is the observed datum. *Early attestation:* fixed formulas within five years. Standard met: clear and convincing that the transmission was controlled and public; the telephone analogy is rejected by the specialists on both sides.
+
+### Count 35. There are 400,000 textual variants, more than words in the New Testament; we cannot know what the originals said.
+
+**The Prosecution.** Ehrman's famous figure: the surviving Greek manuscripts differ from one another in some 400,000 places, and the New Testament has only about 138,000 words. The originals are lost; what we have is scribal corruption all the way down. (Ehrman, *Misquoting Jesus*, 2005.)
+
+**The Defense.** The figure is real and the inference is the reverse of the truth. There are so many variants because there are so many manuscripts: about 5,800 Greek manuscripts of the New Testament, plus tens of thousands in Latin, Syriac, Coptic, and the other early versions, plus a million quotations in the church fathers, against a few dozen manuscripts for a typical classical author (Tacitus's Annals survive in two; Caesar's Gallic War in about ten, the earliest nine centuries after him; Thucydides in a handful, thirteen hundred years removed). Every copy adds variants; a text that survived in one manuscript would have none and be impossible to check. The 400,000 count includes every difference in every copy, and the overwhelming majority are spelling, word order, and the movable *n*, invisible in translation; Daniel Wallace, the leading American textual critic, puts meaningful and viable variants, those that both change the sense and could be original, at well under one percent of the text, and not one touches a doctrine. That last point is Ehrman's own: in the paperback appendix to *Misquoting Jesus*, asked whether the variants affect any essential Christian belief, he answered that they do not, and that the text is well enough preserved that "essential Christian beliefs are not affected by textual variants." The earliest manuscripts close the gap the objection imagines: P52, a fragment of John, is dated within decades of the Gospel's composition; P66 and P75 give most of John and Luke from around 200; Sinaiticus and Vaticanus, complete New Testaments, from the fourth century. No other ancient text comes within a thousand years of that coverage. The reason we know about the variants at all is that the church preserved them instead of hiding them, and prints the most famous ones in brackets in every modern Bible.
+
+**The Exhibits.** Ehrman, *Misquoting Jesus*, paperback appendix (Q&A, 2007); Wallace, in Ehrman and Wallace, *The Reliability of the New Testament* (2011); the Institut für Neutestamentliche Textforschung manuscript census; P52 (John Rylands Library); the comparative manuscript figures (Bruce, *The New Testament Documents*; Wegner, *A Student's Guide to Textual Criticism*).
+
+**The Weight.** *Method:* the variant count is a function of manuscript abundance, the opposite of corruption. *Consensus:* the critic who supplied the figure concedes its conclusion does not follow. Standard met: beyond reasonable doubt that the New Testament text is the best-attested of antiquity and its core is secure.
+
+### Count 36. The ending of Mark, the woman caught in adultery, and 1 John 5:7 are later additions, proving the text was tampered with.
+
+**The Prosecution.** Mark 16:9-20 is absent from the oldest manuscripts; John 7:53-8:11 floats between locations and is absent from the earliest; 1 John 5:7's Trinitarian formula was inserted in the Latin. Christians read added verses as Scripture for centuries. The text is not what the apostles wrote.
+
+**The Defense.** All three are correctly identified, and by whom? By Christian scholars, working from Christian manuscripts, publishing their findings in Christian Bibles, where every modern edition brackets Mark's long ending and the adulteress story and drops the Comma Johanneum, with a note. The objection describes the discipline of textual criticism and calls it exposure; it is confession. And what the three cases show is how well the process works: the additions were detected because the manuscript tradition is rich enough to expose them, and the detected additions are the longest and most famous in the entire New Testament, which means the tradition has been sifted to the level of a dozen verses. None of the three carries any doctrine not taught elsewhere: the resurrection appearances stand in Matthew, Luke, John, and Paul without Mark 16:9-20; the mercy to the adulteress is Jesus's character in every Gospel; the Trinity was formulated at Nicaea without the Comma, which entered the Latin later and was never in the Greek. The prosecution's inference, "therefore the text was tampered with," requires that undetected tampering be likely, and the abundance that caught these three is the reason it is not.
+
+**The Exhibits.** The bracketed passages and footnotes in the NRSV, ESV, NIV, and NABRE; Metzger, *A Textual Commentary on the Greek New Testament* (the entries on Mark 16, John 7:53-8:11, 1 John 5:7); Codex Sinaiticus and Vaticanus (both ending Mark at 16:8).
+
+**The Weight.** *Method:* the additions were identified by the tradition's own abundance and are marked in every Bible. Standard: the count supports the reliability of the process it cites; carries no weight for undetected corruption.
+
+### Count 37. Mark's Gospel originally ended with no resurrection appearances and frightened women who told no one.
+
+**The Prosecution.** Mark 16:8, the authentic ending, reads: "they fled from the tomb, for trembling and astonishment had seized them, and they said nothing to anyone, for they were afraid." The earliest Gospel has an empty tomb, no appearances, and a silence that conveniently explains why no one had heard of the empty tomb before Mark told it. The appearances were added later, by Matthew, Luke, and John. (Ehrman, and a mythicist staple.)
+
+**The Defense.** Read the two verses before the one the prosecution quotes: "He has risen; he is not here. See the place where they laid him. But go, tell his disciples and Peter that he is going before you to Galilee. There you will see him, just as he told you" (16:6-7). Mark's ending contains the resurrection, announced, and the appearances, promised, in Galilee, to the disciples and Peter, exactly where Matthew and John place them; what it lacks is the narration of the meeting, and it lacks it by design or by damage (the debate over whether Mark ended at 16:8 deliberately, in his characteristic style of abrupt endings and reader's astonishment, or lost his last page, is unresolved, and either way the Gospel's own words at 16:7 point past the silence). "They said nothing to anyone" describes the women's flight from the tomb, not the rest of their lives; Mark's Gospel is full of people told to be silent who are not, and the very next thing his readers knew, because his readers were Christians who had been told, was that the women had spoken. Matthew and Luke, using Mark, both narrate the appearances from independent traditions (Matthew's Galilee mountain, Luke's Emmaus road) rather than expanding Mark's text, which shows the appearance traditions existed apart from Mark and before him, as Paul's creed, older than Mark by two decades, already lists them: Cephas, the Twelve, the five hundred, James, all the apostles, and Paul. The empty tomb was not Mark's invention either; the creed's "he was buried, and he was raised on the third day" presupposes a tomb that was vacated, and the Jewish counter-claim recorded by Matthew (the disciples stole the body) presupposes the same.
+
+**The Exhibits.** Mark 16:1-8; 1 Corinthians 15:3-8; Matthew 28:11-15; the discussion of Mark's ending in France, *The Gospel of Mark* (NIGTC), and in the resurrection chapter of "The Writers of the New Testament."
+
+**The Weight.** *Early attestation:* the appearances are in Paul's creed before Mark wrote. *Independence:* Matthew's and Luke's appearance narratives are not expansions of Mark. *Text:* Mark 16:6-7 proclaims resurrection and promises appearances. Standard met: clear and convincing that Mark's ending does not lack the resurrection; the count misreads the passage it cites.
+
+### Count 38. The Gospels contradict one another in the genealogies, the nativities, the temple cleansing, the day and hour of the crucifixion, the last words, who carried the cross, Judas's death, the number of angels and women at the tomb, where the appearances happened, one demoniac or two, and Jairus's daughter dead or dying.
+
+**The Prosecution.** The catalog is long and the items are specific; a divinely guided record would not diverge on the day its subject died. (Ehrman, *Jesus, Interrupted*, chs. 1-2; every skeptic's list.)
+
+**The Defense.** The counts divide into four kinds, and honesty requires sorting them rather than answering them in a lump. First, differences that are not contradictions, because neither account excludes the other: the number of women (no Gospel says "only"), the angels (one speaks in Mark and Matthew, two are present in Luke and John; a reporter who mentions the one who spoke has not denied the other), the demoniacs (Matthew regularly reports two where Mark focuses on the spokesman, as with the blind men of Jericho), the cross (Jesus carried it, per John, until he faltered, and Simon carried it after, per the Synoptics), the last words (seven sayings across four Gospels, each reporting some), the centurion (two remarks, "truly this was the Son of God" and "certainly this man was innocent," both plausible from a man watching a death), Jairus's daughter (dying when Jairus set out in Mark, dead by the time he speaks in Matthew's compression). Second, differences of purpose: Matthew's genealogy is legal and royal (Solomon's line, to Joseph as adoptive father), Luke's is another line (Nathan's, through Mary's father on the oldest reading, or through a levirate marriage on Africanus's), and the two nativities are complementary rather than competing, Matthew telling Joseph's side and Luke Mary's, with Luke's family in Nazareth before the birth and Matthew's after the Egyptian flight, which the texts allow; the temple cleansing at the start in John and the end in the Synoptics is either two events or John's thematic placement, and the reader is free to choose. Third, apparent discrepancies with good solutions: Judas hanged himself (Matthew) and his body fell and burst (Acts) is one death described by two witnesses to its two ends, and Augustine saw it; Mark's "third hour" and John's "sixth hour" reflect Mark's habit of three-hour blocks (third, sixth, ninth) against John's rounder reckoning, or John's use of Roman hours, and the two agree that he died mid-afternoon; the appearances in Galilee and in Jerusalem both happened, in that order the Gospels themselves give (Jerusalem on Easter and the days following, Galilee after, Jerusalem again at the ascension; Luke's chapter 24 compresses forty days into one narrative day, as his own Acts 1:3 makes clear). Fourth, a genuine difficulty the church has always acknowledged: the day of the crucifixion, Passover in the Synoptics (the Last Supper as the Passover meal) and the day of preparation in John (Jesus dying as the lambs were slain). Solutions exist (different calendars in use, as at Qumran; John's "Passover" as the festival week; the Synoptic supper as a Passover meal held early), none certain; the handbook records the problem as open. What the whole catalog shows, sorted, is what independent testimony to one set of events looks like: agreement on every load-bearing fact (who, where, under whom, when in the week, the empty tomb, the appearances) and divergence in the peripheral detail. Four witnesses who agreed on the number of angels would be four copies of one witness.
+
+**The Exhibits.** The parallel-Gospel synopsis (Aland); Augustine, *Harmony of the Gospels*; Africanus in Eusebius, *Church History* 1.7 (the genealogies); Acts 1:3 (the forty days); Mark 15:25, 33-34 and John 19:14; Matthew 27:5 and Acts 1:18; the resurrection-narrative comparison in "The Writers of the New Testament."
+
+**The Weight.** *Coherence of the core:* total. *Independence:* demonstrated by the variations themselves. *Concession:* the crucifixion-day question is genuinely difficult and is recorded as such. Standard met: clear and convincing that the Gospels are independent witnesses to one event; the count establishes divergence in detail and nothing more.
+
+### Count 39. Mark makes geographical and cultural errors: the Gerasene swine forty miles from the lake; Abiathar for Ahimelech; the mustard seed as the smallest seed; wives divorcing husbands, a Roman custom.
+
+**The Prosecution.** Gerasa (Jerash) is thirty-five miles from the Sea of Galilee, so pigs could not have run into it; David took the bread "in the time of Abiathar the high priest" when 1 Samuel says Ahimelech; the mustard seed is not the smallest seed; and Mark 10:12 has Jesus forbid a woman to divorce her husband, a right Jewish women did not have. The author did not know Palestine.
+
+**The Defense.** Each has an answer the objection omits. The manuscripts of Mark 5:1 read "the country of the Gerasenes," a regional term (the Decapolis territory), and a strong minority reading gives "Gergesenes," the village of Kursi on the lake's eastern shore, where a steep bank runs to the water and Byzantine Christians built a church to mark the site; Matthew reads "Gadarenes," Gadara being the district capital six miles from the lake whose territory reached the shore. The text describes a region, not a run to Jerash. Abiathar: Mark's Greek (*epi Abiathar*) can mean "in the passage about Abiathar," the way the same construction is used two chapters later for "the passage about the bush" (12:26), or "in the days of Abiathar," the more famous priest of David's era, whose father Ahimelech gave the bread; either way, it is a citation, not an error a Palestinian would not make. The mustard seed was proverbially the smallest seed in Palestinian usage (the rabbis used "a grain of mustard" for the smallest quantity, and Jesus is quoting the proverb, "the smallest of all the seeds on earth" being how a farmer of Galilee spoke, not a botanist). Wives divorcing husbands: Herodias had done exactly that to marry Antipas, a fact Josephus records and Mark's readers knew, and Josephus notes Salome did the same a generation earlier; Jewish women in the Elephantine papyri initiate divorce; Mark's Jesus addresses the practice as it existed among the Herodian elite. None of the four is an error by a foreigner; each is a Palestinian idiom, a citation convention, or a fact about the Herods.
+
+**The Exhibits.** Mark 5:1 (the variants; Metzger's Textual Commentary); the Kursi excavations; Mark 2:26 with 12:26 (*epi tou batou*); Mishnah Niddah 5:2 (mustard as the smallest measure); Josephus, *Antiquities* 15.259 (Salome), 18.136 (Herodias); the Elephantine marriage contracts.
+
+**The Weight.** *Coherence:* each "error" has a local explanation; two are confirmed by Josephus. Standard: the count carries little weight; its examples are answered on the sources.
+
+### Count 40. Luke's census under Quirinius cannot be squared with Herod, who died in 4 BC; Quirinius governed Syria from AD 6.
+
+**The Prosecution.** Luke 2:1-2 dates the birth to "the first registration, when Quirinius was governor of Syria"; that census was in AD 6 (Josephus), after Herod's death; and no Roman census required people to travel to ancestral towns. Luke's nativity is history invented for theology. (Ehrman, Dawkins, nearly every list.)
+
+**The Defense.** This is a real difficulty and the handbook says so; it is also the most exhaustively studied verse in Luke, and the honest state of the question is that several solutions are possible and none is certain. Luke knew the AD 6 census; he mentions it in Acts 5:37 as "the census" that provoked Judas the Galilean, so he is not confusing two events by ignorance. The proposals: that Luke 2:2's Greek (*prōtē*) should be read "this registration was before Quirinius was governor," a use of the word Luke employs elsewhere and one defended by Nigel Turner and N. T. Wright; that Quirinius held an earlier command in Syria during Herod's last years (a Roman inscription, the Lapis Tiburtinus, records an unnamed legate who governed Syria twice, whom some identify as Quirinius); that Augustus's empire-wide registrations, which he lists himself in his Res Gestae (28 BC, 8 BC, AD 14), reached Herod's client kingdom in a form Luke calls a registration; and that Egyptian census papyri show provincial officials ordering people back to their home districts for enrollment (a 104 AD edict survives), so the journey to an ancestral town is documented Roman practice, not Luke's invention. What is not in doubt is that Luke, who dates events by consuls, tetrarchs, and high priests with a precision no other Gospel attempts and whose named officials keep being confirmed by inscriptions (Lysanias, Gallio, the politarchs, Sergius Paulus), was trying to anchor the birth in public records, and that the difficulty is one verse in a work otherwise remarkable for its accuracy. The handbook's verdict: unresolved, with credible solutions, and not a ground for dismissing a historian who gets the rest right.
+
+**The Exhibits.** Luke 2:1-2, 3:1; Acts 5:37; Josephus, *Antiquities* 18.1-2; Augustus, *Res Gestae* 8; the Lapis Tiburtinus (CIL XIV.3613); P.Lond. 904 (the AD 104 census edict); the Lysanias inscription (Abila); Sherwin-White, ch. 8; Wright, *Who Was Jesus?*, pp. 88-89.
+
+**The Weight.** *Concession:* a genuine chronological problem. *Coherence:* Luke's demonstrated accuracy elsewhere weighs for him. Standard: unresolved; the count establishes a difficulty, not a fabrication.
+
+### Count 41. Matthew's massacre of the infants is recorded by no one else, including Josephus, who catalogued Herod's crimes.
+
+**The Prosecution.** A slaughter of children would have been noticed. Josephus, who reports Herod's every murder, says nothing. Matthew invented it to fulfill Jeremiah and to mirror Moses.
+
+**The Defense.** Bethlehem was a village of a few hundred people; the number of boys under two would have been perhaps six to twenty; and Herod, in his last years, executed three of his own sons, his wife, her mother, her brother, and hundreds of others, and ordered that on his death the leading men of the nation be killed in the hippodrome so that someone would weep. Augustus's remark, preserved by Macrobius, was that it was "better to be Herod's pig than his son." A dozen dead infants in an obscure village, in that reign, would not have reached Josephus's sources, whose material on Herod came from the court historian Nicolaus of Damascus, a man interested in dynasty, not villages. The argument from Josephus's silence assumes he recorded everything, which no one who has read him believes; he does not mention the Baptist's execution by name-place, or the Gerasene town, or dozens of provincial events. Matthew's citation of Jeremiah 31:15 is the pattern-reading this handbook has already conceded (Count 27), and the Moses parallel is a shape Matthew shows, not a reason to doubt an event that fits Herod's documented character exactly.
+
+**The Exhibits.** Josephus, *Antiquities* 16-17 (Herod's executions; the hippodrome order, 17.174-179); Macrobius, *Saturnalia* 2.4.11; the population estimates for Bethlehem (Meier, *A Marginal Jew*, vol. 1); Matthew 2:16-18.
+
+**The Weight.** *Coherence:* fits Herod's character as Josephus records it. *Argument from silence:* weak, given the scale and Josephus's sources. Standard: the count establishes a single attestation, not an invention; preponderance for the event's plausibility.
+
+### Count 42. Matthew's earthquake, darkness, torn veil, and saints rising from their tombs are unrecorded anywhere and obviously legendary.
+
+**The Prosecution.** Matthew 27:51-53: tombs opened and "many bodies of the saints who had fallen asleep were raised... and went into the holy city and appeared to many." No other Gospel, no Jewish or Roman source, mentions a resurrection of the dead walking through Jerusalem.
+
+**The Defense.** The darkness and the torn veil are in all three Synoptics; the earthquake and the risen saints are Matthew's alone, and the handbook does not pretend otherwise. Two readings are held by scholars who accept the resurrection of Jesus: that the verses report events Matthew's sources knew and the others omitted, or that they are apocalyptic imagery in the manner of Jewish writing about the Day of the LORD (the earth shaking, the tombs opening, Ezekiel 37's bones), signaling the meaning of the death rather than narrating a procession; Michael Licona, a defender of the resurrection, argues the second and was criticized for it by other defenders, which shows the question is live inside the church. Either way, the verses carry none of the case: the crucifixion is multiply attested, the resurrection of Jesus is in Paul's creed and every Gospel, and Matthew 27:52 is cited by no apostle, no creed, and no other Gospel as evidence of anything. The prosecution has found the one passage the defense does not rest on. The darkness, for what it is worth, is mentioned by the third-century chronicler Julius Africanus, quoting the pagan historian Thallus, who explained it as an eclipse, which Africanus notes is impossible at Passover's full moon; that is a thin thread, and the handbook does not hang anything on it.
+
+**The Exhibits.** Matthew 27:45-54; Mark 15:33-38; Luke 23:44-45; Licona, *The Resurrection of Jesus* (2010), pp. 548-553; Africanus in Syncellus (Thallus, fragment 1).
+
+**The Weight.** *Concession:* single attestation; possibly non-narrative in intent. *Relevance:* carries no weight for or against the case's core. Standard: the count is answered by its irrelevance to what is being tried.
+
+### Count 43. The trial as narrated violates Jewish law: a night session, on a feast, with a capital verdict in one day.
+
+**The Prosecution.** The Mishnah (Sanhedrin 4:1) forbids capital trials at night, on Sabbaths or festivals, and verdicts on the day of trial. The Gospel trial breaks every rule, so it never happened as told. (A standard Jewish and skeptical objection.)
+
+**The Defense.** Three replies. The Mishnah was codified around AD 200, describing Pharisaic-rabbinic ideals of procedure; the Sanhedrin of AD 30 was dominated by Sadducees, who did not accept the Pharisees' oral law, and whether the Mishnah's rules were in force under Caiaphas is doubted by the historians of Jewish law themselves. Second, the Gospels do not present a regular trial; they present an irregular one, a night hearing at the high priest's house (John 18:13, Mark 14:53) followed by a formal morning session to ratify it (Luke 22:66; Mark 15:1), and they present it as irregular: false witnesses who could not agree, a verdict sought before evidence, and the whole thing rushed to Pilate before the city woke. That the proceeding broke the rules is the Gospels' own point, not an inconsistency they failed to notice. Third, the Sanhedrin's own later tradition, in Sanhedrin 43a, claims the trial was conducted with scrupulous fairness over forty days, which is a defensive counter-narrative to a proceeding remembered as rushed; enemies do not defend the fairness of a trial that never happened.
+
+**The Exhibits.** Mishnah Sanhedrin 4:1, 5:5; Mark 14:53-65, 15:1; Luke 22:66-71; John 18:12-28; Sanhedrin 43a; Josephus, *Antiquities* 20.200 (Ananus's illegal Sanhedrin of 62, showing high priests convening irregular sessions).
+
+**The Weight.** *Coherence:* the Gospels narrate an irregular proceeding and say so. *Context:* the Mishnah's rules are later and Pharisaic. *Hostile corroboration:* Josephus shows a high priest convening an illegal capital session in the same generation. Standard met: the count carries no weight; the irregularity it identifies is the narrative's own claim.
+
+### Count 44. Pilate is whitewashed: Philo and Josephus describe a brutal man, but the Gospels make him a reluctant judge pushed by the Jews, shifting the blame from Rome.
+
+**The Prosecution.** The historical Pilate slaughtered Samaritans, provoked riots, and was removed for cruelty; the Gospel Pilate washes his hands and pronounces Jesus innocent three times. The Gospels invented a Roman sympathizer to make the Jews the villains.
+
+**The Defense.** The Gospels' Pilate is not sympathetic; he is weak, cynical, and cruel, which is Philo's Pilate exactly. He has Jesus flogged without a verdict, mocks him, offers the crowd a choice designed to humiliate them, taunts the priests with the inscription, and executes a man he has declared innocent, out of political fear; John names the fear, "if you release this man, you are not Caesar's friend" (19:12), and that line is the key the histories supply. Pilate's patron in Rome, Sejanus, had been executed for treason in AD 31, and Tiberius was purging Sejanus's appointees; a governor in that position, threatened with a report to Caesar by a provincial elite, would do precisely what the Gospels show, sacrifice a Galilean to keep his post. Philo himself records that Pilate backed down when the Jews threatened to appeal to Tiberius over the shields, which is the same behavior. The "whitewash" reading requires the Gospels to have made Pilate innocent; they made him guilty of exactly the crime Philo describes, executing without cause under pressure, and the earliest creed outside the Gospels, "suffered under Pontius Pilate," fixes the blame on him by name for every century since.
+
+**The Exhibits.** Philo, *Embassy to Gaius* 299-305; Josephus, *Antiquities* 18.55-62, 85-89; John 19:1-16; Tacitus, *Annals* 15.44; the fall of Sejanus (Tacitus, *Annals* 6; Dio 58); the Apostles' Creed.
+
+**The Weight.** *Coherence:* the Gospel Pilate and Philo's Pilate are the same man; the Sejanus context explains the behavior. Standard met: the count fails; the alleged whitewash is a misreading of the texts.
+
+### Count 45. Jesus's prediction of the temple's fall proves Mark was written after AD 70.
+
+**The Prosecution.** "Not one stone will be left upon another" (Mark 13:2) is too accurate to be a prophecy; it is a memory. Mark wrote after the event and put it in Jesus's mouth.
+
+**The Defense.** The dating argument assumes prophecy is impossible, which is the conclusion under trial, not a premise the court can grant. Set that aside and judge it as historians judge predictions: Jesus's saying has direct Old Testament precedent (Micah 3:12, "Zion shall be plowed as a field," and Jeremiah 26, both quoted by the Sanhedrin in Jeremiah's own trial), the temple's destruction was a live fear in a province that had seen it burned once, and Jesus was not the only man of his generation to predict it (Josephus records another Jesus, son of Ananias, crying "woe to Jerusalem" for seven years before 70). More telling: the details in Mark 13 do not match what happened. Mark's Jesus warns of an "abomination of desolation" standing in the temple, echoing Daniel and Antiochus; what actually happened was a fire and a demolition, and a writer composing after the fact would have said so. Luke's version does mention "armies" around the city (21:20), and Luke-Acts ends with Paul alive in Rome about 62, without a word of the war that began in 66, which is why the strongest argument in this area cuts the other way: the silence of Acts about the temple's fall, Paul's death, and Peter's death is the silence of a book finished before them.
+
+**The Exhibits.** Mark 13:1-2, 14; Micah 3:12; Jeremiah 26:6, 18; Josephus, *War* 6.300-309 (Jesus son of Ananias); Acts 28:30-31; the pre-70 dating argument in Robinson, *Redating the New Testament* (1976), and Hemer, *The Book of Acts in the Setting of Hellenistic History* (1989).
+
+**The Weight.** *Method:* the count assumes what it must prove. *Coherence:* the prophecy's details fit Daniel's precedent, not the event; Acts' silence weighs for an early date. Standard: the count carries no weight for a post-70 date.
+
+### Count 46. Luke copied Josephus (the census, Theudas, the Egyptian, Lysanias), which dates Luke-Acts after 93.
+
+**The Prosecution.** Luke and Josephus share Theudas and Judas the Galilean (Acts 5), the Egyptian prophet (Acts 21), the census, Lysanias, and the famine; Josephus published the Antiquities in 93; Luke must have used it. (Steve Mason; Carrier.)
+
+**The Defense.** Where the two overlap, Luke differs from Josephus in ways a copyist would not: Gamaliel's speech in Acts 5 puts Theudas before Judas the Galilean, while Josephus puts Theudas forty years later, a discrepancy that has been counted against Luke for two centuries and which no one copying Josephus would produce; Luke's Egyptian leads "four thousand" and Josephus's thirty thousand; and Luke's Lysanias, tetrarch of Abilene in the reign of Tiberius (3:1), is not Josephus's Lysanias, who died in 36 BC, but a later one, confirmed by an inscription from Abila naming "Lysanias the tetrarch" in Tiberius's time, so that Luke is right where Josephus would have led him wrong. Shared subject matter between two authors writing about the same province in the same generation is what one expects; shared errors would be evidence of copying, and Luke and Josephus share none. The thesis is a minority position among Josephus scholars and among Lukan scholars alike.
+
+**The Exhibits.** Acts 5:36-37 and Josephus, *Antiquities* 20.97-102; Acts 21:38 and *War* 2.261; Luke 3:1 and the Abila inscription (CIG 4521); Mason, *Josephus and the New Testament* (1992); the responses in Keener, *Acts* (2012), vol. 1, introduction.
+
+**The Weight.** *Coherence:* the divergences are the opposite of dependence. *Archaeological anchoring:* Luke's Lysanias confirmed against Josephus. Standard: the count fails; the dependence is unproven and the evidence points away from it.
+
+### Count 47. The messianic secret, the Q source, and the Synoptic problem show literary creation, not reporting.
+
+**The Prosecution.** Mark's Jesus keeps ordering silence about his identity, a device (Wrede, 1901) invented to explain why no one remembered him as Messiah; Matthew and Luke draw on a hypothetical sayings source, Q, and edit Mark freely; the Gospels are compositions, not records.
+
+**The Defense.** That the Gospels are compositions, with sources, arrangement, and purpose, is what Luke says in his first sentence, and it is what every ancient history is; composition is not invention. Q is a hypothesis about the material Matthew and Luke share that is not in Mark; if it existed, it was an early collection of Jesus's sayings, which makes the sayings earlier and better attested, not later; if it did not, Luke used Matthew, which changes nothing about the historical Jesus. The messianic secret is a real feature of Mark and has a better explanation than Wrede's: a Messiah who knew the title carried the Psalms of Solomon's meaning (a conquering king) and who intended something else had every reason to prevent the crowds from crowning the wrong man, which is exactly what John 6:15 reports them trying to do; the secret is broken at the trial, when the question is put directly, and Jesus answers with Daniel 7 and is condemned for it. Wrede's theory required that Jesus never claimed to be Messiah; the trial, the inscription on the cross ("King of the Jews," a charge of messianic pretension, which Rome executed for), the disciples' immediate proclamation, and the enemies' recorded charges all say he did. The literary features the prosecution cites are the features of a book written by an author; the historical claim they are meant to undermine stands on the multiple sources the same features reveal.
+
+**The Exhibits.** Luke 1:1-4; Mark 8:29-30, 14:61-64, 15:26; John 6:15; Wrede, *The Messianic Secret* (1901); Wright, *Jesus and the Victory of God*, ch. 11 (the reply); Bauckham on the eyewitness sources behind Mark.
+
+**The Weight.** *Coherence:* the secret has a historical explanation; the composition is disclosed by the authors. Standard: the count carries little weight; it describes authorship and infers fiction.
+
+### Count 48. Later Christians forged letters in Paul's and Peter's names, so the New Testament contains admitted forgeries.
+
+**The Prosecution.** Most scholars hold that the Pastorals (1-2 Timothy, Titus), Ephesians, Colossians, 2 Thessalonians, 2 Peter, and possibly 1 Peter were written by others in the apostles' names, which in the ancient world was called forgery and condemned. (Ehrman, *Forged*, 2011.)
+
+**The Defense.** The state of the question is honestly this: seven of Paul's letters are undisputed by anyone (Romans, 1-2 Corinthians, Galatians, Philippians, 1 Thessalonians, Philemon), the authorship of six others is debated on grounds of style and vocabulary, and 2 Peter is the most doubted book in the New Testament. Three things follow. The undisputed seven carry the whole historical case this handbook makes: the creed, the appearances, the meetings with Peter and James, the brother, the crucifixion, the burial; nothing in Parts Two through Five depends on a disputed letter. The stylistic arguments are weaker than the prosecution presents, because ancient authors dictated to secretaries who shaped the Greek (Paul's own letters name the practice), and a man's vocabulary changes across twenty years and different subjects; the defenders of Pauline authorship (Luke Timothy Johnson on the Pastorals, for one) are not fringe. And "forgery" is Ehrman's term for what other scholars call pseudonymous composition by a disciple in the master's tradition, a practice whose acceptability in Jewish and Christian circles is itself debated; whichever word is used, the church's own canon lists show it excluding books it judged pseudonymous (the Gospel of Peter, the Acts of Paul) on exactly that ground, which means the criterion was applied and the disputed letters passed it in the judgment of the people nearest the evidence. The handbook rests nothing on them and records the dispute.
+
+**The Exhibits.** Romans 16:22; 1 Peter 5:12; Ehrman, *Forged*; Johnson, *The First and Second Letters to Timothy* (Anchor Bible); the Muratorian Fragment's exclusions; Tertullian, *On Baptism* 17 (the presbyter deposed for composing the Acts of Paul).
+
+**The Weight.** *Relevance:* the case rests on undisputed letters. *Concession:* authorship of six letters is debated. Standard: the count establishes a scholarly dispute over books the case does not need.
+
+### Count 49. The lost gospels (Thomas, Peter, Mary, Judas, Philip) were suppressed; the church chose the four that fit its theology.
+
+**The Prosecution.** Dozens of gospels circulated; the winners burned the losers' books; Thomas may be earlier than the canonical four and shows a Jesus without a cross. (Pagels, *The Gnostic Gospels*; *The Da Vinci Code*'s eighty gospels.)
+
+**The Defense.** Dating settles it. The Gospel of Thomas, the earliest and best of the others, is dated by most scholars to the mid-second century (its earliest fragments are around 200, its dependence on the canonical Gospels' Greek is demonstrable in places, and its Gnostic-leaning sayings reflect second-century concerns); the Gospel of Peter is second century and was identified as a forgery by Bishop Serapion around 200 on inspection; the Gospel of Mary is second or third century; the Gospel of Judas is mentioned by Irenaeus around 180 as a recent Gnostic production; Philip is third century. None was written by its named author, none is earlier than the canonical four, and none was ever received by any church as apostolic. The canonical four were not chosen by vote from among rivals; they were the earliest, the only ones attributed to apostles or their companions from the start, and the ones in universal use by 180, when Irenaeus can already speak of "the fourfold Gospel" as a settled fact and Tatian can weave the four into one harmony; the others were the latecomers, and the church's rejection of them is what one expects of a community that cared who had actually known Jesus. As for "suppression": the Nag Hammadi library survived because Egyptian monks buried it, and its Jesus is a revealer of secret sayings who does not die for anyone, which is why the prosecution's claim that these books were suppressed for their theology is true and its implication is false. They were rejected because they were late, pseudonymous, and told a different story, and the church said so at the time.
+
+**The Exhibits.** Papyrus Oxyrhynchus 1, 654, 655 (Thomas fragments, c. 200); the Nag Hammadi codices (fourth century); Irenaeus, *Against Heresies* 1.31.1 (Judas), 3.11.8 (the fourfold Gospel); Eusebius, *Church History* 6.12 (Serapion on the Gospel of Peter); Tatian's *Diatessaron*; the dating discussion in Ehrman, *Lost Christianities* (who dates Thomas to the second century).
+
+**The Weight.** *Early attestation:* the canonical four precede every rival by fifty to a hundred years. *Consensus:* the dating is agreed across the spectrum, including by scholars sympathetic to the Gnostics. Standard met: beyond reasonable doubt that the four are the earliest; the "suppression" narrative inverts the chronology.
+
+### Count 50. The canon was decided by Constantine at Nicaea, by politics and votes.
+
+**The Prosecution.** In 325 the emperor convened bishops who voted on Jesus's divinity and on which books were Scripture; the losers were burned. (*The Da Vinci Code*; the internet.)
+
+**The Defense.** Nicaea's agenda was Arius and the date of Easter; the canon was not discussed, and no record, Christian or pagan, says it was. The fourfold Gospel was settled by 180 (Irenaeus, Tatian), a century and a half before Constantine; the Muratorian Fragment lists most of the New Testament around the same time; the first list matching the twenty-seven exactly is Athanasius's Easter letter of 367, forty years after Nicaea and written by a bishop the emperor exiled five times; and the councils that ratified lists, Hippo (393) and Carthage (397), were regional and post-Constantinian by two generations. The divinity of Christ was not invented at Nicaea either: it is in Paul (Philippians 2:6-11, Romans 9:5), in John, in Ignatius (c. 110: "Jesus Christ our God"), in Pliny's report of Christians singing "to Christ as to a god" in 112, and in the graffito from the Palatine mocking a Christian for worshiping a crucified man with a donkey's head, around 200. Nicaea defined the vocabulary for what the church had worshiped for three centuries. The story the prosecution tells is a novel's, and the novel's author has said so.
+
+**The Exhibits.** The canons of Nicaea (twenty, none on Scripture); Athanasius, *Festal Letter* 39; Irenaeus 3.11.8; the Muratorian Fragment; Ignatius, *Ephesians* 18:2; Pliny, *Letters* 10.96; the Alexamenos graffito; Philippians 2:6-11.
+
+**The Weight.** *Fact:* the claim is false on every point. Standard: dismissed.
+
+### Count 51. Alexander the Great's story grew legends within decades; forty years is plenty for legend.
+
+**The Prosecution.** By the time of the Alexander Romance, Alexander was fathered by a god, spoke with talking trees, and dove to the sea floor. Legend accretes fast, and the Gospels are legend's early stage.
+
+**The Defense.** The Alexander Romance is from the third century AD, six hundred years after Alexander; the sober histories of him (Arrian, Plutarch, Curtius) are three to four centuries after him, and they are the ones historians use, precisely because the legendary material is identifiable as late. The Gospels are the sober histories, not the romance, and they are within forty years, not six hundred. Sherwin-White's study of the rate of legend in Herodotus concluded that "even two generations are too short a span to allow the mythical tendency to prevail over the hard historic core," and that for the Gospels to be legendary, "the tempo of myth-making would have had to be unbelievable." The comparison the prosecution offers is the defense's own exhibit: it shows what legend looks like, how late it comes, and how easily historians tell it from the core.
+
+**The Exhibits.** The Alexander Romance (Pseudo-Callisthenes, 3rd c. AD); Arrian, *Anabasis* (2nd c. AD); Sherwin-White, *Roman Society and Roman Law in the New Testament*, pp. 188-191.
+
+**The Weight.** *Comparables:* the Gospels stand where Arrian stands, not where the Romance stands, and closer. Standard: the count supports the defense.
+
+### Count 52. The women-as-witnesses argument fails because Mark's women told no one and Paul's creed omits them.
+
+**The Prosecution.** Christians say no one would invent women as the first witnesses, since their testimony was discounted. But Mark says the women "said nothing to anyone," and Paul's list of witnesses in 1 Corinthians 15 has no women at all. The argument from embarrassment collapses.
+
+**The Defense.** All four Gospels, independently, make women the first at the tomb and Mary Magdalene the first named; Matthew, Luke, and John narrate them telling the disciples; and Mark's "said nothing to anyone" describes their flight (Count 37), in a Gospel whose readers knew they had spoken. Paul's creed is a formula for public proclamation, compiled in a world where a woman's testimony was inadmissible in a Jewish court; that it names only men is exactly what the embarrassment argument predicts, the official list edited for the audience, while the narrative tradition, freer, kept the women where they were. The two facts together are the argument: the Gospels preserved a detail the creed found awkward enough to omit, which is what remembered history looks like and invented apologetic does not. A church inventing the story would have put Peter at the tomb first, and Luke, who reports that Peter ran to see, still puts the women before him.
+
+**The Exhibits.** Mark 16:1-8; Matthew 28:1-10; Luke 24:1-12; John 20:1-18; 1 Corinthians 15:3-8; Josephus, *Antiquities* 4.219 (women's testimony inadmissible); Mishnah Rosh Hashanah 1:8.
+
+**The Weight.** *Embarrassment:* confirmed rather than refuted by the creed's omission. *Multiple attestation:* four independent Gospel accounts. Standard met: clear and convincing that the women's priority is historical.
+
+### The verdict on Part Three
+
+The documents are what the defense has claimed: four Gospels with apostolic attributions carried from the start, written within living memory in the genre of ancient biography, resting on eyewitness tradition transmitted under public control, preserved in a manuscript tradition richer by a hundredfold than any other ancient text and sifted by that richness to the level of a dozen verses, all marked, and divergent from one another exactly as independent witnesses diverge, in the peripheral detail and never in the core. The genuine difficulties, the crucifixion day, the census, the disputed epistles, Matthew's risen saints, are recorded as such and carry none of the case. The textual critic's witness has established that the New Testament is a human document, copied by human hands, with the ordinary marks of both, and that is what the defense has always said it was. What the witness has not established is a single corruption of the core testimony, a single demonstrated fabrication, or a single count that moves the verdict on Part Two. The documents are admitted into evidence.
+
+---
+
+*Part Three complete. Next: Part Four, the church historian: who chose the books, and what the church did with them.*
+
+---
+
+## PART FOUR: WHO CHOSE THE BOOKS?
+
+*Witness: the church historian. The counts here are about what the church did with the documents and with its power: Constantine, the canon, the Gnostics, Galileo, the crimes. They are called now because nearly every reader has heard the popular version, and because they are short: most were settled in Part Three or belong to a different trial, and the handbook says which.*
+
+### Count 53. Constantine invented Christianity as we know it and made Jesus divine by vote at Nicaea.
+
+**The Prosecution.** Before 325 there were many Christianities; the emperor picked one, imposed its creed, and made a Jewish prophet into God by a show of hands. (*The Da Vinci Code*; the internet.)
+
+**The Defense.** Count 50 has already shown that Nicaea did not touch the canon and that the divinity of Christ is in Paul, John, Ignatius, and Pliny's report of 112, two centuries before Constantine. What Constantine actually did: he legalized a religion that had grown, under persecution, to perhaps a tenth of the empire (Count 57); he convened a council to settle a dispute that was tearing the churches of the East apart; he did not vote at it, and the bishops who did, some 300 of them, many bearing the scars of Diocletian's persecution, voted 300 to 2 against Arius, which is not the arithmetic of an imposed result; and within a decade Constantine himself was leaning toward the Arians, exiled Athanasius, and was baptized on his deathbed by an Arian bishop. The "Constantinian Christianity" of the objection was the one the emperor's own house spent the next fifty years trying to undo, and it survived them. The claim that "many Christianities" competed as equals is Count 49 again: the Gnostic alternatives were later, pseudonymous, and rejected on those grounds by bishops who had no imperial power and were themselves being executed. Constantine did change Christianity, in ways the church has debated ever since, by giving it the state; he did not write its creed, choose its books, or invent its Lord.
+
+**The Exhibits.** The canons of Nicaea; the Nicene Creed (325); Eusebius, *Life of Constantine* 3.6-14; Socrates Scholasticus, *Church History* 1.8; Athanasius, *History of the Arians*; Ignatius, *Ephesians* 18:2; Pliny, *Letters* 10.96.
+
+**The Weight.** *Fact:* the claim is false on the record. Standard: dismissed; see Counts 49 and 50.
+
+### Count 54. The canon was fixed late and arbitrarily; the Apocrypha was in, then out; different churches have different Bibles.
+
+**The Prosecution.** No complete list of the New Testament exists before 367; Hebrews, James, 2 Peter, and Revelation were doubted for centuries; the Old Testament's boundaries are still disputed between Catholic, Orthodox, and Protestant Bibles. A book whose contents were argued over for four hundred years is not a book from God.
+
+**The Defense.** Distinguish the core from the edges, and the New Testament from the Old. The core of the New Testament, the four Gospels, Acts, Paul's thirteen letters, 1 Peter, and 1 John, twenty of the twenty-seven books, was in universal use and cited as Scripture by 180, within a century of the last apostle, and was never disputed by any church anywhere; the "argument" was over the seven books at the edges, and it was an argument about authorship and reception (was Hebrews Paul's? was 2 Peter genuine? was Revelation's authorship secure in the East?), conducted by the criteria of apostolic origin, antiquity, and catholic usage, which is what a community that cared about authenticity would argue about. The process was recognition, not selection: the books were used in worship for generations before any bishop listed them, and the lists, when they came, recorded what the churches already read. As to different Bibles: every Christian church on earth, Catholic, Orthodox, Protestant, Coptic, Ethiopian, Armenian, has the same twenty-seven New Testament books, without exception; the difference is entirely on the Old Testament's deuterocanonical books, whose history (Greek Bible, Jerome, Luther, Trent) this series' orientation page walks, and which concerns the boundary of Israel's canon, not the apostles'. A "late" canon is the normal history of any authoritative collection; the Hebrew Bible's own third division was still being discussed at Yavneh, and no one thinks the Psalms therefore unreliable.
+
+**The Exhibits.** Irenaeus, *Against Heresies* 3.11.8; the Muratorian Fragment; Eusebius, *Church History* 3.25 (the "acknowledged," "disputed," and "spurious" lists, c. 320); Athanasius, *Festal Letter* 39; the orientation page ("Before You Begin"), Part Five; Metzger, *The Canon of the New Testament* (1987).
+
+**The Weight.** *Early attestation:* twenty of twenty-seven books universal by 180. *Consensus:* all churches share the twenty-seven. Standard: the count establishes a normal process of recognition, not arbitrariness.
+
+### Count 55. The church suppressed the Gnostics, burned the library of Alexandria, and persecuted science (Galileo, Bruno).
+
+**The Prosecution.** Christianity's rise was the fall of classical learning: the library destroyed by a Christian mob, Hypatia murdered, the Gnostics exterminated, and a millennium later Galileo silenced and Bruno burned for saying the earth moves.
+
+**The Defense.** Each item, checked. The Gnostics were answered by argument (Irenaeus, c. 180) by a church that had no power to suppress anyone and was itself being executed; the Gnostic texts survived because Christian monks in Egypt buried them in the fourth century, and the Nag Hammadi library is why we have them. The library of Alexandria declined over centuries: Caesar's fire in 48 BC, Aurelian's sack in 272, budget cuts under the later emperors; the Serapeum destroyed by a Christian mob in 391 was a temple, and whether it still held books is doubted by the historians of the library; Hypatia's murder in 415 was a political atrocity in a factional city, condemned by Christian writers of the time, and she was a Neoplatonist, not a scientist of the library, which no longer existed. Galileo's affair is real, and the church has said so (John Paul II, 1992), and it is also not the story the objection tells: the church's astronomers accepted Galileo's observations; the dispute was over whether he had proved heliocentrism, which he had not (his tidal argument was wrong), and whether Scripture should be reinterpreted on the strength of an unproven theory; the sentence was house arrest in a villa, where he wrote his greatest book; and Copernicus, whose theory Galileo defended, was a canon of the church who dedicated his book to the pope. Bruno was burned, disgracefully, for denying the Trinity, the divinity of Christ, and transubstantiation, and for practicing magic, in a trial whose surviving charges do not mention Copernicus; he was a martyr for heresy, not for astronomy. What the objection omits is the other column: the cathedral schools and universities the church built, the friars who made medieval physics, Buridan and Oresme, Grosseteste and Bacon, Mendel the abbot and Lemaître the priest who proposed the expanding universe, and the historians of science (Grant, Lindberg, Hannam) whose settled judgment is that medieval Christianity was science's seedbed, not its enemy. The church has sins in this ledger; the "war between science and religion" is a nineteenth-century myth (Draper and White) that historians of science abandoned a century ago.
+
+**The Exhibits.** Irenaeus, *Against Heresies*; the Nag Hammadi codices; Socrates Scholasticus 7.15 (Hypatia; Socrates was a Christian who condemned it); the Galileo trial documents (Finocchiaro, *The Galileo Affair*); the Bruno charges (Firpo, *Il processo di Giordano Bruno*); Numbers, ed., *Galileo Goes to Jail and Other Myths about Science and Religion* (2009); Hannam, *God's Philosophers* (2009).
+
+**The Weight.** *Fact:* two items false, two misdescribed, one real and conceded. Standard: the count establishes one genuine failure (Galileo), against a record the objection has not read.
+
+### Count 56. Christianity borrowed from Zoroastrianism: resurrection, judgment, Satan, heaven and hell.
+
+**The Prosecution.** Judaism had none of these until the exile, when Persian religion supplied them; Christianity inherited the borrowed goods.
+
+**The Defense.** The dating runs the wrong way for the objection. The Zoroastrian texts that describe bodily resurrection, final judgment, and a dualistic adversary in detail (the Bundahishn and the Pahlavi books) were compiled in the ninth century AD, a thousand years after the exile, and the earliest Zoroastrian scripture, the Gathas, is ambiguous on all three; scholars of Iranian religion (Boyce among them) argue Zoroaster taught resurrection early, but the evidence for what Persians believed in 500 BC is thinner than the evidence for what Jews believed. The Jewish doctrine of resurrection has its own roots: Ezekiel 37's bones, Isaiah 26:19 ("your dead shall live; their bodies shall rise"), Daniel 12:2, and behind them the creation theology of Genesis, in which God made the body good and will not abandon it; Satan as an adversary appears in Job, Zechariah, and Chronicles, texts of the exilic and Persian period, and contact with Persian ideas in that period may well have shaped Jewish vocabulary, which this handbook does not deny. But contact is not derivation, and derivation is not falsity: that the Jews of the exile met a people who also believed the dead would rise says nothing about whether the dead will rise. The objection commits the genetic fallacy, and the Christian claim was never that resurrection was a Jewish idea no one else had; it was that one man in history actually rose.
+
+**The Exhibits.** Ezekiel 37; Isaiah 26:19; Daniel 12:2; Job 1-2; Zechariah 3; the Gathas (Yasna 30, 43-51); the Bundahishn (9th c. AD); Boyce, *A History of Zoroastrianism*; Wright, *The Resurrection of the Son of God*, ch. 3 (the Jewish sources).
+
+**The Weight.** *Dating:* the detailed Persian sources are later than the Jewish ones. *Logic:* genetic fallacy. Standard: the count establishes possible contact and no consequence for truth.
+
+### Count 57. The early church was a tiny sect that would have died without imperial power.
+
+**The Prosecution.** A few thousand followers of a crucified man became a world religion only because an emperor adopted them. The growth proves nothing about the truth; it proves what state power can do.
+
+**The Defense.** The growth happened before the state, under the state's persecution, and the emperor adopted the church because it was already large. Pliny, in 112, found Christians in Bithynia "of every age and rank," in the towns and the countryside, in numbers that had emptied the temples and ruined the trade in sacrificial animals. By 250 the church in Rome supported fifteen hundred widows and poor from its own funds (Eusebius quotes the bishop's letter). The sociologist Rodney Stark's calculation, from the surviving numbers, is a growth rate of about forty percent per decade, from a few thousand in AD 40 to around six million, a tenth of the empire, by 300; and the decade before Constantine was the Great Persecution of Diocletian, the most systematic in the empire's history, which failed. Constantine's adoption of Christianity was the act of a politician who could count, and the church's subsequent history in the East, where Arian emperors, a pagan emperor (Julian), and later the Islamic conquest all withdrew state support, shows a religion that survived the loss of power as readily as it had survived its absence. The objection has the causation backward: power did not make the church; the church, grown without it, was what power reached for.
+
+**The Exhibits.** Pliny, *Letters* 10.96; Eusebius, *Church History* 6.43.11 (Cornelius's letter); Stark, *The Rise of Christianity* (1996), ch. 1; Lactantius, *On the Deaths of the Persecutors*; the Edict of Milan (313).
+
+**The Weight.** *Fact:* growth preceded and survived state power. Standard: the count fails on the chronology.
+
+### Count 58. Christians cannot agree among themselves (40,000 denominations), so the message is not clear.
+
+**The Prosecution.** Forty thousand denominations, each claiming the Bible; if God's word were clear, one church would read it. The number proves the book is a Rorschach test.
+
+**The Defense.** The number is a misreading of its source. The *World Christian Encyclopedia*, from which it comes, counts organizational units by country: a Baptist body in Nigeria and one in Brazil are two entries, and a single independent congregation is one; by theology, the traditions of Christianity number a few dozen families, and by creed, the vast majority, well over ninety percent of Christians, confess the same Nicene faith, the same Trinity, the same incarnation, the same death and resurrection, the same twenty-seven books, the same baptism, and the same Lord's Prayer, and have for sixteen centuries. The disagreements are real and some are serious (the sacraments, church order, justification's mechanics), and Jesus himself prayed that his followers would be one, which is a prayer the church has not honored; but disagreement among the readers does not show the text unclear, or the same argument would dissolve the Constitution, the Talmud, and every science with competing schools. The core on which the churches agree is the core this handbook is trying, and no denomination disputes a count in it.
+
+**The Exhibits.** Barrett, Kurian, and Johnson, *World Christian Encyclopedia* (2001), the methodology note; the Nicene Creed; John 17:21.
+
+**The Weight.** *Fact:* the figure counts organizations, not doctrines. *Logic:* the inference from disagreement to unclarity fails generally. Standard: the count carries little weight.
+
+### Count 59. The Catholic Church's crimes (the Inquisition, the abuse scandals) discredit the whole religion.
+
+**The Prosecution.** A church that burned heretics for centuries and protected child abusers in ours has forfeited any claim to moral authority, and with it any claim to truth.
+
+**The Defense.** The crimes are real, and the handbook records them without softening: the Inquisitions executed thousands over three centuries (the Spanish Inquisition's documented total is between three and five thousand, not the millions of legend, but every one a human being killed for belief); the abuse of children by clergy, and its concealment by bishops, is the church's worst modern sin, exposed by the press and by the church's own victims, prosecuted, and still being reckoned. The question the court must ask is what these prove about the claim being tried. Jesus said his followers would include wolves, hypocrites, and tares, and that they would be known by their fruits; his own apostle betrayed him and another denied him; the New Testament's first letter to a church is a rebuke of that church's incest, drunkenness, and factionalism; the standard by which the church's crimes are judged, and by which its own members judge them, is the standard the founder set. That the standard was violated by those who professed it is an argument against them, not against it, unless the argument is that no institution of humans can be trusted with any truth, which would empty every university and hospital as well. The church's history also has the other column, which the objection omits: the hospitals, the universities, the abolitionists, the Righteous Among the Nations, and the fact that the Inquisition was condemned, the abusers were exposed, and the church's own saints were most often its critics. The genetic fallacy applies: the truth of a claim is not determined by the conduct of its holders, or physics would be refuted by the Manhattan Project. The handbook tries the claims. The church's crimes belong in a different court, and it is one the church has rightly been made to stand in.
+
+**The Exhibits.** Kamen, *The Spanish Inquisition: A Historical Revision* (1997); Matthew 7:15-23, 13:24-30; 1 Corinthians 5-6; the John Jay Report (2004); the Pennsylvania Grand Jury Report (2018); John Paul II's apologies of 2000.
+
+**The Weight.** *Relevance:* the count is true and belongs to a different trial. *Logic:* genetic fallacy. Standard: conceded as history, dismissed as evidence against the claims.
+
+### Count 60. The Bible was assembled by men with agendas; who chose the books, and by what authority?
+
+**The Prosecution.** Someone decided what was Scripture and what was not, and those someones were bishops with interests. Why should their choice bind anyone?
+
+**The Defense.** The short answer is that no one chose; the churches recognized, and the recognition tracked one criterion above all: did this book come from the apostles or their companions, and had it been read as such from the beginning? The core (Count 54) needed no decision; it was in use everywhere before anyone made a list, and the lists, when they came, were descriptions of what the churches read. The authority behind the books is the apostles', whom Jesus commissioned, and behind them his; the church's role was to identify their writings, which it did by the tests of origin, antiquity, and universal use, and by rejecting, on the same tests, the books it found to be later and pseudonymous, however edifying (the Shepherd of Hermas was loved and excluded). For the Old Testament, the Christian canon is the one Jesus named, "the Law of Moses and the Prophets and the Psalms" (Luke 24:44), the three shelves of the synagogue, which is why this series reads it in that order; the deuterocanonical question is the boundary of Israel's third shelf, and the orientation page gives both sides. The objection's real force is against the idea that a book's authority could ever be mediated by a community; but that is how every authoritative text in history has reached its readers, including the objection's own preferred sources, and the New Testament's community was the one that had known the men who knew him.
+
+**The Exhibits.** Luke 24:44; Irenaeus 3.1-4 (apostolic succession as the criterion); Eusebius 3.25; the Muratorian Fragment (rejecting Hermas: "too recent"); Bruce, *The Canon of Scripture* (1988); the orientation page, Parts Three and Five.
+
+**The Weight.** *Method:* recognition by stated criteria, applied consistently, including against loved books. Standard: the count is answered by the process it questions.
+
+### The verdict on Part Four
+
+The church historian's counts are of two kinds. Half are false on the record (Constantine's vote, the library, Bruno's astronomy, the 40,000 doctrines, the sect that needed an emperor) and are dismissed. The rest are true and belong to a different trial: the church has burned heretics, silenced an astronomer, and concealed the abuse of children, and it stands justly condemned for each, by the standard its founder set and its own critics applied. None of it is evidence about what happened in Jerusalem in AD 30, which is what this court is trying, and the prosecution, having spent its motions, must now come to the man himself.
+
+---
+
+*Part Four complete. Next: Part Five, the claims, count by count: the birth, the ministry, the passion, the resurrection, and every alternative explanation tried. The center of the case.*
+
+---
+
+## PART FIVE: THE CLAIMS, COUNT BY COUNT
+
+*The center of the case. The prosecution now turns from the sources to the man: what the Gospels claim he was, said, did, and suffered, and whether he rose. The counts are taken in the order of his life, the birth first, the ministry, the passion, and the resurrection, with every alternative explanation tried in its place.*
+
+### The birth
+
+### Count 61. "Virgin" is a mistranslation of Isaiah 7:14's almah; Matthew built the story on the Greek error.
+
+**The Prosecution.** The Hebrew *almah* means "young woman," not "virgin" (the Hebrew for virgin is *betulah*); the Greek Septuagint rendered it *parthenos*, "virgin," and Matthew, reading Greek, invented a virgin birth to fulfill a prophecy that never said it. The sign, moreover, was for King Ahaz in 734 BC, fulfilled by a child born in Isaiah's own day (8:3). (Dawkins, *The God Delusion*; the Jewish counter-missionaries; Ehrman.)
+
+**The Defense.** Two things are true in the objection and one is false. True: the sign was given to Ahaz and had a near fulfillment in Isaiah's day, a child born within the time it takes a boy to learn right from wrong, before Damascus and Samaria fell; this series says so in Volume Three, and Matthew's use is the pattern-reading the handbook has conceded elsewhere, a text with a first horizon and a farther one. True: *almah* is not the technical word for virgin. False: that *almah* means merely "young woman" and that the Greek translators erred. *Almah* occurs seven times in the Hebrew Bible, and in every case it denotes a young unmarried woman of marriageable age, never a married one; Rebekah is called an *almah* in Genesis 24:43 four verses after being called a *betulah* "whom no man had known" (24:16), so the two words overlap on the same person. The Septuagint's *parthenos* was chosen by Jewish scholars in Alexandria two centuries before Matthew, with no Christian motive, because that is what they took the word to mean; Matthew did not invent the reading, he inherited it from the synagogue's own Bible. And the logic of the passage favors it: Ahaz is offered "a sign" as deep as Sheol or high as heaven, and a young married woman having a baby is not a sign of anything; the name Immanuel, "God with us," and the child's role in chapters 7 to 11 (the child born, the son given, the government on his shoulder, "Mighty God") are what Matthew read forward, and what the church has read forward since. What the objection cannot explain is Luke, who does not cite Isaiah at all, says nothing about *parthenos* or prophecy, and reports the virginal conception from Mary's side, in Hebrew-flavored Greek, as a fact she was told before it happened. Two independent tellings, one with the proof-text and one without, are not a mistranslation's children.
+
+**The Exhibits.** Isaiah 7:14 (Hebrew and Septuagint); Genesis 24:16, 43; the seven *almah* passages (Genesis 24:43; Exodus 2:8; Psalm 68:25; Proverbs 30:19; Song 1:3, 6:8; Isaiah 7:14); Matthew 1:18-25; Luke 1:26-38; the Old Testament series, Volume Three (the Immanuel panel).
+
+**The Weight.** *Concession:* the near fulfillment is Isaiah's; Matthew's reading is a pattern-reading. *Coherence:* *almah* is compatible with virginity and the Jewish translators so read it. *Independence:* Luke's account is free of the proof-text. Standard: the count establishes that Matthew read a text forward, not that the birth story was manufactured from a Greek word.
+
+### Count 62. Matthew and Luke give incompatible nativities.
+
+**The Prosecution.** In Matthew the family lives in Bethlehem, is visited by magi in a house, flees to Egypt, and settles in Nazareth only afterward; in Luke they live in Nazareth, travel to Bethlehem for a census, present the child in the temple at forty days, and "return to Galilee" (2:39), with no magi, no Egypt, no Herod. The two authors did not know each other's story and were making their own. (Ehrman, *Jesus, Interrupted*.)
+
+**The Defense.** The prosecution is right that Matthew and Luke wrote independently, and that is the defense's strongest exhibit, because independent accounts that agree on the load-bearing facts are two witnesses: both name Mary and Joseph, a betrothal, a conception by the Spirit before they came together, David's line, Bethlehem as the birthplace, Herod's reign, and Nazareth as the home; neither depends on the other; and the agreement across two traditions with different sources, Joseph's side and Mary's, is the kind of convergence the court weighs heavily. The differences are of selection, and a harmony is available without strain: Luke's "returned to Galilee" (2:39) is a summary that skips what he does not tell, as he skips the forty days between Easter and Pentecost in the same Gospel's last chapter, and Matthew never says the family lived in Bethlehem before the birth (the "house" of 2:11 is where they were lodging when the magi came, up to two years later by Herod's own reckoning, 2:16, which places the visit well after Luke's temple presentation at forty days). The sequence Nazareth, Bethlehem, temple, Bethlehem, Egypt, Nazareth fits every verse in both accounts; the handbook does not insist on it, only notes that the "incompatibility" requires reading Luke's summary as a denial and Matthew's silence as an assertion.
+
+**The Exhibits.** Matthew 1:18-2:23; Luke 1:26-2:40; Luke 24:50-53 with Acts 1:3 (Luke's compression); the harmony in Bock, *Luke 1:1-9:50* (BECNT), on 2:39.
+
+**The Weight.** *Multiple independent attestation:* two traditions agreeing on the core. *Coherence:* the differences are of selection. Standard: clear and convincing that the birth traditions are independent and convergent; the count establishes difference in detail.
+
+### Count 63. Jesus was born in Nazareth; Bethlehem was invented to fit Micah 5:2.
+
+**The Prosecution.** He is "Jesus of Nazareth" everywhere; Bethlehem appears only in the two nativities, each of which contrives a different reason to get him there (Matthew: they lived there; Luke: a census). The town was chosen by the prophecy. (Ehrman; Crossan.)
+
+**The Defense.** The prosecution has to explain why two independent authors, using different mechanisms, both place the birth in Bethlehem, since a shared invention would share its mechanism; independent invention of the same fact is the harder hypothesis. Then it has to explain John 7:42, where the crowd objects that the Christ must come from Bethlehem and this man is from Galilee, and the Gospel leaves the objection unanswered: an author who knew the Bethlehem tradition and wanted to fabricate it would have used the moment, and an author who did not know it would not have set the trap; John's silence is the irony of a writer whose readers knew the answer, which means the tradition was known and needed no defense. "Jesus of Nazareth" is the name of a man from Nazareth, which the birth stories also say he was; the nativities are the only two places the birth is narrated, so of course they are the only two that mention its town. And the early church's memory was specific: Justin Martyr, a native of Palestine, wrote around 150 that the birth was in a cave near Bethlehem; Origen, around 248, says the cave was shown to visitors, "even to those who are not of the faith"; and Constantine built the Church of the Nativity over it in 339, on a site whose identification was already two centuries old. The objection is possible, as inventions always are; the evidence for it is the prophecy's existence, and the evidence against it is two independent witnesses, a third Gospel's knowing silence, and a site remembered from the second century.
+
+**The Exhibits.** Matthew 2:1-6; Luke 2:1-7; John 7:40-44; Micah 5:2; Justin, *Dialogue with Trypho* 78; Origen, *Against Celsus* 1.51; the Church of the Nativity (Eusebius, *Life of Constantine* 3.41-43).
+
+**The Weight.** *Multiple independent attestation:* two, with a third's knowing silence. *Early tradition:* the site by 150. Standard: preponderance, with strength, for Bethlehem; the fabrication hypothesis is unproven and the harder one.
+
+### Count 64. The genealogies are irreconcilable, both through Joseph who was not the father, and Matthew's runs through Jeconiah, whom Jeremiah cursed.
+
+**The Prosecution.** Matthew's line from David runs through Solomon to Jacob to Joseph; Luke's through Nathan to Heli to Joseph. Both end at a man who, by the Gospels' own account, contributed nothing. And Jeremiah 22:30 says no descendant of Jeconiah "shall succeed in sitting on the throne of David," which disqualifies Matthew's whole line. (Jewish counter-missionaries; Ehrman.)
+
+**The Defense.** The two lines were reconciled in the church's first centuries by two methods still in use: Julius Africanus, around 220, reported from the Lord's own relatives that a levirate marriage joined the lines (Matthan of Solomon's line and Melchi of Nathan's married the same woman in turn, so Jacob and Heli were half-brothers, and Joseph was the son of one by nature and the other by law); the other reading, at least as old as the fifteenth century and hinted earlier, takes Luke's "Joseph, the son of Heli" as son-in-law, Heli being Mary's father, so that Luke gives the blood line and Matthew the legal one. Either way the question "what did Joseph contribute?" is answered by Jewish law: a man who acknowledges a child as his son, which Joseph does by naming him (Matthew 1:21, 25), confers his lineage on him fully, and tribal and royal descent were legal categories, which is why Matthew's Gospel begins with the legal line and ends its genealogy with a pronoun shift, "Joseph the husband of Mary, *of whom* Jesus was born." The Jeconiah curse then does the reverse of what the objection says: the curse was on Jeconiah's physical seed ("write this man down childless"), and Matthew's line runs through him legally while Luke's bypasses him entirely, so that the virgin birth is precisely what threads the needle, giving Jesus the throne-right by adoption through the cursed line and the blood of David through an uncursed one. And the rabbis held the curse was lifted anyway: Haggai names Jeconiah's grandson Zerubbabel God's "signet ring" (2:23), reversing the image of Jeremiah 22:24 where Jeconiah is the signet torn off, and the Talmud records that Jeconiah repented in exile and the decree was annulled (Sanhedrin 37b-38a). Volume Three of the Old Testament series walks the curse and its threading.
+
+**The Exhibits.** Matthew 1:1-17; Luke 3:23-38; Jeremiah 22:24-30; Haggai 2:23; Sanhedrin 37b-38a (Sefaria); Africanus in Eusebius, *Church History* 1.7; Numbers 27:1-11 and 36 (heiress inheritance); Bava Batra 134a (acknowledgment of paternity).
+
+**The Weight.** *Coherence:* both reconciliations are ancient and workable; the legal-adoption principle is Jewish law. Standard: the count establishes two different genealogies, which the earliest church explained from family records; the curse objection reverses on inspection.
+
+### Count 65. The virgin birth is a pagan motif: Perseus, Alexander, Augustus.
+
+**The Prosecution.** Greek and Roman heroes were fathered by gods on mortal women; the Gospels gave Jesus the standard credential of a divine man.
+
+**The Defense.** Read the pagan stories: Perseus was conceived when Zeus came to Danaë as a shower of gold, Alexander when Zeus came to Olympias as a serpent, Augustus when Apollo came to Atia as a serpent in the temple (Suetonius, *Augustus* 94). Every one is a story of divine intercourse, a god in disguise impregnating a woman; none is a virgin birth, and the women are not virgins afterward by anyone's telling. The Gospels' claim is the opposite: no father, no intercourse, no god in a shape, a conception "of the Holy Spirit" that the texts are at pains to describe without a single erotic term, in a Jewish setting where the pagan pattern was blasphemy. Luke's annunciation is built on the annunciations of the Hebrew Bible (Sarah, Hannah, Samson's mother), which are births to barren women by God's word, not by his body; the virgin birth is that pattern taken one step further, not the Greek pattern imported. The early church knew the pagan stories and mocked them (Justin, Origen), which is not the behavior of people who had copied them. And the slander that answered the claim (Count 66) shows what the pagans and the rabbis actually thought the Christians were saying: not that Zeus had visited Mary, but that no husband had.
+
+**The Exhibits.** Suetonius, *Augustus* 94.4; Plutarch, *Alexander* 2-3; Matthew 1:18-25; Luke 1:26-38; Genesis 18; 1 Samuel 1; Judges 13; Origen, *Against Celsus* 1.37.
+
+**The Weight.** *Fact:* the pagan parallels are stories of divine intercourse, not virginity. *Context:* the Jewish annunciation pattern is the actual precedent. Standard: the count fails on the primary texts.
+
+### Count 66. Jesus was the illegitimate son of a Roman soldier named Panthera.
+
+**The Prosecution.** Celsus, around 178, reported the Jewish account that Jesus's mother was put away by her husband for adultery with a soldier named Panthera; the Talmud calls him "ben Pandera"; Mark's crowd calls him "son of Mary," a mother's name used where a father's would be if he had one. The virgin birth was a cover story.
+
+**The Defense.** This is the objection that most helps the defense, because a slander is a response, and a response presupposes the claim it answers. By the time of Celsus, and evidently much earlier, the opponents of Christianity knew that Christians said Joseph was not Jesus's father, and they countered not by asserting that he was, which would have been the obvious rebuttal if the birth had been ordinary, but by supplying a different father. That is the behavior of people who had heard the virgin-birth claim early and could not simply deny Joseph's non-paternity. The name Panthera is most likely a pun on *parthenos*, virgin, the Greek word turned into a soldier; the Talmud's "ben Pandera" is the same slander in Aramaic. Mark's "son of Mary" (6:3), in a village where men were named by their fathers, is either the insult of a crowd that knew the story or the note of a Gospel that did; in either case it is evidence that the irregularity of the birth was public in Nazareth, which no inventor of a Messiah would have arranged. The first-century tombstone of a Sidonian archer named Tiberius Julius Abdes Pantera, found in Germany, shows the name was real and common in the Roman army, which is all it shows. The prosecution has produced the ancient world's own confirmation that the claim of a fatherless birth was not a later embellishment but the earliest thing the enemies had to explain away.
+
+**The Exhibits.** Origen, *Against Celsus* 1.28, 1.32, 1.69; Talmud, Shabbat 104b and Sanhedrin 67a (uncensored); Mark 6:3; Schäfer, *Jesus in the Talmud*, ch. 2; the Pantera tombstone (Bad Kreuznach museum).
+
+**The Weight.** *Hostile corroboration:* the slander confirms the early currency of the claim it attacks. *Embarrassment:* "son of Mary" in Mark. Standard: the count supports the antiquity of the virgin-birth claim; as an account of the birth it is a polemic with no source but hostility.
+
+### The ministry and the teaching
+
+### Count 67. Jesus never claimed to be God; that is John's theology, absent from Mark.
+
+**The Prosecution.** In Mark, Matthew, and Luke, Jesus never says "I am God"; the "I am" statements and "before Abraham was, I am" are John's, written sixty years later. The earliest Gospel's Jesus is a prophet; the last Gospel's is divine; the trajectory is the growth of a legend. (Ehrman, *How Jesus Became God*, 2014.)
+
+**The Defense.** The prosecution is looking for a sentence and missing a pattern. No first-century Jew claiming to be God would have said "I am God," because the sentence would have meant, to every hearer, "I am the Father," which the Gospels' Jesus never claims to be; what he does in the Synoptics is act, repeatedly, with prerogatives that belonged to God alone, and his enemies drew the inference on the spot. He forgives sins on his own authority, and the scribes say "who can forgive sins but God alone?" (Mark 2:5-7). He declares himself "lord of the Sabbath" (2:28), a day that was God's. He says something greater than the temple is here (Matthew 12:6), which in Judaism was God's house. He commands the sea and it obeys, which Psalm 107 says only the LORD does, and the disciples ask the right question, "who then is this?" (Mark 4:41). He walks on the water and says "it is I," *egō eimi*, the divine self-designation of Isaiah, and the passage echoes Job 9:8, where God alone "treads on the waves of the sea" (Mark 6:48-50). He says "no one knows the Father except the Son, and anyone to whom the Son chooses to reveal him" (Matthew 11:27, from the Q material shared with Luke, the earliest stratum), a claim of unique mutual knowledge with God that scholars have called a Johannine thunderbolt in the Synoptic sky. He tells the parable of the tenants, in which the prophets are servants and he is the "beloved son" (Mark 12:6). He speaks of "I have come" as one who came from somewhere (Mark 2:17, 10:45). And at his trial, asked directly if he is "the Christ, the Son of the Blessed," he answers "I am," and adds Daniel 7, "you will see the Son of Man seated at the right hand of Power, and coming with the clouds of heaven," and the high priest tears his robe and cries blasphemy (Mark 14:61-64). Men were not executed for claiming to be prophets. The earliest Christian documents then show the devotion that followed: Paul, within twenty years, applying to Jesus the Old Testament's "Lord" texts about YHWH (Romans 10:13 quoting Joel; Philippians 2:10-11 quoting Isaiah 45:23) and the Aramaic prayer "Maranatha," "our Lord, come," addressed to Jesus by the first Aramaic-speaking church (1 Corinthians 16:22). Ehrman's own book concedes the point that matters: he now holds that Jesus was regarded as divine "immediately after the resurrection," within a year or two, by his Jewish followers, which is not the trajectory of a legend but the shock of an event. John did not invent the claim; he wrote it in sentences after Mark had written it in deeds.
+
+**The Exhibits.** Mark 2:1-12, 2:28, 4:35-41, 6:45-52, 12:1-12, 14:61-64; Matthew 11:27 (Luke 10:22), 12:6; Job 9:8; Psalm 107:23-30; Isaiah 43:10; Romans 10:13; Philippians 2:5-11; 1 Corinthians 16:22; Hurtado, *Lord Jesus Christ* (2003); Bauckham, *Jesus and the God of Israel* (2008); Ehrman, *How Jesus Became God*, ch. 6.
+
+**The Weight.** *Multiple attestation:* the divine prerogatives are in Mark, Q, and the special material of Matthew and Luke. *Early attestation:* Paul's Lord-texts and Maranatha within twenty years. *Hostile corroboration:* the blasphemy charge. Standard met: clear and convincing that the Synoptic Jesus claimed, by act and by Daniel 7, an identity his hearers understood as divine; John's sentences are the same claim made explicit.
+
+### Count 68. Jesus said "the Father is greater than I," "why do you call me good," "not even the Son knows the hour," "my God, why have you forsaken me," and "my God and your God," and prayed to God: a God does not do these things.
+
+**The Prosecution.** The ten-verse list (Part Seven, Count 108a) and the philosopher's version (Count 166): a being who is less than the Father, ignorant of the future, forsaken, and praying is not the Almighty.
+
+**The Defense.** Every one of these is in the Gospels, and every one was in the Gospels the church read when it formulated the doctrine the objection thinks they refute, which means the doctrine was built to include them. The Trinity is the claim that the Father and the Son are distinct persons of one nature; the incarnation is the claim that the Son took a real human nature with its real limits. The sayings divide accordingly. "The Father is greater than I" (John 14:28) is spoken by the Son in his human state, in the Gospel that also says "I and the Father are one" (10:30), "before Abraham was, I am" (8:58), and has Thomas say "my Lord and my God" to his face without rebuke (20:28); a Gospel that says all four is not confused, it is teaching both natures. "Why do you call me good? No one is good but God alone" (Mark 10:18) is a question, not a denial: Jesus does not say "I am not good," he asks the young man whether he knows what he has said, and then, in the next breath, tells him to give everything and "follow me," which is what one follows God for. "Not even the Son knows" (Mark 13:32) is the self-limitation of the incarnation, "he emptied himself" (Philippians 2:7), in a verse that nonetheless ranks the Son above the angels; a man who did not know the hour is what the Son became. "Why have you forsaken me" is the first line of Psalm 22, which a dying Jew prayed as a whole, and which ends in vindication and the nations' worship; the cry is real, the forsakenness is real, and it is the Son experiencing, as a man, the separation he came to bear. "My God and your God" (John 20:17) says "my Father and your Father, my God and your God," distinguishing the two relations, and it is notable that Jesus never once says "our Father" with his disciples; he teaches them to say it, and speaks of "my Father" himself. As for prayer and the separate will: that the Son prays to the Father is the doctrine, not its refutation, since the Son is not the Father; and Gethsemane's "not my will but yours" is the human will of the incarnate Son submitting to the Father's, which the church defined at Constantinople in 681 as exactly what the Gospel shows, two wills in one person, the human one obedient. The objection lists the texts that describe the Son's humanity and treats them as refuting his divinity, which is like listing a king's naps as proof he is not king.
+
+**The Exhibits.** John 8:58, 10:30, 14:28, 20:17, 20:28; Mark 10:17-22, 13:32, 14:36, 15:34; Psalm 22; Philippians 2:5-11; the Chalcedonian Definition (451); the Third Council of Constantinople (681) on the two wills; Athanasius, *Orations against the Arians* 3.
+
+**The Weight.** *Standing:* doctrine; the texts cited are the ones the doctrine was built to hold. Standard: the count establishes that the Son is distinct from the Father and was truly human, which the defense affirms.
+
+### Count 69. "Son of God" was a title for kings and righteous men, not a claim of deity; Jesus called himself "son of man," a human title.
+
+**The Prosecution.** Israel is God's son, David is God's son, angels are sons of God, peacemakers are sons of God; the phrase claims nothing. And "son of man" means "human being," as in Ezekiel; Jesus chose the humbler title.
+
+**The Defense.** Both titles carry more than the objection allows, and Jesus's use of the second is the key to the whole question. "Son of God" was indeed a royal and Israelite title, and the Gospels use it with the article and a uniqueness that the royal use never had: "the Son" who alone knows the Father (Matthew 11:27), "my beloved Son" at the baptism and the mountain, the "beloved son" of the tenants' parable set over against the servant-prophets, and the title the high priest puts to him as a capital question. "Son of Man" is the reverse of humble: it is Daniel 7:13, "one like a son of man" who comes "with the clouds of heaven" to the Ancient of Days and is given "dominion and glory and a kingdom, that all peoples, nations, and languages should serve him," a figure of divine authority under a human appearance, and Jesus's uses of the title (fifty times in the Synoptics, on his lips alone, never as a confession by others) are of that figure: the Son of Man has authority to forgive sins, is lord of the Sabbath, will come in glory with the angels, and will sit at the right hand of Power. He chose the title, scholars have long suggested, precisely because it carried Daniel's meaning to those who knew the book and sounded like "a man" to those who did not, which let him define his messiahship before the crowds could impose theirs. When he finally unpacked it, before the Sanhedrin, they understood it as the divine claim it was and condemned him for it. The Old Testament series' Volume Seven walks Daniel 7 and its synagogue readings.
+
+**The Exhibits.** Daniel 7:13-14; Mark 2:10, 2:28, 8:38, 13:26, 14:62; Matthew 11:27; Psalm 2:7; 2 Samuel 7:14; the Similitudes of Enoch (the Son of Man as pre-existent judge, companion volume); Volume Seven of the Old Testament series.
+
+**The Weight.** *Text:* the titles' Gospel usage exceeds their royal sense; the Daniel 7 reference is explicit at the trial. Standard: clear and convincing that "Son of Man" was a claim of Danielic authority, not modesty.
+
+### Count 70. Jesus was a failed apocalyptic prophet who predicted the end within "this generation."
+
+**The Prosecution.** "This generation will not pass away until all these things take place" (Mark 13:30); "there are some standing here who will not taste death until they see the kingdom of God come with power" (9:1); "you will not have gone through all the towns of Israel before the Son of Man comes" (Matthew 10:23). He expected the end in his lifetime; it did not come; his followers have been explaining ever since. (Schweitzer, *The Quest of the Historical Jesus*; Ehrman, *Jesus: Apocalyptic Prophet*.)
+
+**The Defense.** Take the sayings in order. Mark 13's "all these things," in context, are the things Jesus has just described, the temple's destruction and the tribulation around it, which the disciples asked about (13:4) and which happened within the generation, in AD 70, exactly as he said; the discourse then turns to "that day," of which "no one knows, not even the Son," and the two horizons, the temple and the end, are distinguished in the text itself, which is why the "this generation" clause is followed immediately by the disclaimer of any date. Mark 9:1's "some standing here will not taste death until they see the kingdom come with power" is followed, in all three Synoptics, by "and after six days" the transfiguration, which the evangelists evidently understood as its fulfillment, and which Peter describes in exactly those terms, "we were eyewitnesses of his majesty" (2 Peter 1:16-18); Pentecost and AD 70 are the other referents defended, and any of the three was within the lifetimes of some present. Matthew 10:23 is the hardest, and the mission-of-Israel reading (the Son of Man's "coming" in judgment on Jerusalem in 70, before the mission to Israel was complete) is the one the text's own frame supports. What the Schweitzer reading must ignore is the rest of the teaching: the parables of delay (the master who goes away "for a long time," the bridegroom who "was delayed," the talents entrusted for a journey), the mustard seed that grows slowly, the kingdom "already" present in his acts and "not yet" consummated, the mission to all nations that must precede the end (Mark 13:10), and the explicit refusal of a timetable. The early church's expectation was imminence as hope, not a date, and it faced the objection in the first century and answered it in Scripture: "with the Lord one day is as a thousand years... the Lord is not slow to fulfill his promise as some count slowness, but is patient" (2 Peter 3:8-9). A prophet whose one dated prediction, the temple's fall within the generation, came true, and who refused every other date, is not a failed prophet; he is the one the objection's own criterion vindicates.
+
+**The Exhibits.** Mark 13:1-37 (especially 4, 30, 32); Mark 9:1-2; Matthew 10:23, 24:14, 25:1-30; Luke 19:11-27; 2 Peter 1:16-18, 3:3-9; Wright, *Jesus and the Victory of God*, ch. 8 (the reply to Schweitzer); France, *The Gospel of Mark*, on 13:30.
+
+**The Weight.** *Text:* the dated prediction was fulfilled; the undated one was explicitly undated. *Coherence:* the delay parables and the mission to the nations contradict the objection's reading. Standard: clear and convincing that the "failed prophecy" reading selects three verses against the discourse's own structure.
+
+### Count 71. Jesus was really a Zealot revolutionary (Aslan), an Essene, a Cynic sage (Crossan), or a magician (Morton Smith); the Gospels rewrote him.
+
+**The Prosecution.** Behind the Gospels' Jesus is a different man: a nationalist crucified for sedition, or a wandering Greek-style philosopher of the peasant class, or a wonder-worker of the kind the ancient world knew, and the church overlaid its Christ on him.
+
+**The Defense.** Each portrait is made by selecting the sayings that fit and discarding the rest, and each dies on the sayings discarded. The Zealot reading (Reimarus in 1778, Brandon in 1967, Aslan in 2013) founders on "love your enemies," "render to Caesar," the healing of a Roman centurion's servant with praise for his faith, the command to Peter to put away the sword, the unarmed entry on a donkey chosen for its meaning in Zechariah 9 ("humble... he shall speak peace to the nations"), and the fact that Rome executed him alone and left his followers untouched, which it never did with insurgents. The Essene reading founders on his eating with tax collectors and sinners, his lack of any community rule, and his opposition to the Essenes' purity obsession. The Cynic reading founders on everything Jewish about him: the Torah, the temple, the prophets, the kingdom of God, Daniel's Son of Man, none of which a Cynic would have spoken of, and the Galilee of the Cynic hypothesis (a Hellenized region of wandering philosophers) has not survived the archaeology, which shows a thoroughly Jewish population. The magician reading is the most interesting, because it is the enemies' own: the rabbis said sorcery and Celsus said Egyptian magic, which is to say the hostile sources conceded the wonders and disputed their source, the same dispute the Gospels report ("by Beelzebul"). What all four have in common is the need to explain why a man who was really something ordinary was remembered, within a few years, as something else by people who had known him, and none of them explains it. The Gospels' Jesus, a Jewish prophet who announced God's kingdom, claimed Daniel's authority, healed, forgave, died as a messianic pretender, and was proclaimed risen, is the portrait that accounts for all the data, including the enemies'.
+
+**The Exhibits.** Matthew 5:38-48, 8:5-13, 22:15-22; Luke 22:49-51; Zechariah 9:9-10; Mark 2:15-17, 3:22; Sanhedrin 43a; Origen, *Against Celsus* 1.28, 1.68; Aslan, *Zealot* (2013) and the review by Dale Allison; Crossan, *The Historical Jesus* (1991) and the Galilee archaeology in Reed, *Archaeology and the Galilean Jesus*; Meier, *A Marginal Jew*, vol. 2 (the miracles).
+
+**The Weight.** *Coherence:* each alternative portrait fails on multiply attested sayings. *Hostile corroboration:* the enemies conceded the wonders. Standard: the count establishes that alternative reconstructions exist; each is weaker than the Gospels' own on the evidence.
+
+### Count 72. The miracles are impossible; "extraordinary claims require extraordinary evidence," and no testimony can establish a miracle.
+
+**The Prosecution.** Hume's argument: a miracle is a violation of natural law; the evidence for natural law is the uniform experience of mankind; therefore no testimony, however good, can outweigh it, since it is always more probable that the witness lied or erred than that nature was suspended. Sagan's slogan restates it. The miracles are ruled out before the evidence is heard. (Hume, *Enquiry* X; Sagan; Dawkins.)
+
+**The Defense.** Hume's argument is circular, and the demonstration is not the church's but a secular philosopher of science's: John Earman's *Hume's Abject Failure* (2000) shows that "uniform experience against miracles" assumes the very thing in dispute (that no miracle has ever occurred), and that Hume's probabilistic reasoning, made rigorous, does not deliver his conclusion; sufficient independent testimony can establish an improbable event, which is why courts convict on it and physics accepted the observation of an eclipse bending starlight on the strength of a few plates. "Extraordinary claims require extraordinary evidence" is unobjectionable as a principle and says nothing about what the evidence is; it is a reason to examine the testimony, not to refuse it. A miracle is not a "violation" of natural law, either, any more than a man catching a falling vase violates gravity; it is the introduction of a cause, and whether such a cause exists is the question under trial, not a premise the court can settle by definition. So the question is the historical one: how good is the testimony? Better than the objection assumes. The miracle tradition is in every stratum of the sources, Mark, the Q sayings, the material special to Matthew and Luke, John, and Paul (who speaks of "the signs of a true apostle" as things the Corinthians saw); the enemies conceded the deeds and disputed their power (the rabbis' sorcery, Celsus's magic, Josephus's "surprising deeds"); the ancient world was not credulous about wonders (the Sadducees, Lucian, and Josephus's own skepticism about other claimants show a culture that knew how to doubt); and the tradition includes what a fabricator would omit, a Nazareth where "he could do no mighty work" for their unbelief (Mark 6:5) and a demand for signs he refused (8:12). Modern testimony to healings is not nothing either (Keener's two volumes of documented cases, and the medical bureau at Lourdes, whose criteria for a verified cure are stricter than most journals'). The court does not need the miracles to establish the resurrection; it needs the resurrection, which has its own counts. What it does not do is rule the miracles out by a philosophical argument its own discipline has found to fail.
+
+**The Exhibits.** Hume, *Enquiry Concerning Human Understanding* X; Earman, *Hume's Abject Failure* (2000); Keener, *Miracles* (2011); Meier, *A Marginal Jew*, vol. 2, part 3; Mark 6:1-6, 8:11-12; 2 Corinthians 12:12; Josephus, *Antiquities* 18.63 ("a doer of surprising deeds"); Sanhedrin 43a; the Lourdes International Medical Committee's criteria.
+
+**The Weight.** *Method:* Hume's argument fails on its own terms (Earman). *Multiple attestation:* the miracle tradition in every source stratum. *Hostile corroboration:* the deeds conceded by enemies. *Embarrassment:* Nazareth's failure and the refused signs. Standard: the count's philosophical premise is rejected; the historical testimony is admitted for weighing.
+
+### Count 73. Jesus's hard sayings are immoral: hate your father and mother; I came to bring a sword; the fig tree; the swine; the unforgivable sin.
+
+**The Prosecution.** A moral teacher does not tell disciples to hate their families, promise war, curse a tree for not fruiting out of season, drown two thousand pigs, or threaten a sin that can never be forgiven.
+
+**The Defense.** In order. "Hate" father and mother (Luke 14:26) is a Semitic idiom of preference, not emotion, as the Hebrew Bible uses it: "Leah was hated" (Genesis 29:31) means Jacob loved Rachel more, and Matthew gives the saying's sense in plain words, "whoever loves father or mother more than me" (10:37); the same Jesus commanded honoring parents and condemned the Corban evasion of it. "Not peace but a sword" (Matthew 10:34) is a prediction of what following him would cost, families divided over him, which the next verses say, and which happened; it is not a command to fight, from a man who told Peter "all who take the sword will perish by the sword." The fig tree (Mark 11:12-25) is an enacted parable, and Mark frames it so no one can miss it: the cursing is sandwiched around the cleansing of the temple, and the tree with leaves and no fruit is the temple with its show and no fruit, Jeremiah's image ("no figs on the fig tree," 8:13); "not the season" is the reason the sign works, since a fig tree in leaf promises early figs and this one was all leaf, like the temple. The swine: a man had been living naked among tombs, cutting himself with stones, and the price of his sanity was a herd of pigs, in Gentile territory where they were legal; the demons' destruction of the herd showed what they had meant for the man, and the town's response, asking Jesus to leave, showed what the town valued, which is the story's point and its judgment. The unforgivable sin (Mark 3:28-30) is defined in the text: attributing the Spirit's work to Satan, which is the refusal of the only power that forgives, and the church has always taught that anyone anxious about having committed it has not, since the anxiety is the Spirit's work. Hell is Count 115.
+
+**The Exhibits.** Luke 14:26 with Matthew 10:37; Genesis 29:31; Mark 7:9-13; Matthew 10:34-39, 26:52; Mark 11:12-25; Jeremiah 8:13; Mark 5:1-20; Mark 3:22-30.
+
+**The Weight.** *Text:* each saying is explained by its context or its idiom. Standard: the count establishes that the sayings are hard, which the Gospels intend; not that they are immoral.
+
+### Count 74. Jesus never condemned slavery; the New Testament tells slaves to obey.
+
+**The Prosecution.** Given the chance to end the worst institution in human history, Jesus told a parable in which a slave is beaten (Luke 12:47), and Paul told slaves to obey their masters. The Bible was the slaveholder's book.
+
+**The Defense.** The concession first: neither Jesus nor the apostles called for the political abolition of slavery, and Christians later used their silence to defend it. What the objection omits is what they did instead, which is what ended it. The first-century church was a persecuted minority with no political power, in an empire where a third of the population was enslaved, and its founder's teaching planted the doctrines that made slavery impossible to defend once anyone took them seriously: that every human being bears God's image; that "there is neither slave nor free... you are all one in Christ" (Galatians 3:28); that a runaway slave is to be received "no longer as a slave but more than a slave, as a beloved brother" (Philemon 16, the letter that abolished the relationship in the one case Paul could reach); that "enslavers," the traders, are listed with murderers (1 Timothy 1:10); and the Golden Rule, which no slaveholder can obey. The Old Testament's laws had already made the institution unlike Rome's: the slave rested on the Sabbath, went free in the seventh year, could not be returned to his master if he fled (Deuteronomy 23:15), and the kidnapper who made a slave was put to death (Exodus 21:16), the verse abolitionists put on their banners. Luke 12:47 uses the master-servant relation as a figure, as parables use unjust judges and dishonest stewards, and no more endorses beating than the parable of the unjust judge endorses injustice. The historical record is that abolition was a Christian movement from beginning to end, Gregory of Nyssa's sermon against slavery in the fourth century, the church's medieval prohibition on enslaving Christians, the Quakers, Wilberforce and the Clapham Sect, the evangelical abolitionists, all arguing from these texts, and that the slaveholders who argued from the Bible lost the argument to people reading the same Bible more honestly. The objection is that the seed was not the tree; the defense is that the tree grew from nothing else.
+
+**The Exhibits.** Galatians 3:28; Philemon; 1 Timothy 1:10; Exodus 21:16; Deuteronomy 23:15-16, 15:12-15; Luke 12:41-48; Gregory of Nyssa, *Homily 4 on Ecclesiastes*; Wilberforce's 1789 speech; the earlier discussion of Christianity's social legacy.
+
+**The Weight.** *Concession:* no political abolition in the New Testament. *Coherence:* the doctrines that ended slavery are the New Testament's own, and abolition's history confirms it. Standard: the count establishes a silence, not an endorsement.
+
+### Count 75. Jesus was a Jew who kept the law and founded no religion; Paul invented Christianity.
+
+**The Prosecution.** Jesus taught Torah to Jews; Paul, who never met him, turned a Jewish reform movement into a Gentile mystery religion with a dying-rising god, over the objections of the Jerusalem apostles. (Muslim and Jewish apologists; Nietzsche; some historians.)
+
+**The Defense.** Paul's own account, in a letter no one disputes, is that the gospel he preached was the one he "received," the creed of 1 Corinthians 15, which came from the Jerusalem church and its witnesses; that he went to Jerusalem and laid his message before Peter, James, and John, "and they gave the right hand of fellowship to Barnabas and me" (Galatians 2:9); and that the dispute with Jerusalem was over whether Gentile converts must be circumcised and keep the food laws, a question the Jerusalem council settled in Paul's favor with James presiding (Acts 15). Not a word of the dispute concerned the resurrection, the divinity of Christ, or the cross, which Paul and the pillars shared. The high Christology the objection attributes to Paul appears in material older than his letters (the Philippians hymn, the Maranatha prayer, the creed) and in the Aramaic-speaking church that predated his mission; and the non-Pauline New Testament, James, Peter, Hebrews, John, holds the same Lord. The teaching of Jesus is in Paul where Paul needs it (divorce, the support of preachers, the coming, the ethics of Romans 12-13); the letter of James reads like the Sermon on the Mount in prose. The Ebionites, the later Jewish-Christian sect that rejected Paul, are the objection's only ancient witness, and they were a second-century minority that the Jerusalem church's own leaders, James included, do not resemble in the sources we have. Paul did not invent Christianity; he carried a Jerusalem creed to the Gentiles with Jerusalem's blessing, and the record of the blessing is in his hand.
+
+**The Exhibits.** 1 Corinthians 15:3-11; Galatians 1:18-2:10; Acts 15; Philippians 2:5-11; 1 Corinthians 16:22; James 1-2 with Matthew 5-7; Irenaeus 1.26.2 (the Ebionites); Wright, *Paul and the Faithfulness of God*; the earlier discussion of the law's status in the first century.
+
+**The Weight.** *Early attestation:* Paul's creed is Jerusalem's. *Coherence:* the Jerusalem apostles' approval is in an undisputed letter. Standard: clear and convincing that Paul's gospel was the church's before it was his.
+
+### Count 76. James and Paul contradict each other on faith and works; the first church was divided against itself.
+
+**The Prosecution.** Paul: "justified by faith apart from works" (Romans 3:28). James: "a person is justified by works and not by faith alone" (2:24). Luther called James "an epistle of straw." The New Testament argues with itself on the central question.
+
+**The Defense.** The two men use the same words for different things and cite the same Abraham for the same conclusion. Paul's "works" are "works of the law," the Torah's boundary markers (circumcision, food, days) by which Jews were distinguished from Gentiles, and his "justified" is the verdict of acquittal; his point is that the verdict comes by trusting God's promise, as Abraham's did in Genesis 15:6, before circumcision. James's "works" are deeds of mercy (feeding the hungry, clothing the naked, 2:15-16), and his "justified" is the demonstration of a faith that is real; his point is that a faith with no deeds is dead, and he cites Abraham's offering of Isaac as the deed that showed the faith of Genesis 15:6 to be alive. Paul says exactly this elsewhere: "faith working through love" (Galatians 5:6), God "will render to each one according to his works" (Romans 2:6), and the whole second half of every Pauline letter is deeds. James says the reverse: the "royal law" of love fulfills all. The two are answering different errors, Paul the Jew who trusts his pedigree and James the Christian who trusts his creed, and the first church, which put both letters in one book, evidently saw no contradiction; the "division" the objection cites is the Acts 15 dispute over Gentile observance, which ended in agreement with James presiding.
+
+**The Exhibits.** Romans 3:28, 2:6; Galatians 5:6; James 2:14-26; Genesis 15:6 and 22; Acts 15:13-21; Luther's 1522 preface; the reconciliation in Moo, *The Letter of James* (PNTC).
+
+**The Weight.** *Text:* the terms differ in reference; the conclusions coincide. Standard: the count establishes a verbal tension the texts themselves resolve.
+
+### Count 77. Jesus was married, to Mary Magdalene or another.
+
+**The Prosecution.** The "Gospel of Jesus's Wife" papyrus (2012) has him say "my wife"; the Gospel of Philip calls Mary Magdalene his "companion" whom he kissed; every rabbi married; the celibate Jesus is the church's invention. (*The Da Vinci Code*; Karen King's 2012 announcement.)
+
+**The Defense.** The papyrus was a modern forgery; its owner was traced by the journalist Ariel Sabar in 2016 to a man with a motive and a workshop, and Professor King conceded the point. The Gospel of Philip is a third-century Gnostic text in which "companion" (*koinōnos*) and the kiss are sacramental symbols of the Gnostic bridal chamber, not a report of a marriage; no ancient text, orthodox or heretical, calls Mary Magdalene his wife. "Every rabbi married" is false for the first century (Jeremiah, John the Baptist, and the Essenes were celibate, and Jesus commends "eunuchs for the sake of the kingdom," Matthew 19:12), and Jesus was not a rabbi in the later institutional sense. The decisive silence is Paul's: arguing for the apostles' right to travel with a wife, he cites "the other apostles and the brothers of the Lord and Cephas" (1 Corinthians 9:5), and not the Lord, which he would have if the Lord had had one. The Gospels name his mother, his brothers, his sisters, and the women who supported him; a wife would not have gone unmentioned in a tradition that recorded Peter's mother-in-law.
+
+**The Exhibits.** Sabar, "The Unbelievable Tale of Jesus's Wife," *The Atlantic* (July 2016), and *Veritas* (2020); Gospel of Philip 59, 63 (Nag Hammadi); 1 Corinthians 9:5; Matthew 19:10-12; Mark 1:30, 6:3.
+
+**The Weight.** *Fact:* the papyrus is forged; the Philip passage is symbolic and late. *Argument from silence:* strong here, given 1 Corinthians 9:5. Standard: the count fails.
+
+### Count 78. Jesus went to India, or survived the cross and died in Kashmir.
+
+**The Prosecution.** The "lost years" were spent in India; the Ahmadiyya movement holds he survived crucifixion and is buried at Roza Bal in Srinagar. (Notovitch, 1894; Mirza Ghulam Ahmad.)
+
+**The Defense.** The India story rests on Nicolas Notovitch's 1894 claim to have seen a manuscript at the Hemis monastery in Ladakh; Max Müller exposed it that year, the monastery's abbot denied any such text existed, and the historian J. Archibald Douglas visited Hemis in 1895 and obtained the abbot's signed statement that Notovitch had never been there. No source of any antiquity places Jesus east of Judea. The Roza Bal tomb is that of a medieval Muslim saint, Yuz Asaf, identified with Jesus only in the 1890s by the founder of the Ahmadiyya movement, whose theology required a Jesus who did not die on the cross; the survival claim itself is Count 87. The "lost years" are not lost; Luke says he grew up in Nazareth "in wisdom and in stature" (2:52), and a Galilean carpenter's silence is what the record of most Galilean carpenters looks like.
+
+**The Exhibits.** Müller, "The Alleged Sojourn of Christ in India," *Nineteenth Century* (1894); Douglas, "The Chief Lama of Himis on the Alleged 'Unknown Life of Christ,'" *Nineteenth Century* (1896); Luke 2:39-52.
+
+**The Weight.** *Fact:* the source is a documented hoax. Standard: dismissed.
+
+### Count 79. The Sermon on the Mount is borrowed from Hillel and the rabbis; nothing in Jesus's ethics is original.
+
+**The Prosecution.** Hillel taught the Golden Rule a generation before Jesus; "love your neighbor" is Leviticus; the Beatitudes echo the Psalms; the Lord's Prayer parallels the Kaddish. Jesus was a rabbi among rabbis.
+
+**The Defense.** The defense agrees, and wonders which witness the prosecution is calling for. Jesus was a Jew teaching Torah, and the Christian claim was never that his ethics were unprecedented; it was that he taught them "as one who had authority, and not as the scribes" (Mark 1:22), "you have heard that it was said... but I say to you," speaking in his own name where the rabbis spoke in the name of their teachers. The parallels the objection lists establish the Jewishness of the Sermon, which the mythicists deny and the church affirms. What is distinctive in the teaching is well known and not in Hillel: the command to love enemies and pray for persecutors; the Beatitudes' inversion, in which the poor, the mourning, and the persecuted are the blessed; the address of God as "Abba"; the claim that the kingdom of God was present in his own acts; and the demand that the disciple's relation to him be the measure of everything else. Hillel's Golden Rule is negative ("what is hateful to you, do not do to your neighbor"); Jesus's is positive, and the difference between not harming and actively doing good is the difference the Good Samaritan illustrates. A teacher who stands in a tradition and speaks past it is what the Sermon shows, and the tradition's own heirs noticed: the objection to Jesus in the sources is never that he taught nothing new, but that he taught it in his own name.
+
+**The Exhibits.** Shabbat 31a (Hillel); Leviticus 19:18; Matthew 5-7; Mark 1:22; Luke 10:25-37; Mark 14:36 (Abba); the parallels collected in Montefiore, *Rabbinic Literature and Gospel Teachings* (1930), by a Jewish scholar.
+
+**The Weight.** *Concession:* the Jewish parallels are real and welcome. *Text:* the distinctive claims are authority and enemy-love. Standard: the count establishes Jesus's Jewishness; the inference that he claimed nothing does not follow.
+
+---
+
+*Part Five continues. Next: the passion (nine counts) and the resurrection (eleven counts), with every alternative explanation tried.*
+
+### The passion
+
+### Count 80. The trial as described could not have happened; the Sanhedrin did not meet at night on a feast.
+
+**The Prosecution.** Restated from the Mishnah's rules of capital procedure.
+
+**The Defense.** Answered at Count 43: the Mishnah's rules are later and Pharisaic, the Gospels narrate an irregular proceeding and say so, and Josephus records a high priest convening an illegal capital session in the same generation. The count is not repeated.
+
+**The Weight.** See Count 43.
+
+### Count 81. Crucifixion victims were left to rot or thrown in common graves; Romans did not release bodies for honorable burial; Joseph of Arimathea is an invention.
+
+**The Prosecution.** The whole point of crucifixion was the display of the corpse; the body was food for dogs and birds. A Sanhedrin member appearing from nowhere to give Jesus a rock-cut tomb is a literary convenience that makes the empty-tomb story possible. (Crossan, *Who Killed Jesus?*; Ehrman, *How Jesus Became God*, ch. 4.)
+
+**The Defense.** The rule was Roman, the exception was Jewish, and Judea had the exception in writing. Deuteronomy 21:22-23 required that an executed man's body "shall not remain all night on the tree, but you shall bury him the same day," and Josephus reports that the Jews of his own generation "took down those who were condemned and crucified, and buried them before the going down of the sun" (*War* 4.317); Philo says Roman governors released the crucified to their families before festivals as a matter of course (*Against Flaccus* 83); and the Roman jurists' own Digest preserves the rule that "the bodies of those who are condemned to death should not be refused to their relatives" (48.24.1). The archaeology settled the argument in 1968: the heel bone of Yehohanan son of Hagkol, crucified in Jerusalem in the first century with the nail still through it, was found in an ossuary in a family tomb, which is to say a crucified Jew of Jesus's own city and generation received exactly the burial the Gospels describe. Joseph of Arimathea is named in all four Gospels, with details that differ (rich, a disciple secretly, a member of the council who had not consented), which is what independent traditions of a real man look like; and he is the last person the church would invent: a member of the Sanhedrin that condemned Jesus, given the honor of his burial, in a tradition that otherwise had nothing good to say of that body. The creed Paul received within five years says "he was buried" as its second article, before the resurrection. And the tomb's location was public, in the city, known to the women who "saw where he was laid" (Mark 15:47) and to the authorities who had it guarded, which is the reason the resurrection was proclaimed there and not in Galilee.
+
+**The Exhibits.** Deuteronomy 21:22-23; Josephus, *War* 4.317; Philo, *Against Flaccus* 83; Digest 48.24.1 (Ulpian); the Yehohanan ossuary (Israel Museum; Haas, *IEJ* 1970; Zias and Sekeles 1985); Mark 15:42-47; John 19:38-42; 1 Corinthians 15:4; Evans, "Jewish Burial Traditions and the Resurrection of Jesus" (2005), the reply to Crossan.
+
+**The Weight.** *Multiple attestation:* four Gospels and the creed. *Embarrassment:* a Sanhedrist as the honorer. *Archaeological anchoring:* Yehohanan. *Hostile corroboration:* the Jewish counter-claim (Count 89) presupposes a known tomb. Standard met: clear and convincing that Jesus was buried in a known tomb by Joseph of Arimathea.
+
+### Count 82. The darkness at noon is unrecorded by any astronomer or historian.
+
+**The Prosecution.** Three hours of darkness over "the whole land" would have been noticed across the empire. Nothing in Roman or Greek literature records it; Thallus and Phlegon are late and doubtful.
+
+**The Defense.** The handbook conceded at Count 42 that the darkness is thinly attested outside the Synoptics, and rests nothing on it. Two notes. "The whole land" (*gē*) in the Gospels' usage means Judea, not the globe, and a regional darkness of three hours has natural candidates the region knows well (the khamsin dust storms that turn the sky dark at midday in spring, which Luke's "the sun's light failed" would describe without naming); the Gospels do not say what caused it and neither does the defense. Thallus, a first-century chronicler quoted by Julius Africanus around 220, evidently mentioned a darkness that Africanus took to be this one and that Thallus had explained as an eclipse, which cannot occur at Passover's full moon; that is a thread, not a rope. The crucifixion is not proved by the darkness; the darkness is reported by the witnesses to the crucifixion, and the court weighs it as a detail in their account, not as an independent pillar.
+
+**The Exhibits.** Mark 15:33; Luke 23:44-45; Africanus in Syncellus, *Chronography* (Thallus fr. 1); Phlegon in Origen, *Against Celsus* 2.33; the meteorology of the khamsin.
+
+**The Weight.** *Attestation:* Synoptic only, with a doubtful pagan echo. Standard: the count establishes thin attestation of a detail the case does not need.
+
+### Count 83. The last words differ in every Gospel.
+
+**The Prosecution.** "My God, why have you forsaken me" (Mark, Matthew); "Father, into your hands I commit my spirit" (Luke); "It is finished" (John).
+
+**The Defense.** Answered at Count 38: a man on a cross for six hours said several things, the Gospels report seven, and no Gospel says "he said only this." The three the objection lists are, in order, a prayer from Psalm 22, a prayer from Psalm 31, and a verdict, and a dying Jew praying the psalms he knew is the most probable thing in the record.
+
+**The Weight.** See Count 38.
+
+### Count 84. "Three days and three nights" (the sign of Jonah) does not fit Friday evening to Sunday morning.
+
+**The Prosecution.** Matthew 12:40: "as Jonah was three days and three nights in the belly of the great fish, so will the Son of Man be three days and three nights in the heart of the earth." Friday sunset to Sunday dawn is one day and two nights. Either the chronology or the prophecy fails. (Deedat's staple; the Wednesday-crucifixion theorists; the skeptics.)
+
+**The Defense.** The idiom is Hebrew and the Bible explains itself. Jewish reckoning counted any part of a day as a whole, and "a day and a night" was the unit (an *onah*), of which "part is as the whole," a principle stated in the rabbinic literature (Jerusalem Talmud, Shabbat 9:3; Babylonian Talmud, Pesahim 4a). The Bible uses it: Esther tells Mordecai to fast "three days, night or day," and then goes to the king "on the third day" (Esther 4:16, 5:1), not the fourth; the Egyptian slave in 1 Samuel 30:12-13 had eaten nothing "three days and three nights" and says his master left him "three days ago"; Rehoboam says "come to me again in three days" and the people come "on the third day" (2 Chronicles 10:5, 12). The Gospels themselves use "on the third day" (Matthew 16:21), "after three days" (Mark 8:31), and "three days and three nights" (Matthew 12:40) for the same interval, interchangeably, which shows the writers heard no difference; and the chief priests, quoting Jesus's "after three days I will rise," ask for the tomb to be guarded "until the third day" (Matthew 27:63-64), not the fourth, which is how Jews of the time counted it. Friday, Saturday, Sunday: three days by the reckoning of everyone in the story, including the enemies.
+
+**The Exhibits.** Matthew 12:40, 16:21, 27:63-64; Mark 8:31; Esther 4:16, 5:1; 1 Samuel 30:12-13; 2 Chronicles 10:5, 12; Genesis 42:17-18; y. Shabbat 9:3; b. Pesahim 4a.
+
+**The Weight.** *Text:* the idiom is demonstrated within the Bible and the rabbis. Standard: the count fails on the language.
+
+### Count 85. Jesus did not die on the cross; he swooned and revived in the cool of the tomb.
+
+**The Prosecution.** He was on the cross only a few hours (Pilate "wondered whether he was already dead," Mark 15:44); crucifixion normally took days; the legs were not broken; the tomb was cool and the spices were medicinal; he revived, was seen, and the disciples mistook recovery for resurrection. (Venturini, 1800; Deedat's "Crucifixion or Cruci-fiction?"; the Ahmadiyya.)
+
+**The Defense.** The theory was killed in 1835 by David Strauss, the most radical critic of the Gospels in his century and no friend of the church: a man "half-dead, creeping out of the sepulchre, weak and ill, wanting medical treatment... could never have given the disciples the impression that he was the Conqueror over death and the grave, the Prince of Life," and it has not recovered. The medical case is against it at every step: the Roman flogging, which shredded the back to the muscle and was itself sometimes fatal; the nails through the wrists and feet; six hours of hanging, in which death came by exhaustion asphyxia and hypovolemic shock; the spear thrust that produced "blood and water" (Count 88), which the physicians who reviewed the record in the *Journal of the American Medical Association* (1986) read as the piercing of a pleural effusion and the heart, and concluded, "the weight of the historical and medical evidence indicates that Jesus was dead before the wound to his side was inflicted"; and the executioners, professionals whose own lives were forfeit if a condemned man escaped, who did not break his legs because they had already certified his death, and whose centurion reported it to Pilate in person (Mark 15:44-45). Pilate "wondered" because six hours was quick; the centurion's answer ended the wonder. Then the theory requires that a man in that condition, wrapped in seventy-five pounds of spices and linen (John 19:39-40), revived in a sealed, guarded tomb, rolled away a stone from the inside, overpowered or evaded the guard, and walked on pierced feet to convince his followers, who had seen the crucifixion, that he had conquered death, after which he vanished and never suffered again. Deedat's "he appeared in a body with wounds, eating fish, therefore he had never died" proves that the disciples saw a body, which is the Christian claim; it does not make the body one that had survived the cross. The theory explains the appearances by making them the last thing they could have been, the visits of an invalid.
+
+**The Exhibits.** Strauss, *A New Life of Jesus* (1865 ed.), vol. 1, p. 412; Edwards, Gabel, and Hosmer, "On the Physical Death of Jesus Christ," *JAMA* 255 (1986); Mark 15:15, 15:44-45; John 19:31-40; the Yehohanan remains (the nail technique); Deedat, *Crucifixion or Cruci-fiction?* (1984) and the replies (e.g., John Gilchrist).
+
+**The Weight.** *Medical:* death established on the record. *Coherence:* the theory requires a chain of impossibilities and explains no proclamation. *Consensus:* abandoned by critical scholarship since Strauss. Standard met: beyond reasonable doubt that Jesus died on the cross.
+
+### Count 86. Simon of Cyrene, or Judas, was crucified in his place.
+
+**The Prosecution.** The Gnostic Basilides taught that Simon, carrying the cross, was transfigured to look like Jesus and crucified while Jesus stood by laughing; some Muslim commentators hold that Judas or a volunteer was made to resemble him. The Gospels' Jesus was not the man on the cross.
+
+**The Defense.** The substitution theory has a birth certificate, and it is Gnostic: Irenaeus records it as Basilides's teaching around 130, from a school that held the flesh contemptible and the divine Christ incapable of suffering, which is the theology that needed a substitute; no source within a century of the events knows of one. Against it stand every Gospel, Paul's creed, Tacitus, Josephus, Lucian, Mara bar Serapion, and the Talmud, hostile and friendly, Jewish and pagan, all saying the man who was executed was the man himself. The women stood at the cross and knew his face; his mother was there; the inscription named him; and the theory requires that the God of truth staged a deception so complete that the victim's own mother, the disciples, the executioners, and the enemies were all fooled, and that the entire subsequent proclamation was founded on a mistake God had engineered. The Muslim commentators who took up the theory could never agree on whom the substitute was (Judas, Simon, Sergius, an unnamed volunteer), which is what happens when a doctrine has no source. Count 87 takes the Qur'anic verse itself.
+
+**The Exhibits.** Irenaeus, *Against Heresies* 1.24.4; the Second Treatise of the Great Seth (Nag Hammadi VII,2), the Gnostic "laughing Jesus"; John 19:25-27; the tafsir literature on 4:157 (al-Tabari's list of candidates); the hostile witnesses of Part Two.
+
+**The Weight.** *Attestation:* a second-century Gnostic origin against universal first-century testimony. Standard: dismissed.
+
+### Count 87. The Qur'an says "they did not kill him, nor crucify him, but it was made to appear so to them" (4:157); Jesus was raised alive to God.
+
+**The Prosecution.** Islam's revelation denies the crucifixion, and a billion and a half people hold that the Christian account is a mistake or a fabrication. (The Qur'an; Deedat; Zakir Naik; Shabir Ally.)
+
+**The Defense.** With respect for the text and the people who hold it sacred, the historical question is one of evidence and date. The Qur'an was composed in the seventh century, six hundred years after the crucifixion, in Arabia, a thousand miles from Jerusalem, and its verse stands against every earlier source there is: the four Gospels and Paul from the first century; Tacitus, Josephus, Lucian, and the Talmud from the first and second; the universal testimony of Jews, pagans, and Christians who agreed on nothing else. No historian of any faith or none treats a seventh-century text as evidence against first-century witnesses, and the crucifixion is, in the words of the radical critic John Dominic Crossan, "as sure as anything historical can ever be"; Bart Ehrman calls it the most certain fact about Jesus. The verse itself is not as clear as the objection presents it: Muslim scholars have long disagreed about what "it was made to appear so" means, some (Mahmoud Ayoub, and the classical commentator al-Razi in part) reading it as a denial that the Jews accomplished his death by their own power rather than a denial that he died, and the Qur'an elsewhere has Jesus speak of "the day I die" (19:33) and God say "I will cause you to die and raise you to me" (3:55, *mutawaffika*), verses the tradition has had to reconcile with 4:157 for thirteen centuries. The Christian claim that Jesus was raised alive to God is what the Qur'an affirms; the dispute is over whether he died first, and on that the earlier evidence is unanimous and the later evidence is one verse.
+
+**The Exhibits.** Qur'an 4:157-158, 3:55, 19:33; al-Tabari and al-Razi on 4:157; Ayoub, "Towards an Islamic Christology II" (1980); Crossan, *Jesus: A Revolutionary Biography* (1994), p. 145; Ehrman, *Did Jesus Exist?*, ch. 8; the first- and second-century witnesses of Part Two.
+
+**The Weight.** *Dating:* a single seventh-century source against unanimous first-century testimony. Standard: the count establishes a theological claim, not a historical one; beyond reasonable doubt that Jesus died on the cross.
+
+### Count 88. The spear, the blood, and the water are John's theology, not physiology.
+
+**The Prosecution.** John alone has the spear; "blood and water" is sacramental symbolism (the Eucharist and baptism), and John says so by adding "he who saw it has borne witness" to cover an invention.
+
+**The Defense.** A detail can be both true and meaningful; the objection treats the second as excluding the first. The physiology is sound: the physicians who examined the account (*JAMA* 1986) explain "blood and water" as the flow, from a spear entering below the ribs into the chest, of pleural fluid accumulated from the flogging and hypovolemic shock, followed by blood from the heart, in that order, which a first-century observer would report as water and blood and a writer with theological interests would keep in the order he saw. The purpose of the thrust, the Roman confirmation of death before releasing a body, is exactly what the executioners' behavior at 19:33 implies, and the eyewitness note at 19:35 is the sort of claim John's Gospel makes at its opening and close (1:14; 21:24), the author insisting on having seen, which is the opposite of a cover for invention. The Roman practice is attested (Quintilian mentions the piercing of the crucified), and the detail is one no theologian needed: John's sacramental reading can be had from a hundred other verses. He reports it because he saw it, and he says so.
+
+**The Exhibits.** John 19:31-37; *JAMA* 255 (1986); Quintilian, *Declamations* 6.9; John 1:14, 21:24.
+
+**The Weight.** *Coherence:* medically plausible and Roman in practice. *Eyewitness claim:* explicit. Standard: the count establishes theological interest, which does not exclude the event.
+
+### The resurrection
+
+### Count 89. The disciples stole the body.
+
+**The Prosecution.** The oldest explanation on record, from the enemies themselves: "his disciples came by night and stole him away while we were asleep" (Matthew 28:13). A grieving, ashamed group with everything to gain removed a corpse from a garden tomb and announced a resurrection.
+
+**The Defense.** Begin with what the theory concedes: the tomb was empty, and known to be, in Jerusalem, within days. Matthew reports the stolen-body story as the current Jewish explanation "to this day," and Justin Martyr, a century later, says the Jews were still sending it out (*Dialogue* 108), which means the opponents never claimed the body was in the tomb, and their explanation was a theft; the empty tomb is the one fact both sides of the earliest dispute agreed on. Then the theory itself. The guard is Matthew's, and if the prosecution rejects the guard it must explain why the Jewish authorities would have accused the disciples of stealing what a guard could have prevented; the accusation implies the guard. The disciples of the Gospels had fled, denied, and hidden; the theory makes them thieves who conspired, in the same week, to found a movement on a fraud they knew to be one, and then, every one of them, to be beaten, imprisoned, and in several attested cases killed rather than say so, with nothing to gain that they got. Liars do not make martyrs, and the distinction is decisive: people die for false beliefs they received, not for claims they know they invented (Count 97). The linen was left folded in the tomb (John 20:6-7), which thieves in a hurry do not do, as Chrysostom observed. And the theory explains none of the rest: not the appearances to five hundred, to James, or to Paul, not the transformation of frightened men into the preachers of Acts, not the conversion of the enemy. The stolen body is the earliest theory because it is the theory an empty tomb forces on someone who will not accept the alternative, and it has never explained anything but the tomb.
+
+**The Exhibits.** Matthew 27:62-66, 28:11-15; Justin, *Dialogue* 108; John 20:1-10; Chrysostom, *Homilies on Matthew* 90; Acts 4-5, 12; Josephus, *Antiquities* 20.200; 1 Clement 5.
+
+**The Weight.** *Hostile corroboration:* the theory concedes the empty tomb. *Coherence:* explains the tomb and nothing else, and requires martyrs for a known fraud. Standard: the count establishes the empty tomb; as an explanation it fails.
+
+### Count 90. The women went to the wrong tomb.
+
+**The Prosecution.** In the dark, grieving, in an unfamiliar garden of many tombs, the women found an empty one, a young man said "he is not here," and the legend began. (Kirsopp Lake, 1907.)
+
+**The Defense.** The women had watched the burial two days before and "saw where he was laid" (Mark 15:47; Luke 23:55); the tomb was Joseph of Arimathea's own, who knew its location; Peter and John ran to it and found it as described; and the authorities, if the body lay in a neighboring tomb, had only to produce it to end the movement, which they never did, offering instead a theft. The theory explains a single morning's confusion and nothing after it; it does not touch the appearances, and it requires that no one in Jerusalem, friend or enemy, ever checked the right tomb. Lake himself abandoned it.
+
+**The Exhibits.** Mark 15:47, 16:1-8; Luke 23:55-24:12; John 20:1-10; Lake, *The Historical Evidence for the Resurrection of Jesus Christ* (1907).
+
+**The Weight.** *Coherence:* fails on the witnesses' knowledge and the authorities' inaction. Standard: dismissed.
+
+### Count 91. The appearances were hallucinations or grief visions, like bereaved spouses seeing the dead.
+
+**The Prosecution.** Bereaved people commonly "see" the deceased; the disciples, guilty and grieving, did the same, Peter first, and the experience spread by contagion. Paul's own "appearance" was a vision on a road. No body was involved; the tomb story came later to match. (Lüdemann, *The Resurrection of Jesus*, 1994; Ehrman, *How Jesus Became God*, ch. 5.)
+
+**The Defense.** This is the strongest alternative, held by the best skeptical scholars, and it should be met at its strongest. Three answers. First, the psychology: hallucinations are private events, produced by an individual brain, and the psychiatric literature knows no such thing as a shared hallucination in which several people see and hear the same figure, converse with it, and eat with it; the appearances are reported to individuals (Peter, Mary, James, Paul), to pairs (Emmaus), to the Eleven, indoors and outdoors, in Jerusalem and Galilee, over forty days, and once to five hundred at once, in circumstances too various for a single mechanism. Bereavement visions are common and the bereaved know what they are; they produce comfort, not a movement, and no one in the history of grief has concluded from one that the general resurrection of the dead has begun. Second, the theory cannot reach the two witnesses it most needs to: James, who did not believe in his brother and was not grieving for a Messiah, and Paul, who was not bereaved but hostile, on his way to arrest Christians, and who describes what he saw with the same verb the creed uses for the others (*ōphthē*, "he appeared") and insists it was the same kind of event, not a vision like his later ones, which he distinguishes (2 Corinthians 12). Third, the theory leaves the tomb full, and the earliest opponents did not say it was; a hallucinated Jesus and a corpse in Joseph's tomb would have ended the movement on the first day the priests thought to open it. N. T. Wright's argument closes the circle: nothing in first-century Judaism would have led a Jew who had seen a vision of a dead friend to say "he has been raised from the dead," because resurrection meant bodies, at the end of the age, for everyone; to proclaim that it had happened to one man, now, in a tomb that was open, required an event that the vision theory does not supply. The hallucination theory explains the disciples' sincerity, which no one doubts, and nothing that made the sincerity dangerous.
+
+**The Exhibits.** 1 Corinthians 15:3-8 (*ōphthē*); Luke 24:36-43; John 20:19-29, 21:1-14; Acts 9:1-9; 2 Corinthians 12:1-4; Lüdemann, *The Resurrection of Jesus* (1994); Wright, *The Resurrection of the Son of God* (2003), chs. 18-19; Licona, *The Resurrection of Jesus* (2010), ch. 5 (the psychological literature on hallucination); Habermas and Licona, *The Case for the Resurrection of Jesus* (2004).
+
+**The Weight.** *Psychology:* group hallucination is undocumented; the circumstances are too varied. *Coherence:* fails on James, Paul, the tomb, and the Jewish concept of resurrection. Standard: the count is the best natural explanation and it does not explain the data; the sincerity it concedes is the defense's point.
+
+### Count 92. The empty tomb is a late legend; Paul never mentions it.
+
+**The Prosecution.** The creed of 1 Corinthians 15 lists appearances and never says the tomb was empty; the empty-tomb story first appears in Mark, forty years on, and grew from the appearance tradition to give it a body.
+
+**The Defense.** The creed says "he was buried, and he was raised on the third day," and to a first-century Jew, for whom resurrection meant the body's rising, "buried... raised" is an empty tomb in two words; a Pharisee like Paul could not have said "raised" of a man whose corpse lay where it was put, and his whole chapter argues for the resurrection of the body against Corinthians who doubted it. The narrative is in all four Gospels with independent details, and behind Mark it is in the pre-Markan passion story, which scholars date to the 30s or 40s. The Jerusalem proclamation is the decisive datum: the disciples announced the resurrection within weeks in the city where the tomb was, to people who could walk to it, and the opponents' response (Count 89) was not "the body is here" but "you stole it." There was, moreover, no veneration of the tomb, a striking absence in a culture that honored the tombs of the prophets (Matthew 23:29), and the absence is explained by the one fact that would make veneration pointless. The women as first witnesses (Count 52) are the embarrassment criterion applied to this very story. A legend that grew to give the appearances a body would have given them a decorous, male, apostolic discovery; the tradition kept the women, the fear, and the silence.
+
+**The Exhibits.** 1 Corinthians 15:3-4, 35-58; Mark 15:42-16:8; Acts 2:29-32 (David's tomb "is with us to this day," against Jesus's); Matthew 28:11-15; Justin, *Dialogue* 108; the pre-Markan passion narrative (Pesch; Theissen); Wright, *Resurrection*, ch. 8.
+
+**The Weight.** *Early attestation:* the creed's "buried... raised"; the pre-Markan narrative. *Hostile corroboration:* the theft charge. *Embarrassment:* the women. *Multiple attestation:* four Gospels. Standard met: clear and convincing that the tomb was empty; granted, per Habermas's survey, by about three-quarters of the specialists who have written on it.
+
+### Count 93. Paul's list of five hundred is unverifiable and unmentioned elsewhere.
+
+**The Prosecution.** One source, a number with no names, no place, no date; it cannot be checked and so it counts for nothing.
+
+**The Defense.** It was submitted for checking. Paul, writing to Corinth around 55, says the five hundred saw him "at one time, most of whom are still alive," which is an invitation to a church in contact with Jerusalem to go and ask, made by a man whose opponents in Corinth would have loved to catch him in a lie; it is the language of a witness list handed to a jury, and no one in the ancient world is recorded as having taken up the challenge and found it false. The event is plausibly the Galilee appearance of Matthew 28:16-17, where Jesus had told the disciples to gather and where, the text says, "some doubted," an admission no fabricator adds. The number is single-sourced, and the handbook has said (Count 7) that no historian treats it as a proven event; what it treats as proven is that Paul, within twenty-five years, publicly claimed a mass appearance with living witnesses, in a letter his enemies read, and was not contradicted.
+
+**The Exhibits.** 1 Corinthians 15:6; Matthew 28:16-17; the dating of the creed (Count 19); the Corinthian opposition (2 Corinthians 10-13).
+
+**The Weight.** *Attestation:* single, early, public, and unrebutted. Standard: preponderance that a mass appearance was claimed by eyewitness-era testimony; the number is not independently verifiable and the handbook does not treat it as such.
+
+### Count 94. The resurrection accounts contradict each other in every detail.
+
+**The Prosecution.** Restated from the catalog of Count 38.
+
+**The Defense.** Answered there: every account has the tomb empty on the first day of the week, women first, Mary Magdalene named, the stone moved, an angelic proclamation, and appearances; the peripheral details vary as independent testimony to one morning varies. The prosecution has not identified a contradiction in the core.
+
+**The Weight.** See Count 38.
+
+### Count 95. A resurrection is scientifically impossible; any natural explanation, however unlikely, is more probable than a miracle.
+
+**The Prosecution.** Hume again, applied to the case: whatever happened, the swoon, the theft, the hallucination, a hoax we cannot reconstruct, is more probable than a dead man rising, because dead men do not rise.
+
+**The Defense.** The natural explanations have been tried, one by one, in Counts 85 to 91, and each fails the evidence it was invented to explain: the swoon on the medicine, the theft on the martyrs, the wrong tomb on the witnesses, the hallucination on James, Paul, the group, and the tomb. The prosecution's fallback, "a natural explanation we cannot reconstruct," is not an explanation; it is a refusal to accept the one that fits, on the ground that it is a miracle, which is Hume's argument, and Hume's argument fails (Count 72). The honest form of the question is the historian's: which hypothesis best accounts for the facts the specialists grant, that Jesus died by crucifixion, was buried, that his tomb was found empty, that his followers had experiences they believed were appearances of him alive, that the skeptic James and the persecutor Paul were converted by the same claim, and that the movement began in Jerusalem within weeks? The resurrection accounts for all of them; each rival accounts for one or two. "Dead men do not rise" is true as a rule of nature, and the claim was never that nature did it; it was that God did, once, and the probability of that depends on whether God exists and acts, which is the question the objection assumes closed. The court cannot assign the number; it can say that on the evidence, with the prior left open, the resurrection is the explanation that fits, and that every alternative the last two centuries have produced has been abandoned by its own proposers.
+
+**The Exhibits.** Counts 72, 85-92; Habermas and Licona's "minimal facts" (the facts granted by the large majority of specialists across the spectrum); Wright, *Resurrection*, ch. 18 ("the necessary condition" and "the sufficient condition"); Swinburne, *The Resurrection of God Incarnate* (2003), for the philosophical framing; the McGrews' and Carrier's opposed Bayesian analyses (Part Thirteen, on why no number is offered).
+
+**The Weight.** *Method:* inference to the best explanation, with the alternatives tried and failed. *Prior:* left open, as the court must. Standard: the death, beyond reasonable doubt; the burial and empty tomb, clear and convincing; the disciples' sincere belief in appearances, beyond reasonable doubt on the skeptics' own testimony; the resurrection as the explanation, the best available on the evidence, with the verdict left to the juror who has weighed the prior.
+
+### Count 96. The disciples died for a lie, or, more likely, we do not actually know how most of them died.
+
+**The Prosecution.** The martyrdom stories of the Twelve are late legends; only a few deaths are attested; and in any case a martyr's death proves sincerity, not truth.
+
+**The Defense.** Concede the legends: the deaths of most of the Twelve are known only from traditions of the second century and later, and the handbook does not rest on Bartholomew's flaying. What is attested by sources the prosecution accepts is enough: James son of Zebedee was executed by Herod Agrippa around 44 (Acts 12:2, in a book the prosecution dates within decades); James the brother of Jesus was stoned in 62 (Josephus, a non-Christian); Peter and Paul were killed under Nero, which Clement of Rome, writing around 96 to a church that had known them, records in the words "witnessed to death," and which Tertullian, Ignatius, and the Roman tradition confirm; Stephen and the persecution of Acts 8 are within the first years. These men were not second-generation believers dying for a received faith; they were the ones who claimed to have seen him, and they could have known whether they had. That is the distinction the prosecution's second clause misses, and Count 97 takes it.
+
+**The Exhibits.** Acts 12:1-2; Josephus, *Antiquities* 20.200; 1 Clement 5:2-7; Ignatius, *Romans* 4; Tertullian, *Scorpiace* 15; Tacitus, *Annals* 15.44 (the persecution); McDowell, *The Fate of the Apostles* (2015), which grades each tradition's evidence.
+
+**The Weight.** *Concession:* most martyrdoms are late tradition. *Attestation:* Peter, Paul, both Jameses, Stephen, from early and partly hostile sources. Standard: clear and convincing that the leading eyewitnesses were killed for the claim.
+
+### Count 97. People die for false beliefs all the time (the 9/11 hijackers, Jonestown); martyrdom proves sincerity, not truth.
+
+**The Prosecution.** Fanatics of every creed have died for it. The apostles' deaths show they believed; they do not show they were right.
+
+**The Defense.** Agreed, and the agreement is the point. The 9/11 hijackers died for a belief they had received from others and could not have known to be false; the apostles died for a claim they themselves made, about an event they said they had witnessed, and which they, uniquely, were in a position to know was true or a lie. A man may die for a false belief sincerely held; no one dies for a claim he knows he invented, when a word would save him, and the theft theory (Count 89) requires exactly that of a dozen men, none of whom broke. What the martyrdoms prove is therefore precisely what the defense needs: that the eyewitnesses were sincere, that they were not lying, and that the explanation of the resurrection must account for men who believed they had seen a risen body, which leaves hallucination (Count 91) as the only alternative, and that has been tried. Pascal put the logic in a sentence: "I believe those witnesses who get their throats cut."
+
+**The Exhibits.** Pascal, *Pensées* 593 (Lafuma); Acts 4:19-20, 5:29-33; Counts 89, 91, 96.
+
+**The Weight.** *Logic:* the distinction between dying for a received belief and dying for one's own claimed observation. Standard: the count concedes sincerity, which is the defense's premise.
+
+### Count 98. The Shroud of Turin is a medieval forgery.
+
+**The Prosecution.** The 1988 radiocarbon dating placed the cloth between 1260 and 1390; the "burial cloth of Christ" is a fourteenth-century artifact and a Christian embarrassment.
+
+**The Defense.** The handbook rests nothing on the Shroud, and neither does the church, which has never defined its authenticity. For the record: the 1988 dating is the strongest evidence for a medieval origin and has been challenged on the sample's location (a corner the cloth's history shows was handled and possibly repaired; Rogers's 2005 chemical analysis found the sample unrepresentative), and other dating methods have given older results (De Caro's 2022 wide-angle X-ray study suggested a first-century range); the image's formation remains unexplained by any technique, medieval or modern; and the cloth's provenance before 1355 is a gap. The honest verdict is that the question is open, with the carbon date still the datum to beat, and that the resurrection was believed by every Christian for thirteen centuries before anyone in Europe saw the Shroud, and would be if it were burned tomorrow.
+
+**The Exhibits.** Damon et al., *Nature* 337 (1989); Rogers, *Thermochimica Acta* 425 (2005); De Caro et al., *Heritage* 5 (2022); the Shroud's documented history from Lirey (1355).
+
+**The Weight.** *Relevance:* none to the case. *Fact:* an open question. Standard: the count is set aside as immaterial.
+
+### Count 99. Jesus's body was found in a family tomb at Talpiot, with ossuaries of "Jesus son of Joseph," "Mary," and "Judah son of Jesus."
+
+**The Prosecution.** A 1980 tomb in East Jerusalem held ossuaries with those names; a 2007 documentary put the odds at 600 to 1 that it was the family of Jesus of Nazareth. (Jacobovici and Cameron, *The Lost Tomb of Jesus*.)
+
+**The Defense.** The names are the problem, not the proof. In first-century Jewish Palestine, Joseph was the second most common male name (about nine percent of men), Jesus the sixth (about four percent), Judah the fourth, and Mary the most common female name by far (about a quarter of women); a tomb with a Jesus son of Joseph and a Mary is what one expects of any Jerusalem family tomb, and several "Jesus son of Joseph" ossuaries are known. The statistician whose calculations the film used repudiated the 600-to-1 figure; the reading "Jesus" on the ossuary is itself disputed by epigraphers; the "Mariamene" ossuary was made the Magdalene by a chain of assumptions; and a Galilean family with no property in Jerusalem does not own a rock-cut tomb there, which was for the well-off, while the actual Jerusalem church, led by his brother, knew where its Lord was and was not buried. The archaeologist who excavated the tomb, Amos Kloner, called the identification "nonsense," and the field agreed.
+
+**The Exhibits.** Bauckham's name-frequency tables (*Jesus and the Eyewitnesses*, ch. 4; Ilan, *Lexicon of Jewish Names*); Kloner, "A Tomb with Inscribed Ossuaries in East Talpiot," *Atiqot* 29 (1996); the Princeton Theological Seminary symposium (2008) on the tomb; the epigraphic dispute over the "Jesus" reading (Pfann).
+
+**The Weight.** *Fact:* common names; disputed reading; rejected by the excavator and the field. Standard: dismissed.
+
+### The verdict on Part Five
+
+Sort the counts by what they concede and what they establish. The birth: the virginal conception is claimed by two independent traditions, one with the proof-text and one without, and answered by the enemies with a slander that presupposes it; the Bethlehem birth stands on two witnesses and a remembered site; the genealogies were explained from family records in the second century. The ministry: the Synoptic Jesus claimed, by act and by Daniel 7, an authority his hearers took as divine and condemned as blasphemy, and was worshiped as Lord by Aramaic-speaking Jews within a year or two of his death; his one dated prophecy came true; his hard sayings are hard by design; the alternative portraits die on the sayings they discard. The passion: he died on the cross beyond reasonable doubt, on the testimony of every source and the medicine; he was buried in a known tomb by a named Sanhedrist, as Jewish law and the Yehohanan ossuary show was done; the sign of Jonah is Hebrew idiom; the substitution is Gnostic and six centuries late. The resurrection: the tomb was empty, conceded by the enemies' own explanation; the disciples believed they had seen him alive, conceded by the skeptics' own scholarship; the skeptic brother and the persecutor were converted by the same claim; the eyewitnesses were killed for it and did not recant; and every natural explanation offered in two hundred years, swoon, theft, wrong tomb, hallucination, legend, has been tried on the evidence and abandoned by its own proposers. What remains is the explanation the first witnesses gave. The court does not compel the juror to accept it; it records that on the evidence, with the prior left where the juror must set it, the resurrection is the hypothesis that explains all the facts and the only one that does, and that the prosecution, having called every witness it has, has not produced a body, a recantation, or a rival account that survives cross-examination.
+
+---
+
+*Part Five complete. Next: Part Six, the New Atheist witness: the Old Testament God, slavery, evil, hell, miracles, Genesis and science, and why God hides.*
+
+---
+
+## PART SIX: THE NEW ATHEIST WITNESS
+
+*Witness: Richard Dawkins, Christopher Hitchens, Sam Harris, Daniel Dennett, and the comment section they educated. The ground shifts here from history to morality, science, and philosophy: not "did it happen?" but "is the God of this book good, and is belief in him rational?" These counts cannot be scored on manuscripts; each is answered on the argument and marked with its standing.*
+
+### Count 100. The Old Testament God is "jealous and proud of it; a petty, unjust, unforgiving control-freak; a vindictive, bloodthirsty ethnic cleanser." The conquest of Canaan is genocide.
+
+**The Prosecution.** Dawkins's sentence (*The God Delusion*, ch. 2) and its evidence: Joshua's cities put to the sword, "man and woman, young and old," at God's command. A good God does not order this; a book that says he did is not from him.
+
+**The Defense.** The church's answer to this count is older than Dawkins by eighteen centuries, because Marcion made it first, and the answer has five parts, each already given at length in this series' Old Testament volumes. First, the sentence is a selection: the Old Testament is also where "God is love" comes from, its own self-description being "merciful and gracious, slow to anger, abounding in steadfast love" (Exodus 34:6), Hosea's "how can I give you up," Isaiah's nursing mother, Jonah's God sparing Nineveh over the prophet's protest; and the New Testament's severest sentences on judgment are in Jesus's own mouth. The contrast is manufactured by reading each Testament for one thing. Second, the conquest is presented in the text as a judgment delayed for four centuries "for the iniquity of the Amorites is not yet complete" (Genesis 15:16), on a culture whose practices, child sacrifice among them, the Torah names, and the same judgment fell on Israel by the same standard when Israel adopted them, Samaria deported and Jerusalem burned, which is not what ethnic cleansing does. Third, it was bounded: one land, one generation, a unique command (*herem*) that Deuteronomy 20 explicitly distinguishes from every other war Israel would fight, never extended by any prophet, and never used by the church as a license without other Christians answering from the same book. Fourth, the language: the conquest accounts use the totalizing rhetoric of ancient Near Eastern war reports ("utterly destroyed... none left"), and the same books say plainly that the Canaanites remained (Judges 1), Rahab and the Gibeonites were spared and joined Israel, and the cities were fortified garrisons; the historians of the genre (Younger, Hess) read the "all" as the convention it was. Fifth, and this is where the church has always ended: the God who judged Canaan is the God who, rather than judge the world, took its judgment himself, "that he might be just and the justifier" (Romans 3:26), and Paul's "note then the kindness and the severity of God" (11:22) puts both in one clause about one God. None of this makes the passages easy, and the handbook does not pretend to; Christopher Wright's *The God I Don't Understand* is the honest title. What it makes them is the opposite of what Dawkins says: not the whims of a vindictive tribal deity, but the acts of a Judge who warned for centuries, applied one law to his own people, ended the sentence with the land, and then paid it himself.
+
+**The Exhibits.** Exodus 34:6-7; Genesis 15:16; Deuteronomy 9:4-5, 12:31, 20:10-18; Joshua 6:25; Judges 1; 2 Kings 17; Romans 3:25-26, 11:22; Hosea 11; Younger, *Ancient Conquest Accounts* (1990); Copan, *Is God a Moral Monster?* (2011); Wright, *The God I Don't Understand* (2008); the earlier discussion of Marcion in the Old Testament series.
+
+**The Standing.** A question of the text's meaning and of theodicy. Rests on reading the whole Old Testament rather than one column of it, and on the cross as the place the severity and the kindness meet.
+
+### Count 101. The Bible endorses slavery, the subjugation of women, and the execution of gays, witches, and disobedient children.
+
+**The Prosecution.** Leviticus 20:13, Exodus 22:18, Deuteronomy 21:18-21, Exodus 21:20-21, 1 Timothy 2:12: the book that is supposed to be the source of morality prescribes what every decent modern rejects.
+
+**The Defense.** Slavery was answered at Count 74; the rest follow the same shape, which is that the Torah's civil law was the law of an ancient Near Eastern nation, more humane than its neighbors' at every point of comparison and not the law of the church, and that the New Testament's trajectory is the one that ended these things. Set the Torah beside Hammurabi, its nearest comparator: Hammurabi's code punishes by class, executes for theft, and treats the wife as property; the Torah gives the slave a Sabbath and a release, makes the kidnapper's trade a capital crime, protects the female captive from being sold, requires the rapist to be punished and the seducer to marry, gives daughters inheritance rights (Numbers 27), and puts the same value on every life. The "disobedient son" law (Deuteronomy 21) describes a habitual drunkard and glutton brought by both parents to the elders, not a child, and the rabbis ruled that it had never been applied and never would be ("there never was, and never will be, a stubborn and rebellious son," Sanhedrin 71a), which is how the Torah's own interpreters read their severest statutes. Leviticus 20's penalties belonged to Israel's theocratic civil code, which the New Testament does not carry into the church; the church's teaching on the underlying ethics is a separate question, and it has never been that the state should execute anyone for it, and the one time the Gospels show Jesus with a woman under a Torah death sentence he sent the executioners home. Exodus 22:18 concerns Israel's ban on sorcery; the witch trials were a European failure of the fifteenth to seventeenth centuries, condemned by Christians at the time (Spee, Weyer) and by the churches since, and are the church's sin, not the text's command to Gentiles. On women, the New Testament's data are the ones Rome noticed: Jesus taught women, traveled with them, made them the first witnesses, and defended Mary's right to sit at his feet as a student; Paul, whose restrictions are debated among Christians as to scope and occasion, also wrote "there is neither male nor female," named women as co-workers, deacons, and an apostle (Romans 16), and gave the Roman wife the first right in antiquity over her husband's body (1 Corinthians 7:4). The historians of the early church (Stark again) show it grew in large part because women flocked to it, for the reasons the objection would expect them to flee. The Bible is a book whose law moved, within itself, from the ancient world toward the modern; the objection quotes the starting point and blames the book for not being the finish.
+
+**The Exhibits.** The Code of Hammurabi (Louvre); Exodus 21:16, 21:20-27, 22:16-18; Deuteronomy 21:10-21, 22:25-29; Numbers 27:1-11; Sanhedrin 71a; John 8:1-11; Luke 10:38-42; Romans 16:1-7; 1 Corinthians 7:4; Galatians 3:28; Webb, *Slaves, Women and Homosexuals: Exploring the Hermeneutics of Cultural Analysis* (2001); Stark, *The Rise of Christianity*, ch. 5.
+
+**The Standing.** Ethics and law. Rests on the distinction between Israel's civil code and the church's ethic, the comparison with the Torah's neighbors, and the New Testament's demonstrated direction.
+
+### Count 102. The problem of evil: an all-good, all-powerful God would not permit the Holocaust, childhood cancer, or the tsunami.
+
+**The Prosecution.** Epicurus's trilemma: either God cannot prevent evil, or will not, or does not exist. The scale of suffering in the world, and its distribution on the innocent, is the strongest argument against a good God that has ever been made.
+
+**The Defense.** The prosecution is right that this is the strongest argument, and the defense will not shrink it. Two distinctions and one answer. The logical problem, that evil and a good omnipotent God cannot coexist, is generally conceded to have been answered: a world with genuinely free creatures is a world in which their choices can be evil, and God's making such a world rather than a world of puppets is compatible with his goodness (Plantinga's free-will defense, which the atheist philosopher J. L. Mackie, who had pressed the logical problem, acknowledged as showing the two are not contradictory). The evidential problem, that the amount and kind of suffering is more than a good God would permit, cannot be answered by proof, because no one knows what a good God would permit for ends we cannot see, and the honest defense says so. What the Bible offers instead of a solution is a set of things the objection has not weighed. The Bible raises the problem itself, louder than the skeptic: Job, Lamentations, Habakkuk, a third of the Psalms, and Jesus's own "why have you forsaken me" are protests against God from inside the faith, and the book that contains them is not a book that denies the problem. Natural evil (the tsunami, the cancer) is the price of a regular world, since freedom, agency, and love require a nature that runs by law and can therefore crush, and a God who suspended the laws each time they hurt would leave no world in which a choice had consequences. The Christian answer to the Holocaust is the one Elie Wiesel gave without meaning to, when a boy was hanged at Auschwitz and someone behind him asked "Where is God?" and he heard within himself, "Here he is, hanging on this gallows": the God of the cross did not explain suffering from above; he entered it, "a man of sorrows, acquainted with grief," and the Christian claim is that God's answer to evil is not a theory but a wound, and a resurrection that says the wound is not the end. Last, the objection borrows its force from a standard it cannot ground: "evil" is a judgment that things are not as they ought to be, and "ought" is a word that requires a measure beyond the way things are; the atheist who cries out at the Holocaust is right to, and the Christian asks what in a universe of matter and chance made the cry true. The problem of evil is an argument against God made in a vocabulary only God supplies.
+
+**The Exhibits.** Job 38-42 (Old Testament series, Volume Six); Lamentations 3; Psalm 88; Habakkuk 1; Mark 15:34; Isaiah 53:3; Romans 8:18-25; Plantinga, *God, Freedom, and Evil* (1974); Mackie, *The Miracle of Theism* (1982), p. 154 (the concession); Wiesel, *Night*, ch. 4; Lewis, *The Problem of Pain*; Stump, *Wandering in Darkness* (2010).
+
+**The Standing.** Philosophy and theodicy. The logical problem answered; the evidential problem acknowledged and met by the cross rather than by a proof; the moral standard the objection uses claimed for the defense.
+
+### Count 103. Hell is infinite punishment for finite sins; a God who built it is a monster.
+
+**The Prosecution.** Jesus introduced the threat of eternal fire (Count 47's "very first figure"); a finite life of unbelief earns endless torture; no crime merits it and no loving being inflicts it.
+
+**The Defense.** Say first what Christians actually hold, which is a range. All hold that judgment is real and that some are lost; the traditional view holds that the lost suffer consciously and forever; a substantial minority, ancient and modern (Irenaeus arguably, the Anglican John Stott, the evangelical Edward Fudge), holds that the lost are finally destroyed, "the second death," reading the fire as consuming rather than preserving; and the church's greatest teachers have insisted that the images (fire, worm, darkness) are images, since a fire and a darkness cannot both be literal. Then the justice. "Finite sins" misdescribes the thing judged: the New Testament's hell is not a sentence for a tally of acts but the end state of a will that has refused God, and the refusal is not finite, because the person who refuses goes on refusing; Lewis's line is that "the doors of hell are locked on the inside," and Jesus's picture of the rich man in Hades has him still ordering Lazarus about. The alternative to a hell so understood is a God who overrides the will of the creature who has said no, which is the coercion the New Atheist otherwise accuses him of, or a God who makes no difference to anything, in which case the Holocaust's architects and its victims end alike. Hell is the doctrine that choices are real and final, which is what makes freedom serious, and it is taught most insistently by the one who died to keep anyone from it, which is the datum the objection leaves out: the Gospels' Jesus speaks of Gehenna as a man speaks of the cliff he is trying to pull people back from, and then goes over it himself. What the doctrine does not say, though many Christians have, is who is there; the church has canonized thousands and named no one damned.
+
+**The Exhibits.** Mark 9:43-48; Matthew 25:31-46; Luke 16:19-31; Revelation 20:14-15; Stott in Edwards and Stott, *Evangelical Essentials* (1988); Fudge, *The Fire That Consumes* (1982); Lewis, *The Problem of Pain*, ch. 8, and *The Great Divorce*; Aquinas on the images, *Summa* Suppl. 97.
+
+**The Standing.** Doctrine. Rests on what the New Testament says hell is (a self-chosen and final refusal) and on the range of readings the church allows for the images.
+
+### Count 104. Salvation by belief is unjust to the billions who never heard.
+
+**The Prosecution.** Restated from Count 16.
+
+**The Defense.** Answered there: Scripture and the church teach judgment by the light one had, the cross reaching backward and outward, and "believe" in the New Testament's sense of trusting rather than of holding a proposition one was never offered. Add one thing: the objection assumes belief is a credential checked at a gate, and the New Testament's word, *pistis*, is trust, the disposition of the heart toward God that Hebrews 11 says Abel had, with no creed to recite.
+
+**The Standing.** See Count 16.
+
+### Count 105. Prayer studies show no effect; unanswered prayer disproves the promises.
+
+**The Prosecution.** The 2006 STEP study (1,800 cardiac patients, $2.4 million) found intercessory prayer made no difference; "ask and you shall receive" is falsified by every unanswered prayer.
+
+**The Defense.** The STEP study tested whether strangers praying for patients they did not know, on a schedule set by researchers, produced measurable surgical outcomes, which is to say it tested a vending machine, and the Bible's God is explicitly not one; Jesus's second temptation was the demand for a demonstration on cue, and his answer was "you shall not put the Lord your God to the test." The New Testament's own account of prayer is that its aim is alignment with God's will, not the command of it ("not my will but yours"), that its greatest exemplar prayed for the cup to pass and drank it, that Paul asked three times for his thorn to be removed and was told no, and that the promises of "ask and receive" are hedged in their own contexts by "in my name," "according to his will," and "if you abide in me." A God who could be summoned by a double-blind protocol would be a force, not a person, and the study's null result is what the doctrine predicts. Unanswered prayer is a real grief, and the Psalms are full of it; the Bible does not promise that every prayer is granted, it promises that every one is heard, and it records God's "no" to his own Son.
+
+**The Exhibits.** Benson et al., *American Heart Journal* 151 (2006); Matthew 4:7; Luke 22:42; 2 Corinthians 12:7-9; John 15:7; 1 John 5:14; Psalm 13, 22, 88.
+
+**The Standing.** Doctrine and method. Rests on what the New Testament claims prayer is, which the study did not test.
+
+### Count 106. Faith is belief without evidence; "extraordinary claims require extraordinary evidence."
+
+**The Prosecution.** Dawkins's definition: faith is "belief in spite of, even perhaps because of, the lack of evidence," and it is therefore a vice. The Christian believes what a rational person would not.
+
+**The Defense.** That is Dawkins's definition, not the Bible's, and the Bible's is the opposite. The New Testament word, *pistis*, means trust, and every use of it is trust on grounds: Luke's Gospel opens by saying he investigated everything carefully so that Theophilus might have certainty; Acts says the risen Jesus gave "many proofs"; John writes his Gospel "so that you may believe" and fills it with signs; Thomas is invited to touch; Peter tells the church to be ready to give a reason (*apologia*) for its hope; and Paul stakes the whole faith on a public event with living witnesses, "if Christ has not been raised, your faith is futile." The one text the objection likes, "blessed are those who have not seen and yet have believed," is spoken to a man who was allowed to see, about those who would believe on the testimony of men like him, which is how every court and every science works for facts one did not witness. Faith in the Bible is not belief without evidence; it is trust in a person on the evidence, held through what the evidence does not yet show, which is what trust is in a marriage too. "Extraordinary claims require extraordinary evidence" the defense accepts; this handbook is the evidence, and the objection is a reason to read it, not to refuse.
+
+**The Exhibits.** Luke 1:1-4; Acts 1:3, 17:11; John 20:24-31; 1 Peter 3:15; 1 Corinthians 15:14-17; Hebrews 11:1 (faith as "the assurance of things hoped for," which is confidence, not credulity); Dawkins, *The God Delusion*, ch. 5; the Thomas discussion at Count 178.
+
+**The Standing.** Definition. The objection defines the word and then convicts the Bible of a definition the Bible rejects.
+
+### Count 107. Miracles violate natural law; there is no evidence any has ever occurred.
+
+**The Prosecution.** Restated from Count 72.
+
+**The Defense.** Answered there: Hume's argument is circular by the verdict of a secular philosopher of science; miracles are not violations but additions of a cause; and the testimony is to be weighed, not dismissed by definition. The "no evidence" claim is false on the documented record (Keener's two volumes; Lourdes), and true only if every witness is disqualified in advance, which is the circle again.
+
+**The Standing.** See Count 72.
+
+### Count 108. Genesis contradicts cosmology, geology, and evolution: a six-day creation, a global flood, a 6,000-year-old earth.
+
+**The Prosecution.** The Bible says the earth was made in six days a few thousand years ago and drowned in a global flood; science says 13.8 billion years, 4.5 billion, and no flood. A book wrong about the world is wrong about God.
+
+**The Defense.** The reading the prosecution attacks is a modern one, and the church's oldest teachers did not hold it. Augustine, in the fifth century, taught that the "days" of Genesis 1 were not ordinary days, that God created all things at once in seed to unfold in time, and that Christians who argued science from Scripture badly made the faith ridiculous to those who knew better, a warning he wrote in a book called *The Literal Meaning of Genesis*. Origen before him read the days figuratively; Aquinas allowed either reading. Young-earth creationism as a movement dates from 1961 (Whitcomb and Morris's *The Genesis Flood*, drawing on a Seventh-day Adventist source), and it is the view of a minority of Christians; the Catholic Church accepts an old earth and the evolution of the body (Pius XII, 1950; John Paul II, 1996), the Orthodox and mainline Protestants likewise, and a large evangelical constituency (Francis Collins's BioLogos) holds evolutionary creation. Genesis 1 is a text about who made the world and what it is for, written in the form of a temple inauguration (John Walton's reading: seven days, God taking up residence, the sabbath rest) in the cosmology of its hearers, and its order (light, then structure, then life, then humanity, from formless to filled) is a theology of creation, not a chronology of it; the man who first proposed the expanding universe, Georges Lemaître, was a priest who warned against reading the Big Bang into Genesis for the same reason Augustine warned against reading anything else into it. The flood narrative's scope ("all the earth" in Hebrew usage meaning the known world, as when "all the earth" came to Joseph for grain) is debated among believers who take the text seriously, and the timeline in this series states its own decision: before Abraham, the text's internal count of years, not a calendar date. Galileo's line, quoting a cardinal, was that the Bible teaches how to go to heaven, not how the heavens go; the church that silenced him has spent four centuries agreeing with him, and the objection is aimed at the wing of Christianity that has not.
+
+**The Exhibits.** Augustine, *The Literal Meaning of Genesis* 1.19, 4.33; Origen, *On First Principles* 4.3; Aquinas, *Summa* I.74; Pius XII, *Humani Generis* (1950); John Paul II to the Pontifical Academy (1996); Walton, *The Lost World of Genesis One* (2009); Collins, *The Language of God* (2006); Lemaître's 1951 caution; Genesis 41:57; the Old Testament series, Volume One, and the biblical timeline's first decision.
+
+**The Standing.** Hermeneutics. Rests on the genre of Genesis 1 and the church's oldest readings; the objection convicts the Bible of a reading most of the church does not hold.
+
+### Count 109. Religion is a virus of the mind, an evolutionary byproduct (agency detection); Christianity survived by conquest and coercion, not truth.
+
+**The Prosecution.** Dawkins's "memes," Dennett's "belief in belief," the cognitive science of religion: humans are wired to see agents where there are none, and religions are the parasitic result. Their survival is natural selection, not evidence.
+
+**The Defense.** An account of why people believe something is not an account of whether it is true; the genetic fallacy again, and here it turns on the prosecution. If evolutionary wiring explains religious belief away, it explains all belief away, including the belief in evolutionary wiring, since the same brain produced both and was selected for survival, not truth; Alvin Plantinga's evolutionary argument against naturalism makes the point formally, and Darwin himself worried about it ("would anyone trust in the convictions of a monkey's mind?"). Agency detection explains why humans are disposed to think there is someone there; it does not tell us whether there is, any more than the eye's disposition to see light tells us whether light exists. As for survival by conquest: Count 57 showed the church grew for three centuries under persecution, without an army, faster than any movement in antiquity, and Count 59 conceded what it did with power when it got it. The Christian explanation of the wiring is simpler than the atheist's: creatures made to know their Maker would be disposed to look for him, and would find, as the objection concedes they do, that the disposition is universal.
+
+**The Exhibits.** Dawkins, *The God Delusion*, ch. 5; Dennett, *Breaking the Spell* (2006); Plantinga, *Where the Conflict Really Lies* (2011), ch. 10; Darwin, letter to William Graham (1881); Barrett, *Born Believers* (2012), a cognitive scientist's reply; Ecclesiastes 3:11 ("he has put eternity into man's heart").
+
+**The Standing.** Philosophy. The genetic fallacy, and a self-defeating one.
+
+### Count 110. Christianity's crimes (crusades, inquisition, witch trials, antisemitism, wars of religion) disprove its moral claims.
+
+**The Prosecution.** Restated from Count 59, with Hitchens's subtitle: religion poisons everything.
+
+**The Defense.** Answered at Count 59 as to logic, and conceded as to history; add the numbers, not to excuse but to test the thesis. The *Encyclopedia of Wars* (Phillips and Axelrod), cataloguing 1,763 wars, classifies about seven percent as religious in cause; the century that abandoned religion in the largest states, the twentieth, produced the largest death tolls in history under regimes explicitly atheist, which does not prove atheism kills but does refute the claim that religion is what does. And the objection's ledger has one column; the other (Count 100's series discussion; the hospitals, the universities, abolition, the Righteous Among the Nations) is the same religion's record, and the abolitionists were answering the slaveholders from the same book. "Poisons everything" is a slogan; the history is mixed, as the history of every human institution is, and the question before the court is not whether Christians have been good but whether their Lord rose.
+
+**The Exhibits.** Phillips and Axelrod, *Encyclopedia of Wars* (2004); Hitchens, *God Is Not Great* (2007); the balance-sheet discussion in the Old Testament series; Holland, *Dominion* (2019).
+
+**The Standing.** See Count 59.
+
+### Count 111. Morality does not require God; secular societies are more moral.
+
+**The Prosecution.** Atheists are as good as believers, often better; Scandinavia, the least religious region on earth, is the most humane; the Euthyphro dilemma shows divine command cannot ground morality anyway.
+
+**The Defense.** The defense agrees that atheists are as good as believers, and often better, and has never argued otherwise; the moral argument is not that unbelievers cannot be moral but that unbelief cannot explain why anyone ought to be. If the universe is matter and chance, then "cruelty is wrong" is a fact about human preferences or evolutionary programming, not about cruelty, and the New Atheist who denounces the Old Testament God in the name of justice is standing on a floor his own metaphysics has removed; Nietzsche saw this and said that the secular humanist was living on Christianity's credit without paying its bills. Scandinavia proves the point rather than refuting it: its humaneness is the residue of a thousand years of Lutheran Christianity, its equality and compassion for the weak being, as Tom Holland's *Dominion* shows at length, Christian values with the theology removed, and no one has yet shown they survive the removal for more than a few generations. The Euthyphro dilemma (is the good good because God commands it, or does God command it because it is good?) has a third horn the tradition took from the start: the good is neither arbitrary command nor a standard above God, but God's own nature, which his commands express, as a good man's commands express his character. The objection is right that morality is real; the defense asks what makes it so.
+
+**The Exhibits.** Plato, *Euthyphro* 10a; Aquinas, *Summa* I-II.94; Nietzsche, *Twilight of the Idols*, "Skirmishes" 5; Holland, *Dominion*; Lewis, *Mere Christianity*, book 1; Mackie, *Ethics: Inventing Right and Wrong* (1977), whose atheist author concedes that objective values would require a God.
+
+**The Standing.** Philosophy. Rests on the distinction between moral practice, which the defense grants to all, and moral grounding, which it claims only theism supplies.
+
+### Count 112. The universe shows no design; fine-tuning is the anthropic principle misread; the multiverse explains it.
+
+**The Prosecution.** Of course the constants permit life; if they did not, we would not be here to notice. And if there are infinitely many universes, one was bound to have ours.
+
+**The Defense.** The facts are not in dispute among physicists: the constants of nature and the initial conditions of the universe fall within ranges that permit life so narrow that the astronomer royal Martin Rees, no theist, wrote a book on six of them (*Just Six Numbers*); the cosmological constant is set to one part in ten to the hundred and twentieth; the carbon resonance that makes stars produce the element of life led Fred Hoyle, an atheist, to say that "a superintellect has monkeyed with physics"; and Roger Penrose's estimate of the initial entropy condition is one part in ten to the ten to the hundred and twenty-third. The anthropic principle explains why we observe a life-permitting universe if one exists; it does not explain why one exists, any more than a firing squad of a hundred marksmen all missing is explained by the survivor's observation that he would not be here otherwise. The multiverse is the only serious naturalistic answer, and it is a theory of unobservable universes, generated by a mechanism (inflation) whose own parameters require tuning, adopted, as its proponents sometimes admit, because the alternative is unwelcome. This handbook, by the rule of its own series, does not derive God from physics; the author's own cosmological work keeps the domains apart. What it records is that the design question is open in physics, that the atheist's answer is an infinity no one can see, and that the theist's answer at least has the merit of being what the evidence looked like to the men who found it.
+
+**The Exhibits.** Rees, *Just Six Numbers* (1999); Hoyle, "The Universe: Past and Present Reflections," *Annual Review of Astronomy and Astrophysics* (1982); Penrose, *The Emperor's New Mind* (1989), ch. 7; Leslie, *Universes* (1989), the firing-squad analogy; Collins, "The Teleological Argument," in the *Blackwell Companion to Natural Theology* (2009); the author's IAM papers, for the cosmological constant's derivation within physics alone.
+
+**The Standing.** Physics and philosophy. The fine-tuning is fact; the inference is open; the objection's alternative is unobservable.
+
+### Count 113. Consciousness is the brain; there is no soul to survive death.
+
+**The Prosecution.** Every mental state correlates with a brain state; damage the brain and the mind goes; the "soul" is a ghost science has evicted.
+
+**The Defense.** Correlation is not identity, and the leading philosophers of mind, including atheists, say the hard problem remains: no account of neurons firing explains why there is something it is like to be the creature whose neurons fire, and David Chalmers, who named the problem, is no theist. That the mind depends on the brain in this life is what the Christian expects, since the doctrine is not primarily of a soul escaping a body but of the resurrection of the body, the whole person raised; the Bible's hope is Easter, not Plato. And the objection is self-limiting in the way Count 109's was: if thoughts are nothing but brain events caused by prior brain events, then the thought "consciousness is the brain" is also nothing but a brain event, with no more claim to truth than a hiccup, and the reasoning that reached it has undercut itself. The defense does not need a Cartesian soul; it needs a mind that can know, and the objection needs one too.
+
+**The Exhibits.** Chalmers, *The Conscious Mind* (1996); Nagel, *Mind and Cosmos* (2012), an atheist's case that materialism cannot account for mind; 1 Corinthians 15:35-58; Lewis, *Miracles*, ch. 3 (the argument from reason); Wright, *Surprised by Hope* (2008).
+
+**The Standing.** Philosophy. The hard problem conceded by the field; the Christian claim is bodily resurrection, not a ghost.
+
+### Count 114. Why would God hide? If the evidence were real, everyone would believe.
+
+**The Prosecution.** A God who wanted to be known would make himself unmistakable; the existence of sincere unbelievers is itself evidence there is no one there. (Schellenberg's argument from divine hiddenness; Count 177 restates it for the resurrection.)
+
+**The Defense.** The hiddenness is partial, and the partiality is the point. God, on the Christian account, is knowable through the world, through conscience, through Israel's history, through a man who walked in Galilee, and through a community that has never stopped talking about him; what he has not done is compel. The reason is in the kind of relationship he is after: love cannot be coerced, and a God who made his existence as undeniable as the sun would produce compliance, not trust, which is why the Gospels show him refusing signs on demand and why even the risen Jesus appeared to those who could be witnesses and not to Tiberius (Count 7). Pascal's formulation stands: there is "enough light for those who desire only to see, and enough darkness for those of a contrary disposition," and the Bible says the same in Jesus's words, "if they do not hear Moses and the Prophets, neither will they be convinced if someone should rise from the dead." The existence of sincere unbelievers is what the Bible predicts of a world in which belief is not forced; it is also, the defense notes, a category the objection assumes and the Bible questions, since the Bible's claim is that the evidence is sufficient and the will is involved, which is a claim about the objector the court cannot try.
+
+**The Exhibits.** Romans 1:19-20; Acts 17:26-27; Luke 16:31; Matthew 12:38-39; Pascal, *Pensées* 149 (Lafuma); Schellenberg, *Divine Hiddenness and Human Reason* (1993); Moser, *The Elusive God* (2008), the reply.
+
+**The Standing.** Philosophy. Rests on the nature of the relationship God is said to seek.
+
+### Count 115. Christianity is one of thousands of religions; you are an atheist toward every god but one.
+
+**The Prosecution.** Stephen Roberts's line: "I contend we are both atheists. I just believe in one fewer god than you do. When you understand why you dismiss all the other possible gods, you will understand why I dismiss yours."
+
+**The Defense.** The Christian dismisses Zeus for reasons: he is a contingent being inside the world, born, quarrelsome, immoral, and never claimed by anyone to be the ground of all existence; the God of Israel is claimed to be the necessary being who made the world, which is a different kind of claim, and the reasons that dispose of Zeus do not touch it. Nor are the religions interchangeable: they make different and incompatible claims (a personal Creator or none; one life or many; a Messiah who was crucified or one who was not), and the differences can be examined, which is what this handbook is doing; the objection assumes that since not all can be true, none can be, which does not follow, since the same is true of scientific theories. The Christian claim is exclusive about the road ("no one comes to the Father except through me") and inclusive about the travelers (Count 16), and it invites exactly the comparison the objection thinks it fears: the historical case for the resurrection has no parallel in any other religion's founding claim, and the founders of the others did not stake their religions on a public event with named witnesses.
+
+**The Exhibits.** Acts 17:22-31; John 14:6; Lewis, "Christian Apologetics," in *God in the Dock*; the comparative table of founders' claims (Part Twelve).
+
+**The Standing.** Logic. The "one fewer god" line trades on treating all god-claims as the same kind, which they are not.
+
+### Count 116. Pascal's wager is a fraud; Christianity's own history shows belief chosen for fear.
+
+**The Prosecution.** Bet on God because the payoff is infinite? A God who rewarded such calculation would be contemptible, and a belief adopted for fear of hell is not belief.
+
+**The Defense.** The wager is one fragment of the *Pensées* and not Pascal's argument for God's existence, which he thought could not be had by reason alone; it is addressed to the indifferent, to show that indifference is itself a wager and that the question deserves attention, and Pascal's next sentences send the reader not to calculate but to "take holy water, have masses said," that is, to live as if and see what he finds, which is closer to the New Testament's "come and see" than to a bet. The defense agrees that belief for fear is not belief; so does the New Testament ("perfect love casts out fear," 1 John 4:18), and so, the reader will notice, does this handbook, which has offered evidence rather than threats for a hundred and sixteen counts. The objection has won an argument against a caricature.
+
+**The Exhibits.** Pascal, *Pensées* 418 (Lafuma); 1 John 4:18; John 1:46.
+
+**The Standing.** Philosophy. Concedes the caricature and denies it is Pascal's.
+
+### Count 117. The New Testament's authors were credulous ancients who believed in demons; their testimony is worthless on the supernatural.
+
+**The Prosecution.** People who thought epilepsy was possession and that the sky was a dome are not witnesses a modern court would credit on a resurrection.
+
+**The Defense.** The ancient world was not credulous in the way the objection needs. The Sadducees denied resurrection and angels; the Epicureans denied providence; Lucian mocked wonder-workers for a living; Josephus dismissed the signs of the false prophets he described; and the Gospels themselves record the demand for evidence (Thomas), the careful investigation (Luke), the doubters among the witnesses (Matthew 28:17), and the disciples' initial refusal to believe the women (Luke 24:11), which is not the profile of people who believed anything. On demons: Matthew 4:24 lists "those afflicted with various diseases and pains, those oppressed by demons, epileptics, and paralytics" as separate categories, so the Gospels distinguished possession from illness, whatever one thinks of the first; and a witness's theory of disease has no bearing on whether he could tell a live man from a dead one, which is the testimony the case needs. The objection is what C. S. Lewis called chronological snobbery, the assumption that the past is discredited by being past; the ancients who reported the empty tomb were reporting a fact about a stone and a body, which requires no cosmology at all.
+
+**The Exhibits.** Acts 23:8; Josephus, *Antiquities* 20.97-99, 167-172; Lucian, *Alexander the False Prophet*; Matthew 4:24, 28:17; Luke 24:11; Lewis, *Surprised by Joy*, ch. 13 (chronological snobbery).
+
+**The Standing.** History. The premise (a credulous age) is false; the inference (testimony to a physical fact discredited by a theory of disease) does not follow.
+
+### The verdict on Part Six
+
+The New Atheist witness has moved the trial from the tomb to the courtroom's ceiling, and the court has followed. Of the eighteen counts, three restate earlier ones and are referred back; the rest are arguments, not evidence, and are answered as arguments: the Old Testament God read whole rather than in one column; the Torah's law beside its neighbors and the New Testament's direction; the problem of evil acknowledged as the strongest thing the prosecution has and met by the cross rather than a proof, with its own moral standard claimed for the defense; hell as the seriousness of choice; faith as trust on grounds, in the Bible's own definition against Dawkins's; Genesis read as its oldest readers read it; the genetic fallacy named twice, once for religion's origins and once for the mind; fine-tuning left open, with the multiverse noted as the atheist's article of faith; hiddenness as the condition of uncoerced love; the wager as a caricature; the credulous ancients as a myth about the past. None of it decides the case, which is what the witness was called to obscure. The tomb is still empty, and the philosopher, who is next, will have to address it.
+
+---
+
+*Part Six complete. Next: Part Seven, the Muslim witness: the corruption of the Bible, the crucifixion denied, the ten verses, the Paraclete, and Paul.*
+
+---
+
+## PART SEVEN: THE MUSLIM WITNESS
+
+*Witness: the Qur'an, and the apologists who argue from it: Ahmed Deedat, Zakir Naik, Shabir Ally, and the newer generation of debaters. This is the live debate of the present decade, and the handbook treats the witness with the respect owed to a billion and a half people who honor Jesus as a prophet, born of a virgin, sinless, and coming again. The disagreement is real and specific: whether the Bible has been corrupted, whether Jesus died, and whether he is more than a prophet. Several counts restate objections already answered; those are referred back, and the new ones taken in full.*
+
+### Count 118. The Bible has been corrupted (tahrif); the original Injil given to Jesus is lost, and the four Gospels are men's writings.
+
+**The Prosecution.** God gave Jesus a book, the Injil; the church lost or altered it; what remains is four biographies by unknown men, edited over centuries. The Qur'an is God's final and preserved word.
+
+**The Defense.** The Qur'an is the defense's first exhibit. It affirms the Torah and the Gospel as God's revelation in Muhammad's own day, in the present tense: "let the people of the Gospel judge by what God has revealed in it" (5:47); "you have nothing to stand on until you uphold the Torah and the Gospel" (5:68); "if you are in doubt about what we have sent down to you, ask those who have been reading the Scripture before you" (10:94); and it states that "none can change the words of God" (6:115, 10:64). The Bible Muhammad's contemporaries were reading in the seventh century is the Bible we have: Codex Sinaiticus and Codex Vaticanus, complete New Testaments from the fourth century, sit in London and the Vatican, three hundred years older than the Qur'an, and their text is the text in every modern Bible to within the variants of Count 35. So the corruption thesis requires that the Gospel was corrupted before the Qur'an told Christians to judge by it, which is incoherent, or after, which the manuscripts exclude. The classical Muslim commentators knew this: al-Tabari, al-Razi, and Ibn Khaldun held that the *tahrif* the Qur'an speaks of was corruption of meaning (*tahrif al-ma'na*), the Jews and Christians misinterpreting their books, not corruption of the text (*tahrif al-nass*), a thesis first argued at length by Ibn Hazm in the eleventh century. As for the "original Injil": there is no manuscript, citation, or ancient memory of any book by that name apart from the four Gospels; *injil* is the Arabic form of the Greek *euangelion*, "good news," which was the name of the message before it was the name of the books, and the books are the earliest record of it that exists.
+
+**The Exhibits.** Qur'an 5:47, 5:68, 6:115, 10:64, 10:94; Codex Sinaiticus (British Library, online) and Vaticanus (fourth century); al-Tabari and al-Razi on 2:75 and 5:13; Ibn Hazm, *Kitab al-Fisal*; Accad, "The Gospels in the Muslim Discourse of the Ninth to the Fourteenth Centuries," *Islam and Christian-Muslim Relations* 14 (2003); Count 35.
+
+**The Weight.** *Dating:* complete manuscripts three centuries before the Qur'an match the modern text. *Hostile corroboration:* the Qur'an's own affirmation of the Gospel's authority in the seventh century. *Consensus:* the classical exegetes' reading of *tahrif* as interpretive. Standard met: beyond reasonable doubt that the Gospel of Muhammad's day is the Gospel of ours.
+
+### Count 119. Jesus never said "I am God" or "worship me."
+
+**The Prosecution.** Restated from Count 67, in the form the debates use: produce the verse.
+
+**The Defense.** Count 67 gave the pattern: a first-century Jew claiming deity would not have said "I am God," which would have meant "I am the Father," and Jesus instead did what only God does and let his hearers draw the inference, which they did, with stones. Add the specific things the debate asks for. He accepted worship, repeatedly, without correction: the disciples in the boat "worshiped him, saying, 'Truly you are the Son of God'" (Matthew 14:33); the women at the tomb "took hold of his feet and worshiped him" (28:9); the Eleven on the mountain (28:17); the healed blind man (John 9:38); Thomas's "my Lord and my God" (20:28), answered with a blessing. Compare the two other scenes in the New Testament where a man is worshiped: Peter lifts Cornelius up ("I too am a man," Acts 10:26), and the angel in Revelation stops John twice ("worship God," 19:10, 22:9). The apostles and angels refused what Jesus received. He said "before Abraham was, I am," and the crowd picked up stones (John 8:58-59); he said "I and the Father are one," and they picked them up again, giving the reason in their own words: "you, being a man, make yourself God" (10:30-33). The Muslim debater who asks for the verse is asking for a sentence the Gospels give in acts, in titles, in worship received, and in a blasphemy charge that ended in a cross.
+
+**The Exhibits.** Matthew 14:33, 28:9, 28:17; John 8:58-59, 9:38, 10:30-33, 20:28; Acts 10:25-26; Revelation 19:10, 22:8-9; Count 67.
+
+**The Weight.** See Count 67; add the worship received and refused.
+
+### Count 120. Jesus prayed, prostrated, fasted, was circumcised, ate kosher, and said "not my will but yours": he lived as a Muslim.
+
+**The Prosecution.** Every act of Jesus's piety is Islamic; "Muslim" means one who submits to God, and he did; Christianity is Paul's invention over a Muslim prophet.
+
+**The Defense.** Every act the prosecution lists is Jewish, and Jesus performed it as a Jew, six centuries before Islam: prostration in prayer is Abraham's and Moses's (Genesis 17:3; Numbers 16:22), circumcision is the sign of Abraham's covenant, fasting and the food laws are Torah, and "not my will but yours" is the Psalms. If "Muslim" means only "one who submits to God," then Abraham, Moses, and Jesus were Muslims in that sense, which the Qur'an says and Christians would not dispute, since the Christian claim is that Jesus submitted perfectly. But the word has a content in the debate, and that content is what Jesus did not do: he did not deny he was the Son of God when asked on oath; he forgave sins in his own name; he accepted worship; he claimed Daniel's Son of Man; he told his disciples that the cup was "my blood of the covenant, poured out for many"; and he said "no one comes to the Father except through me." A Muslim may do none of those things. The prosecution has described the piety of a Jew and named it Islam; the defense agrees about the piety and notes what the Jew said while practicing it.
+
+**The Exhibits.** Genesis 17:3; Numbers 16:22; Luke 2:21; Mark 14:22-24, 14:61-62; John 14:6; Qur'an 3:67 (Abraham as *muslim*).
+
+**The Standing.** Definition. Concedes the practices as Jewish and the submission as perfect; denies that the term as used excludes the claims.
+
+### Count 121. "Son of God" is metaphorical, used of Adam, David, Israel, and peacemakers.
+
+**The Prosecution.** Restated from Count 69, with the Qur'an's own objection: "how could he have a son when he has no consort?" (6:101).
+
+**The Defense.** Count 69 gave the Gospel usage, unique and definite, that exceeds the royal metaphor. The Qur'anic objection answers a doctrine no church has taught: Christians have never held that God begot a son by a consort, and the creed's "begotten, not made" was chosen to say the reverse, that the Son's relation to the Father is eternal and not biological. The Qur'an's picture of Christian belief on this point, like its picture of the Trinity (Count 136), reflects what it encountered in Arabia; it does not describe what the church confesses.
+
+**The Exhibits.** Qur'an 6:101, 112:3; the Nicene Creed; Count 69.
+
+**The Standing.** See Count 69; the Qur'anic objection targets a view no Christian holds.
+
+### Count 122. "The Father is greater than I," "why do you call me good," "my God and your God," and the rest.
+
+**The Prosecution.** Restated from Count 68.
+
+**The Defense.** Answered there and at Count 137 below, verse by verse.
+
+### Count 123. The Trinity is a fourth-century invention; the word is not in the Bible; 1 John 5:7 was forged.
+
+**The Prosecution.** No apostle taught three persons in one God; Nicaea invented it; the only verse that states it is a known interpolation.
+
+**The Defense.** The Comma Johanneum is conceded (Count 36); the doctrine was defined at Nicaea without it, from the texts it summarizes: "baptizing them in the name of the Father and of the Son and of the Holy Spirit" (Matthew 28:19, one name, three persons); "the grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit" (2 Corinthians 13:14); the baptism of Jesus, where the Son is in the water, the Spirit descends, and the Father speaks; John 1's Word who was with God and was God; and the whole pattern of the New Testament's worship, in which Jesus is called Lord with YHWH's own texts (Count 67). The word "Trinity" was coined by Tertullian around 200; the word "tawhid" does not appear in the Qur'an either, and no Muslim thinks the doctrine of God's oneness therefore an invention. Nicaea's Christ is Ignatius's "our God Jesus Christ" (c. 110) and Pliny's Christians singing "to Christ as to a god" (112), two centuries before the council; what the council added was a vocabulary for what the church already prayed.
+
+**The Exhibits.** Matthew 28:19; 2 Corinthians 13:14; Mark 1:9-11; John 1:1-18; Tertullian, *Against Praxeas* 2; Ignatius, *Ephesians* 18:2; Pliny, *Letters* 10.96; Counts 36, 50, 67.
+
+**The Standing.** Doctrine and history. The word is late; the pattern is apostolic.
+
+### Count 124. Jesus was not crucified: "it was made to appear so to them" (Qur'an 4:157).
+
+**The Prosecution.** Restated from Count 87.
+
+**The Defense.** Answered there: a single seventh-century verse against unanimous first-century testimony, with the Muslim exegetes themselves divided on the verse's meaning and the Qur'an's own 19:33 and 3:55 having Jesus die.
+
+### Count 125. Even if crucified, he did not die: a few hours on the cross, Pilate marveled, the legs unbroken, medicinal spices, a body afterward that ate fish and bore wounds and said "a spirit has not flesh and bones": he survived.
+
+**The Prosecution.** Deedat's *Crucifixion or Cruci-fiction?*, the most widely distributed Muslim tract on the subject.
+
+**The Defense.** Count 85 answered the survival theory on the medicine and on Strauss; take Deedat's particular points, since they circulate. Pilate marveled that death had come in six hours, and the centurion's report ended the marveling (Mark 15:44-45); the legs were left unbroken because the executioners had established death, and the spear was their confirmation. The spices were burial spices, myrrh and aloes, seventy-five pounds of them, wrapped in the linen with the body, which is how the Jews buried the dead and not how anyone treats a patient. "Why seek the living among the dead" is the angels' question to women who came expecting a corpse, not a hint that one was never there. The body that ate fish and showed its wounds is the physical resurrection the disciples proclaimed, which is what the Christian claim always was; "a spirit does not have flesh and bones as you see that I have" is Jesus's proof that he was not a ghost, not a hint that he had never died, and the same passage has him "risen" and "the Christ should suffer and on the third day rise." Deedat's argument establishes that the disciples saw a physical body; the defense agrees, and the dispute is only whether it was a body that had escaped death or one that had defeated it, and the flogging, the nails, the spear, the burial, the sealed tomb, and the three days settle which. Nor does the Qur'an help him: 4:157 says he was not crucified at all, and the survival theory says he was; the two Muslim positions cancel each other.
+
+**The Exhibits.** Mark 15:42-47; John 19:31-42; Luke 24:36-46; *JAMA* 255 (1986); Count 85; Deedat, *Crucifixion or Cruci-fiction?* (1984).
+
+**The Weight.** See Count 85. Standard met: beyond reasonable doubt that Jesus died.
+
+### Count 126. Jesus's own sign was Jonah: Jonah was alive in the fish, so Jesus was alive in the tomb.
+
+**The Prosecution.** "As Jonah was three days and three nights in the belly of the fish": Jonah went in alive and came out alive; the sign, taken seriously, is survival. (Deedat.)
+
+**The Defense.** The point of comparison in Jesus's own sentence is the three days and the place, "in the heart of the earth," not the condition, and Jesus states the condition himself, plainly and repeatedly, in the same Gospels: "the Son of Man must suffer many things... and be killed, and after three days rise again" (Mark 8:31; also 9:31, 10:34; Matthew 16:21, 17:23, 20:19). A reading of the Jonah sign that has Jesus alive in the tomb requires him to have been wrong about his own death six times. Jonah himself, moreover, prays "out of the belly of Sheol" (2:2), the realm of the dead, and describes his descent as death in every image the poem has ("the waters closed in over me... I went down to the land whose bars closed upon me forever"); the book presents him as a man as good as dead and returned, which is why the sign was apt, and why the Ninevites, who did not see the fish, believed a preacher who had been in the grave. Count 84 gives the "three days" idiom.
+
+**The Exhibits.** Matthew 12:38-41; Jonah 2:1-10; Mark 8:31, 9:31, 10:33-34; Count 84.
+
+**The Weight.** *Text:* Jesus's own predictions of death; Jonah's own prayer from Sheol. Standard: the count fails on the passages it cites.
+
+### Count 127. The Paraclete of John 14-16 is Muhammad; Jesus foretold "Ahmad" (Qur'an 61:6).
+
+**The Prosecution.** "I will ask the Father, and he will give you another Helper" (John 14:16): another like Jesus, a human prophet, who will "teach you all things" and "declare to you the things that are to come," which Muhammad did; the Greek *paraklētos* is a corruption of *periklytos*, "the praised one," which is Ahmad.
+
+**The Defense.** Read the passages, since they identify the Helper in every clause. He is "the Spirit of truth, whom the world cannot receive, because it neither sees him nor knows him; you know him, for he dwells with you and will be in you" (14:17), an invisible indwelling presence, not a man of Arabia; he is "the Holy Spirit, whom the Father will send in my name" (14:26); he "will bring to your remembrance all that I have said to you," to the disciples then present; he "will glorify me" (16:14) and "bear witness about me" (15:26); and Jesus says "if I do not go away, the Helper will not come to you, but if I go, I will send him to you" (16:7), to the men in the room, who received him fifty days later at Pentecost, as John's own Gospel foreshadows ("he breathed on them and said, 'Receive the Holy Spirit,'" 20:22) and Acts 2 narrates. Muhammad was born in 570, could not have been sent "to you" the disciples, was seen by the world, did not dwell within anyone, and did not glorify Jesus as the Son. The word *periklytos* appears in no Greek manuscript of John, of which there are hundreds, some from the second century; the substitution was proposed because the argument requires it. "Another Helper" (*allos paraklētos*) means another of the same kind as Jesus, who has been the disciples' helper, and 1 John 2:1 uses the same word of Jesus himself; the kind is divine.
+
+**The Exhibits.** John 14:15-26, 15:26-27, 16:7-15, 20:22; Acts 2:1-4; 1 John 2:1; Qur'an 61:6; the manuscript evidence for *paraklētos* (P66, P75, Sinaiticus, Vaticanus).
+
+**The Weight.** *Text:* the Helper is identified as the Spirit, invisible, indwelling, sent to the disciples. *Manuscripts:* no *periklytos* anywhere. Standard met: beyond reasonable doubt that the Paraclete is not a seventh-century man.
+
+### Count 128. Deuteronomy 18:18's prophet "from among their brothers" is Muhammad, an Ishmaelite; Jesus was not "like Moses."
+
+**The Prosecution.** God promised Moses "a prophet like you from among their brothers"; the Ishmaelites are Israel's brothers; Muhammad, like Moses, had a father and mother, married, led a nation, brought a law, and died naturally; Jesus did none of these. (Deedat's "What the Bible Says About Muhammad.")
+
+**The Defense.** "From among their brothers" in Deuteronomy means fellow Israelites, and Deuteronomy says so in the surrounding chapters: the king must be "one from among your brothers... you may not put a foreigner over you" (17:15); the Levites have no inheritance "among their brothers," the other tribes (18:2); and the verse itself says "from among you, from your brothers" (18:15), addressed to Israel. The Ishmaelites were never "among" Israel. The prophet like Moses is defined by Moses's office, not his biography: an Israelite, a mediator between God and the people, a worker of signs, a maker of covenant, one who spoke with God face to face, and Deuteronomy's own last word is that "there has not arisen a prophet since in Israel like Moses, whom the LORD knew face to face, none like him for all the signs and the wonders" (34:10-11), which sets the test the Qur'an itself says Muhammad did not meet, since it records that he brought no sign but the Qur'an ("why has no sign been sent down to him?" 29:50, and the answer that the Book is enough). Jesus was an Israelite, mediated a new covenant in his blood, worked the signs Moses worked (the bread in the wilderness, the sea, the leper), spoke as one who had seen the Father, and was received by the first Christians, all Jews, as this prophet in so many words: "Moses said, 'The Lord God will raise up for you a prophet like me from your brothers'" (Acts 3:22, Peter; 7:37, Stephen). Deedat's list of resemblances (a father, a marriage, a natural death) would make every Israelite prophet, and most Israelites, "like Moses"; the text's own criteria are the office and the signs.
+
+**The Exhibits.** Deuteronomy 17:15, 18:2, 18:15-22, 34:10-12; Acts 3:22-26, 7:37; John 6:14; Hebrews 3:1-6; Qur'an 29:50-51, 17:59.
+
+**The Weight.** *Text:* "brothers" defined by Deuteronomy as Israelites; the criteria as office and signs. *Early attestation:* the apostles' application to Jesus. Standard met: clear and convincing that the passage does not describe a non-Israelite.
+
+### Count 129. Song of Songs 5:16's "altogether lovely" is machmadim, i.e., Muhammad; Isaiah 42's servant is from Kedar; Isaiah 29:12's "I cannot read" is Muhammad's first revelation.
+
+**The Prosecution.** The Hebrew Bible names Muhammad, in the Song, in Isaiah's Arabian servant, and in the unlettered man handed a book.
+
+**The Defense.** *Machmadim* is the plural of *machmad*, "desire, delight," from the root *ch-m-d*, to desire; it is a common Hebrew word (Isaiah 64:11, "all our pleasant things are laid waste," is the same word; Ezekiel 24:16 uses it of Ezekiel's wife) and in Song 5:16 it is spoken by the bride of her lover's mouth, in a poem describing his hair, eyes, cheeks, and belly; reading a proper name into it is like finding "Peter" in a "rock." Isaiah 42's servant is named in its own text and applied by Matthew to Jesus (12:18-21); Kedar appears at 42:11 among the peoples who will rejoice at his coming, as recipients of the servant's light, not its source, in a list that also includes Sela and the coastlands, which no one takes as Muhammad's birthplace. Isaiah 29:11-12 describes a sealed book handed to a literate man, who says "it is sealed," and to an illiterate one, who says "I cannot read," as a picture of Jerusalem's incomprehension of God's word, the point being that neither could read it; it is a judgment oracle, not a prophecy of a reader, and the verse before it says so ("the LORD has poured out upon you a spirit of deep sleep"). The three passages are the Arabian tradition's search of the Bible for the name the Qur'an said was there (7:157, 61:6), conducted in the Middle Ages, and Christian Arabs of the same centuries answered each from the Hebrew.
+
+**The Exhibits.** Song of Songs 5:10-16; Isaiah 64:11; Ezekiel 24:16; Isaiah 42:1-12; Matthew 12:18-21; Isaiah 29:9-14; Qur'an 7:157, 61:6.
+
+**The Weight.** *Text:* a common noun, a list of recipients, and a judgment oracle. Standard: dismissed on the Hebrew.
+
+### Count 130. The Gospel of Barnabas, which names Muhammad and denies the crucifixion, is the true Gospel suppressed by the church.
+
+**The Prosecution.** A gospel by an apostle, in which Jesus announces Muhammad and Judas is crucified in his place, exists and was hidden.
+
+**The Defense.** The Gospel of Barnabas is a forgery of the late sixteenth century, and the forger left his fingerprints. It survives in one Italian manuscript (c. 1590) and one Spanish; no ancient author quotes it, no manuscript or fragment predates the Renaissance, and the "Gospel of Barnabas" mentioned in a sixth-century list of forbidden books is a different, lost text. Its anachronisms are decisive: it has a jubilee every hundred years, which was Pope Boniface VIII's innovation of 1300; it puts Dante's phrases in Jesus's mouth and shares Dante's cosmology; it has wine stored in wooden casks (the ancient world used skins and jars), Spanish coins, Italian vine-dressing, and soldiers "rolled out of the temple like barrels"; and it makes Nazareth a port on the Sea of Galilee, which is twenty miles inland. Worst for the prosecution, it contradicts the Qur'an: it has Jesus deny that he is the Messiah and assign the title to Muhammad, whereas the Qur'an calls Jesus *al-Masih* eleven times; and it has Judas crucified in Jesus's place, a story the Qur'an does not tell. Muslim scholars of standing (Abbas Mahmud al-Aqqad, and more recently Suleiman Mourad) have said the book is a forgery; the apologists who still cite it are citing a Morisco's revenge on Spain.
+
+**The Exhibits.** The Vienna Italian MS (Cod. 2662); Ragg and Ragg, *The Gospel of Barnabas* (1907), introduction; Sox, *The Gospel of Barnabas* (1984); Qur'an 3:45, 4:171; the Gelasian Decree's list; Slomp, "The Gospel in Dispute," *Islamochristiana* 4 (1978).
+
+**The Weight.** *Dating:* sixteenth century by manuscript and content. *Coherence:* contradicts the Qur'an. Standard: dismissed.
+
+### Count 131. Paul corrupted Jesus's message; the Jerusalem church under James kept the law and rejected Paul (the Ebionites).
+
+**The Prosecution.** Restated from Count 75, with the Muslim preference for James and Barnabas over Paul.
+
+**The Defense.** Answered at Count 75: Paul's creed was Jerusalem's, James presided over the council that approved his mission, Peter calls Paul's letters Scripture (2 Peter 3:15-16), and the Ebionites who rejected Paul were a second-century sect who also rejected the virgin birth, which the Qur'an affirms. Barnabas, whom the prosecution honors, was Paul's companion on the first mission and his sponsor in Jerusalem (Acts 9:27, 11:25-26, 13-14).
+
+### Count 132. The Bible contains contradictions and immoral passages; the Qur'an is preserved letter for letter.
+
+**The Prosecution.** Lot's daughters, the Levite's concubine, four resurrection mornings, two Judases: a corrupted book; against it, a Qur'an unchanged since Muhammad.
+
+**The Defense.** The contradictions were sorted at Count 38 and the moral passages at Counts 100 and 101; the Bible records the crimes of Lot and the Levite as crimes, which is what a history does. The comparison of preservation deserves an honest answer in both directions, because the two books have different editorial histories, not a corrupt one and a perfect one. The New Testament's variants are known because every manuscript was kept and compared, and the church printed the results. The Qur'an's history, on the Islamic sources' own account, includes the caliph Uthman's standardization, in which he had a single codex prepared and ordered the variant codices of the companions burned (Sahih al-Bukhari 6.61.510); the companions' codices (Ibn Mas'ud's, Ubayy's) are recorded in the Islamic literature as having differed; the Sana'a palimpsest, discovered in 1972, preserves under its upper text an earlier Qur'anic text with variant readings; and the canonical *qira'at*, the ten accepted recitations, differ from one another in wording at points, so that the Hafs and Warsh editions printed today are not identical. None of this is an argument that the Qur'an is corrupt; it is an argument that "preserved letter for letter" is a doctrine, held by faith, about a text whose history is as human as the Bible's, and that the difference between the two is that one community kept its variants and the other burned them.
+
+**The Exhibits.** Sahih al-Bukhari 6.61.510; Ibn Abi Dawud, *Kitab al-Masahif*; the Sana'a palimpsest (Sadeghi and Goudarzi, *Der Islam* 87, 2012); the Hafs and Warsh texts compared (Brockett, in Rippin, ed., *Approaches to the History of the Interpretation of the Qur'an*, 1988); Counts 35, 38, 100, 101.
+
+**The Standing.** Textual history. Both books have one; the comparison is between a documented history and a doctrine of one.
+
+### Count 133. Vicarious atonement is unjust: "no soul shall bear another's burden" (Qur'an 6:164); God forgives without a sacrifice.
+
+**The Prosecution.** The cross is a moral absurdity: an innocent punished for the guilty, and a God who could simply forgive choosing blood instead.
+
+**The Defense.** Count 2 gave the shape of the answer: forgiveness always costs the forgiver, and the cross is God absorbing the cost himself, "God was in Christ reconciling the world to himself," not God punishing a third party. Two things from the Muslim witness's own book. The Qur'an tells the story of Abraham's son, and its words are "we ransomed him with a great sacrifice" (37:107), a substitute dying in the place of the beloved son, which is the principle the objection calls unjust and which every Muslim family re-enacts at Eid al-Adha. And the Qur'an affirms the Torah as God's revelation, and the Torah's whole worship was a system of substitutionary sacrifice, "the life of the flesh is in the blood... it is the blood that makes atonement" (Leviticus 17:11), established by God at Sinai; if vicarious atonement is unjust in principle, the Torah the Qur'an endorses was unjust in principle. The Christian claim goes one step past the Torah, not one step outside it: the substitute is not an animal or an unwilling man but God himself, in the Son, laying down a life no one took from him ("no one takes it from me, but I lay it down of my own accord," John 10:18), which removes the injustice the objection fears, since the one who pays is the one who was owed. "No soul bears another's burden" is true of creatures; it says nothing about what the Creator may choose to bear.
+
+**The Exhibits.** Qur'an 6:164, 37:107; Leviticus 17:11; 2 Corinthians 5:19-21; John 10:17-18; Isaiah 53:4-6; Count 2.
+
+**The Standing.** Doctrine. Rests on who the substitute is; the objection's own tradition affirms substitution twice.
+
+### Count 134. Jesus was created like Adam (Qur'an 3:59); a virgin birth does not make him divine.
+
+**The Prosecution.** "The likeness of Jesus with God is as the likeness of Adam; he created him from dust and said to him, Be, and he was." Adam had neither father nor mother; Jesus's fatherlessness is no more than Adam's.
+
+**The Defense.** The defense agrees that the virgin birth alone does not establish divinity, and has not argued that it does; the case for who Jesus is rests on Counts 67 to 69 and on the resurrection, not on the manner of his birth. What the defense notes is the sum of what the Qur'an itself says of him and of no one else: born of a virgin by God's Spirit (19:17-21, 21:91), "a Word from God" and "a Spirit from him" (4:171), *al-Masih*, the Messiah, sinless ("a pure boy," 19:19, while every other prophet in the Qur'an, Muhammad included, is told to seek forgiveness), a worker of miracles including raising the dead (3:49, 5:110), taken alive to God (3:55, 4:158), and returning at the end of the age. No other figure in the Qur'an has any of those; Jesus has all of them. The Qur'an's own portrait is of a man unlike any prophet, and the Christian claim is that the portrait was drawn from life.
+
+**The Exhibits.** Qur'an 3:45-59, 4:171, 5:110, 19:16-35, 21:91, 43:61 (and the hadith on the return of Jesus); the contrast with 40:55, 47:19, 48:2 (Muhammad and forgiveness).
+
+**The Standing.** Doctrine. Concedes the point about the birth; notes the witness's own testimony to the man.
+
+### Count 135. "Eli, Eli" was heard as "Elijah": the bystanders misheard, so the accounts are confused.
+
+**The Prosecution.** Mark 15:35: "some of the bystanders hearing it said, 'Behold, he is calling Elijah.'" The Gospels cannot even agree on what he said.
+
+**The Defense.** The Gospels agree on what he said, record it in Aramaic, translate it, and then report that some bystanders misheard it, which is the opposite of confusion: it is a transcript with a note. "Eli" (my God) and "Eliyah" (Elijah) are near-homophones, and the mishearing is exactly what a Passover crowd of pilgrims, some of them not Aramaic speakers, would produce; that Mark and Matthew preserved the error rather than tidy it is the criterion of embarrassment in miniature. The cry itself is Psalm 22:1, the psalm whose later verses describe the scene at the cross, and Count 68 gives its sense.
+
+**The Exhibits.** Mark 15:34-36; Matthew 27:46-49; Psalm 22.
+
+**The Weight.** *Text:* a recorded mishearing, not a contradiction. Standard: dismissed.
+
+### Count 136. Christians worship Mary and the saints; the Qur'an's Trinity of God, Jesus, and Mary reflects what Arabian Christians taught.
+
+**The Prosecution.** "Did you say to people, Take me and my mother as two gods besides God?" (5:116): the Trinity Muhammad encountered was Father, Son, and Mother, and Catholics and Orthodox still pray to her.
+
+**The Defense.** No church in history has taught that Mary is a person of the Trinity, and the creeds name Father, Son, and Holy Spirit; the Qur'an's picture most likely reflects a fringe sect the church father Epiphanius describes in fourth-century Arabia, the Collyridians, who offered cakes to Mary, and whom the church condemned as heretics. The veneration of Mary and the saints in the Catholic and Orthodox traditions is by their own definition not worship (*latria*, which is God's alone) but honor (*dulia*) and the asking of prayers, as one asks a living friend to pray; whether that distinction is well kept in practice is a question Protestants have pressed for five centuries, and Protestants venerate no one. The point for the court is that the Qur'an's 5:116 is aimed at a doctrine the church never held, which is evidence about what its author encountered in Arabia, and not about what the apostles taught.
+
+**The Exhibits.** Qur'an 5:116, 4:171; Epiphanius, *Panarion* 79 (the Collyridians); the Nicene Creed; Aquinas, *Summa* II-II.103 (dulia and latria); the Second Council of Nicaea (787) on veneration.
+
+**The Standing.** History and doctrine. The Qur'anic Trinity is not the church's.
+
+### Count 137. "Jesus is not God" in ten verses: John 17:3, John 5:30, Acts 4:25-30, 1 Corinthians 11:3, Luke 12:10, Ephesians 4:5-6, John 5:44 with Luke 24:39, Romans 16:27, John 8:17-18, John 7:16 with Luke 22:42.
+
+**The Prosecution.** The list as it circulates: each verse distinguishes Jesus from God, calls him a servant, makes him subordinate, or counts him separately.
+
+**The Defense.** All ten make one move, and it is a move the doctrine they attack has always granted: they show that the Son is distinct from the Father. The Trinity is not the claim that Jesus is the Father; it is the claim that the Father, the Son, and the Spirit are three distinct persons sharing one divine nature, and every verse on the list that distinguishes the persons is a verse the doctrine requires. The real argument is over whether distinction implies inequality of nature, and the verses, read whole, say it does not. In order. John 17:3: "that they know you, the only true God, and Jesus Christ whom you have sent," where eternal life is knowing both, a sentence no prophet could put himself in; and the same prayer continues, "glorify me in your own presence with the glory that I had with you before the world existed" (17:5), which no creature has. John 5:30, "I can do nothing on my own," is the Son's dependence on the Father in the incarnation, in a chapter that also says "whatever the Father does, that the Son does likewise" and "that all may honor the Son just as they honor the Father" (5:19, 23), equal honor being the claim. Acts 4's "servant" is *pais*, Isaiah's word for the Servant of the LORD, the title of the fourth Song, which is a messianic title and the one Isaiah 52:13 gives to the one "high and lifted up" with God's own exaltation. 1 Corinthians 11:3, "the head of Christ is God," is a statement of order in the same sentence that makes man the head of woman, and Paul does not hold that women are of a lesser nature than men (Galatians 3:28); headship is relation, not rank of being. Luke 12:10's distinction between blaspheming the Son and the Spirit has been read since Chrysostom as concerning the Son's hidden glory before the resurrection, when speaking against a Galilean carpenter was forgivable ignorance, and the Spirit's public work was not; it does not rank the persons. Ephesians 4:4-6 names "one Spirit... one Lord... one God and Father" in a Trinitarian sequence, and "Lord," *kyrios*, is the Greek Bible's name for YHWH, applied to Jesus. John 5:44 and Romans 16:27 call the Father the only God, which the Son affirms; and God being spirit while the risen Jesus has flesh and bone is the incarnation, the Son having taken a body, which is the doctrine, not its refutation. John 8:17-18's two witnesses are two persons, which the doctrine needs, and 14:1's "believe in God, believe also in me" puts the Son beside God as an object of the faith no prophet asks for himself. John 7:16 and Luke 22:42 show the Son's teaching and will as received from and submitted to the Father, which is the eternal relation of the persons and, in Gethsemane, the human will of the incarnate Son; the church defined two wills in one person in 681 because this verse was in its Bible. The list proves that Jesus is not the Father and that he was truly a man. The defense affirms both, and asks the witness to produce the verse in which any of the apostles, all Jews who died rather than worship a creature, treated him as one.
+
+**The Exhibits.** John 5:19-30, 8:12-18, 14:1, 17:1-5; Acts 4:24-30 with Isaiah 52:13 (LXX); 1 Corinthians 11:3 with Galatians 3:28; Luke 12:10 (Chrysostom, *Homilies on Matthew* 41); Ephesians 4:4-6; Romans 16:27; Luke 22:42 and the Third Council of Constantinople (681); Count 68.
+
+**The Standing.** Doctrine. Every verse distinguishes the persons; none reduces the Son's nature; the doctrine was built on these texts.
+
+### The verdict on Part Seven
+
+The Muslim witness holds Jesus in an honor no other non-Christian tradition approaches, and the court has heard him accordingly. Of the twenty counts, six restate objections already answered and are referred back. The rest resolve as follows: the corruption of the Bible is excluded by manuscripts three centuries older than the Qur'an and by the Qur'an's own affirmation of the Gospel; the crucifixion and the death are established beyond reasonable doubt against a single seventh-century verse the Muslim exegetes themselves read more than one way; the Paraclete is the Spirit, sent to the disciples, by every clause of the passage; Deuteronomy 18's prophet is an Israelite by Deuteronomy's own definition; the Hebrew "names" of Muhammad are common nouns; the Gospel of Barnabas is a Renaissance forgery that contradicts the Qur'an; the ten verses prove the distinction of the persons that the doctrine requires; and the objection to vicarious atonement is answered by the witness's own Eid. What the witness has established is that he and the defense agree on more than either tradition usually admits: a virgin birth, a sinless life, miracles, an ascension, and a return. The disagreement is one cross, and on that the first-century evidence is unanimous.
+
+---
+
+*Part Seven complete. Next: Part Eight, the Jewish witness: the counter-missionary case, argued from inside the same book.*
+
+---
+
+## PART EIGHT: THE JEWISH WITNESS
+
+*Witness: the counter-missionary. Tovia Singer, Outreach Judaism, Jews for Judaism, and the tradition behind them, which is the oldest and most learned opposition Christianity has, argued from inside the same book. The handbook has placed it late because it needs everything before it, and treats it as the series' Old Testament volumes did: the synagogue's reading stated at full strength at every text, the church's beside it, the evidence weighed, and the counter-evidence held in the other hand. Several counts were walked at length in those volumes and are summarized here with the reference.*
+
+### Count 138. Isaiah 7:14: almah means young woman, the sign was for Ahaz, and the child was Isaiah's own son.
+
+**The Prosecution.** Restated from Count 61, in its Jewish form.
+
+**The Defense.** Answered there, with the concession the Jewish witness deserves: the near fulfillment was in Isaiah's day, and Matthew's reading is a pattern-reading of a text with two horizons, as the Jewish tradition itself reads texts (the *pesher* of Qumran, the *remez* of the rabbis). The Jewish translators of Alexandria chose *parthenos* two centuries before the church existed, and Luke reports the same conception without the verse.
+
+### Count 139. Isaiah 53 describes Israel; the Servant is named Israel in 49:3; the collective reading is the plain one.
+
+**The Prosecution.** The chapter is the nations' confession about Israel's suffering in exile; the Servant of chapters 40 to 55 is repeatedly named as Jacob and Israel; Rashi, Ibn Ezra, and Kimchi read it so, and the plain sense agrees.
+
+**The Defense.** The Old Testament series' Volume Three carries this at full length; the summary. The history first: the Talmud never reads the chapter of the nation; where it cites Isaiah 53 it assigns the lines to individuals, the Messiah (Sanhedrin 98b, the leper scholar), Moses (Sotah 14a), the righteous sufferer (Berakhot 5a); the Targum names the Messiah at 52:13; and the collective reading is first attested in Origen's report of a debate around AD 248, becoming standard only with the medieval commentators, in centuries when Jewish communities suffering as Christ's alleged killers found the chapter described them; the medievals did not agree among themselves (Saadia read it of Jeremiah, Abarbanel of Josiah, Alshech wrote that "our rabbis with one voice" read it of the King Messiah, and Nahmanides at Barcelona in 1263 conceded the sages' messianic reading and disputed only that the Messiah dies). Then the text: Isaiah personifies the nation as one man throughout, so the singular alone proves nothing, and the distinction is character and role. In every "Israel my servant" passage of chapters 40 to 48 the nation is loved and chosen, and also blind, deaf, "a rebel from the womb," and forgiven, always the object of rescue and never the agent of anyone else's; the Servant of the four Songs is never forgiven because he is never guilty, is given a mission (justice to the nations, the gathering of Israel, the justifying of many), and alone speaks in his own first person. At 49:3 he is named Israel, and the name is original and must be accepted; in the next verses his task is Jacob's restoration and Israel's gathering, so the one called Israel is sent to Israel, which the collective reading cannot accommodate. The word changes number: "servant" singular runs through 53:11 and stops; "servants" plural begins at 54:17 and runs to the book's end, the many born from the one as 53:10 promised. The Septuagint, translated by Jews around 150 BC, adds "Jacob" and "Israel" to the first Song and reads the fourth of an individual "led to death because of the lawlessness of my people," a layered reading that is the oldest Jewish reading on record. And the counter-evidence, conceded: 53:8's *lamo* can be "for them"; 53:9's *bemotav* is "in his deaths," a plural; and the haftarah cycle skips the passage. The reading that survives is that the same author who personified sinful Israel as one man wrote four Songs about an innocent one, named him Israel and sent him to Israel, described his death in the Torah's sacrificial vocabulary (*asham*, the guilt offering, 53:10) and his exaltation in God's own ("high and lifted up," 52:13, the phrase of 6:1), and then switched the word to plural forever.
+
+**The Exhibits.** Isaiah 41:8-9, 42:1-4, 42:18-25, 43:1-13, 44:1-5, 44:21-23, 48:1-11, 49:1-6, 50:4-9, 52:13-53:12, 54:17; Sanhedrin 98b; Sotah 14a; Berakhot 5a; the Targum on 52:13; Origen, *Against Celsus* 1.55; Nahmanides, *Vikuach* (Barcelona); Rembaum, "The Development of a Jewish Exegetical Tradition Regarding Isaiah 53," *HTR* 75 (1982); the Septuagint of 42:1 and 53:8-11; the Old Testament series, Volume Three, the Isaiah 53 panel.
+
+**The Weight.** *Hostile corroboration:* the Talmud and Targum read the chapter of individuals, the Messiah among them. *Early attestation:* the Septuagint's individual reading of Song 4 predates the church. *Text:* the Servant's innocence, mission, voice, and the number-shift. *Concession:* three textual points for the collective side. Standard: clear and convincing that the fourth Song describes an individual who dies for the people; the identification of that individual is the whole dispute, and the series answers it with Philip on the Gaza road.
+
+### Count 140. Psalm 22:16 says "like a lion," not "pierced"; Christians altered the text.
+
+**The Prosecution.** The Masoretic text reads *ka'ari*, "like a lion, my hands and my feet"; the Christian "they pierced" is a doctored reading.
+
+**The Defense.** The Masoretic reading has no verb: "like a lion my hands and my feet" is a fragment the Jewish commentators themselves had to supply a verb for (Rashi: "as if crushed by a lion"). The Septuagint, translated by Jews before the church, reads "they dug/pierced" (*ōryxan*), which requires a Hebrew verb *ka'aru*, differing from *ka'ari* by one letter, the *vav* for the *yod*, the two most easily confused letters in Hebrew script. In 1997 the oldest surviving manuscript of the verse was published, a psalms scroll from Nahal Hever (5/6HevPs), copied by Jews between 50 BC and AD 50, and it reads *ka'aru*, with the *vav*. The "pierced" reading is therefore the pre-Christian Jewish reading, attested in the Greek and now in the Hebrew, and the "lion" reading is the later one. Volume Five of the Old Testament series walks the psalm and its panel.
+
+**The Exhibits.** Psalm 22:16 (17 in Hebrew); the Septuagint (Psalm 21:17); 5/6HevPs (Nahal Hever), in Flint, *The Dead Sea Psalms Scrolls* (1997); Rashi on Psalm 22:17; the Old Testament series, Volume Five.
+
+**The Weight.** *Manuscripts:* the pre-Christian Hebrew and Greek witnesses read "pierced." Standard met: clear and convincing that the Christian reading is the older one.
+
+### Count 141. Micah 5:2 refers to the clan of Bethlehem, not the town, and "from ancient days" means from David's line.
+
+**The Prosecution.** "Bethlehem Ephrathah, too little to be among the clans of Judah": the ruler comes from the family, and his "origin from of old" is his Davidic descent.
+
+**The Defense.** Bethlehem Ephrathah is the town, named as David's birthplace with the same double name in Ruth and 1 Samuel, and "too little to be among the clans" is a comparison of the town to the clan-districts of Judah; that a ruler "from" it would be of David's family is what the church has always said, since David was of it. The reading in Jesus's day is on record from the Jewish side: when Herod asked the chief priests and scribes where the Messiah would be born, they answered "in Bethlehem of Judea, for so it is written by the prophet" and quoted this verse (Matthew 2:4-6), and the crowd in John 7:42 assumes it. The Targum on Micah reads "from you shall come forth before me the Messiah." "From of old, from ancient days" (*mimei olam*) is used elsewhere of the ancient past, and the Targum's Messiah "whose name was spoken from of old" is a pre-existence the church reads and the synagogue's own translation admits. Volume Four of the Old Testament series carries the panel.
+
+**The Exhibits.** Micah 5:2 (5:1 in Hebrew); Ruth 4:11; 1 Samuel 17:12; Matthew 2:4-6; John 7:42; Targum Jonathan on Micah 5:1; the Old Testament series, Volume Four.
+
+**The Weight.** *Hostile corroboration:* the Sanhedrin's own answer to Herod, and the Targum. Standard: clear and convincing that the verse was read of the Messiah's birthplace by the Jews of Jesus's day.
+
+### Count 142. Zechariah 12:10's "they shall look on me whom they pierced" is a textual corruption; the mourning is for a fallen warrior.
+
+**The Prosecution.** God cannot be pierced; the reading should be "on him," and the pierced one is a slain soldier the nation mourns.
+
+**The Defense.** The Masoretic text reads "on me" (*elai*), with some manuscripts reading "on him," and the Jewish tradition's own reading of the verse is the decisive exhibit: the Talmud, in Sukkah 52a, applies it to the Messiah son of Joseph, slain in battle, for whom the nation mourns "as one mourns for an only child," which is a suffering, dying Messiah in the Talmud, on this verse. The church's reading, that the one pierced is God's own representative and the mourning is repentance toward him, is the Talmud's reading with a name supplied, and John cites the verse at the cross (19:37) in the form the tradition already knew. Volume Four carries the panel, including the "me/him" question stated fairly.
+
+**The Exhibits.** Zechariah 12:10-14; Sukkah 52a; John 19:37; Revelation 1:7; the Old Testament series, Volume Four.
+
+**The Weight.** *Hostile corroboration:* the Talmud's Messiah ben Joseph slain, on this verse. Standard: clear and convincing that the pierced one was read as a messianic figure in the Jewish tradition itself.
+
+### Count 143. Daniel 9's seventy weeks do not compute to Jesus's death without arithmetic tricks.
+
+**The Prosecution.** The starting decree, the length of a "week," the calendar, and the gap are all chosen to reach AD 30 or 33; the traditional Jewish reading ends the seventy weeks at the temple's destruction.
+
+**The Defense.** The handbook concedes the arithmetic is contested and rests nothing on a particular count; Volume Seven of the Old Testament series says so. What the passage fixes without arithmetic is a sequence: "an anointed one shall be cut off and shall have nothing, and the people of the prince who is to come shall destroy the city and the sanctuary" (9:26), an anointed one cut off before the second destruction of Jerusalem, which happened in AD 70. Whatever the count of weeks, the Messiah of Daniel 9 dies before the temple falls, and no reading that puts him after can be Daniel's. The Jewish tradition's own discomfort is recorded: the Talmud curses those who compute the end from Daniel (Sanhedrin 97b, "may the bones of those who calculate the end be blasted"), the reason given by the sages being that the computed times had passed ("all the predestined dates have passed, and the matter depends only on repentance," 97b), and Rashi's reading, which ends the seventy weeks at the destruction, has the anointed one cut off be Agrippa, a king no tradition mourned.
+
+**The Exhibits.** Daniel 9:24-27; Sanhedrin 97a-b; Rashi on Daniel 9:26; the Old Testament series, Volume Seven, the seventy-weeks discussion.
+
+**The Weight.** *Concession:* the count of weeks is not decisive. *Text:* the sequence, anointed one cut off before AD 70, is. Standard: preponderance that the passage places the Messiah's death before the temple's fall.
+
+### Count 144. Jesus failed the messianic job description: no world peace, no ingathering, no rebuilt temple, no universal knowledge of God; the "second coming" is an excuse for failure.
+
+**The Prosecution.** The Messiah is defined by Isaiah 2 and 11, Ezekiel 37, and Zechariah 14, and by the tasks the tradition lists: gather the exiles, rebuild the temple, bring peace, make God known. Jesus did none. A Messiah who needs a second try is a failed one.
+
+**The Defense.** This is the counter-missionary's strongest count, and the defense meets it on the tradition's own ground, because the two-stage Messiah is Jewish before it is Christian. The Talmud teaches two Messiahs, the son of Joseph who suffers and is slain and the son of David who reigns (Sukkah 52a), because the sages found both portraits in the prophets and could not make one man of them. The Talmud also records the debate over the manner of his coming, "with the clouds of heaven" (Daniel 7) or "humble and riding on a donkey" (Zechariah 9), and resolves it conditionally: "if they merit it, with the clouds; if not, on a donkey" (Sanhedrin 98a). The church's claim is that the prophets described one man in two comings, the donkey first and the clouds after, and it is the same texts that produced the rabbis' two Messiahs and their two manners of arrival. The tasks the tradition lists are the tasks of the second portrait, and Jesus assigned them to his return in the same breath as he refused to date it; the first portrait's tasks, the ones Isaiah 53 and Zechariah 12 and Daniel 9 assign, to be despised, pierced, cut off, and to bear the sins of the many, he did in public. The prosecution calls the second coming an excuse; the defense calls it Zechariah, who put the donkey in chapter 9 and the clouds in chapter 14 and expected his readers to hold both. What Jesus accomplished of the job description in the first coming the counter-missionary usually omits: the knowledge of Israel's God has gone to the ends of the earth, three billion people pray the Psalms, and the nations that never heard of Sinai now call Abraham their father, which is Isaiah 49:6's "light to the nations" and Malachi 1:11's incense "in every place" happening in front of us. The peace of Isaiah 11 is not here, and the church has never said it was; it says the King has come and is coming.
+
+**The Exhibits.** Sukkah 52a; Sanhedrin 98a; Zechariah 9:9-10 and 14:1-9; Daniel 7:13-14; Isaiah 49:6, 53; Malachi 1:11; Matthew 24:36, 25:31-46; Acts 1:6-11; the Old Testament series, Volume Four (the two Zechariahs) and Volume Seven.
+
+**The Standing.** Doctrine and text. Rests on the two-portrait problem being the prophets' own, solved by the rabbis with two Messiahs and by the church with one in two comings.
+
+### Count 145. The Messiah must descend from David through his father; Jesus had no human father, and Matthew's line runs through Jeconiah's curse.
+
+**The Prosecution.** Restated from Count 64.
+
+**The Defense.** Answered there: legal descent by acknowledged paternity is Jewish law, and the virgin birth is what threads Jeconiah's curse; the Talmud itself holds the curse lifted.
+
+### Count 146. The Trinity violates the Shema; "God is not a man" (Numbers 23:19; Hosea 11:9); no Jew could accept a man as God.
+
+**The Prosecution.** "Hear, O Israel, the LORD our God, the LORD is one." A God who is three is not the God of the Shema, and a God who becomes a man is not the God who said he is not one.
+
+**The Defense.** Christians confess the Shema; Jesus quoted it as the first commandment (Mark 12:29), and the Nicene Creed opens "We believe in one God." The Hebrew *echad* is the word for a compound unity as well as a numerical one, "the two shall become one flesh," "one cluster of grapes," "the people answered with one voice," and the tradition's own Bible contains a plurality within the one God that the rabbis wrestled with long before the church: the Angel of the LORD who speaks as God, receives worship, and is called God by those who meet him (Genesis 16, 22, 31:11-13; Exodus 3; Judges 13); the Word (*memra*) of the Targums, by which God creates and acts; Wisdom beside God at creation in Proverbs 8; the two thrones of Daniel 7, one for the Ancient of Days and one, Rabbi Akiva said, "for David," that is, the Messiah, a reading his colleagues rebuked as profaning the Shekinah (Hagigah 14a); the two lords of Psalm 110; and the rabbinic polemic against "two powers in heaven" (Alan Segal's study), which was a polemic because Jews were holding it. Numbers 23:19 says God is not a man "that he should lie" or "change his mind," a statement about character, and Hosea 11:9 that God's mercy exceeds a man's; neither says God cannot take on a man's nature, and the same Bible has God eating with Abraham at Mamre and wrestling Jacob at the Jabbok. "No Jew could accept a man as God" is answered by history: every apostle was a Jew who died rather than worship a creature, and Paul, a Pharisee trained under Gamaliel, applied YHWH's own texts to Jesus within twenty years of the cross. The Trinity is not the claim that there are three gods, which the church condemns as the Jew does; it is the church's account of the plurality the Hebrew Bible already contains, given a name.
+
+**The Exhibits.** Deuteronomy 6:4; Genesis 2:24, 18, 32:24-30; Exodus 3:2-6; Judges 13:17-22; Proverbs 8:22-31; Daniel 7:9-14; Hagigah 14a; Sanhedrin 38b; Psalm 110:1; Segal, *Two Powers in Heaven* (1977); Boyarin, *The Jewish Gospels* (2012), a Jewish scholar on the Jewish roots of a divine Messiah; the Old Testament series' Angel of the LORD study.
+
+**The Standing.** Doctrine and text. Rests on the plurality within the Hebrew Bible's one God, attested by the rabbis' own debates.
+
+### Count 147. Deuteronomy 13 and 18: a prophet who leads to another god, or whose word fails, is false; Jesus's followers worship him.
+
+**The Prosecution.** The Torah's test of a prophet is not signs but fidelity: "if a prophet arises... and gives you a sign or wonder, and the sign comes to pass, and if he says, 'Let us go after other gods'... you shall not listen" (13:1-3). Jesus led Israel to worship a man; his signs are irrelevant.
+
+**The Defense.** The test is the right one, and Jesus passes it on its own terms. Deuteronomy 13's disqualifier is a prophet who says "let us go after other gods, which you have not known"; Jesus taught the God of Abraham, Isaac, and Jacob, confessed the Shema as the first commandment, prayed to the Father, kept the feasts, cited Moses and the prophets as the word of God, and his followers worship the God of Israel and no other, as the first of them, all Jews, insisted at the cost of their lives. The claim that he is the Son of that God, one with the Father, is either true or false, but it is not a call to "other gods you have not known," since the God in question is the one Israel knew, and the claim's own warrant is Israel's Scriptures (Count 146). Deuteronomy 18's test, "if the word does not come to pass," is met by the one dated prediction the prosecution elsewhere calls a problem: the temple fell within the generation as he said. And the tradition's own handling of Deuteronomy 13 concedes the logic: the rabbis held that the Messiah, when he comes, may be known by his fidelity to Torah and his success, which is why they said Bar Kokhba, whom Akiva had proclaimed, was proved false by his death, a test that a resurrection answers.
+
+**The Exhibits.** Deuteronomy 13:1-5, 18:15-22; Mark 12:28-34; Luke 4:16-21; Matthew 5:17; Mark 13:2 with Josephus, *War* 6; Maimonides, *Mishneh Torah*, Kings 11:4 (the Messiah's tests); y. Taanit 4:8 (Akiva and Bar Kokhba).
+
+**The Standing.** Text. Rests on the identity of the God Jesus taught, which was Israel's.
+
+### Count 148. Matthew misquotes and invents: "he shall be called a Nazarene," "out of Egypt," Rachel weeping, "Jeremiah" for Zechariah, two donkeys.
+
+**The Prosecution.** Restated from Count 27, in the counter-missionary's list.
+
+**The Defense.** Conceded at Count 27 as pattern-readings, and one further thing said for the Jewish witness's benefit: the method is the synagogue's. Matthew reads the prophets the way the Qumran *pesharim* read them and the way the rabbis' *midrash* read them, finding in an old text a pattern completed in a present event, and his "Nazarene" is most likely a wordplay on *netzer*, the "branch" of Isaiah 11:1, of exactly the kind the rabbis practiced. The conflated citation ("Jeremiah" for a passage mostly from Zechariah) is a Jewish citation habit too: Mark 1:2 cites Malachi under Isaiah's name, and the rabbis cited composite texts under the more prominent author. Two donkeys is Matthew's excess of literalism with Zechariah's parallelism, and the handbook has said so. None of it is fabrication; all of it is a first-century Jew reading his Bible as first-century Jews read it.
+
+**The Exhibits.** Matthew 2:15, 2:18, 2:23, 21:2-7, 27:9; Isaiah 11:1; Mark 1:2; the Qumran Habakkuk *pesher* (1QpHab); Count 27.
+
+### Count 149. Elohim's plural is a plural of majesty; "let us make man" is the heavenly court.
+
+**The Prosecution.** Christians argue the Trinity from Hebrew grammar they do not understand.
+
+**The Defense.** The defense agrees that Elohim is not a proof-text for the Trinity and does not argue from it; the plurality it argues from is the Angel, the Word, Wisdom, and the two thrones (Count 146). It notes only that "let us" gave the rabbis their own trouble: the Talmud records that when Moses wrote "let us make man" he objected that it would give heretics an opening, and God told him to write it and let the heretics err (Genesis Rabbah 8:8), and the "heavenly court" reading was the rabbis' answer to the same question the church asked.
+
+**The Exhibits.** Genesis 1:26; Genesis Rabbah 8:8; Sanhedrin 38b.
+
+### Count 150. Christianity's history of persecuting Jews disproves its claim to be the fulfillment of Judaism.
+
+**The Prosecution.** By their fruits: crusader massacres, blood libels, expulsions, ghettos, and the soil the Holocaust grew in. The tree is known.
+
+**The Defense.** The history is true and the church's guilt is its own; the handbook conceded it at Count 59 and adds here that the crime was against the founder's own people, in the founder's name, in defiance of the one apostolic text that addressed the question: "do not be arrogant toward the branches... it is not you who support the root, but the root that supports you" (Romans 11:18). Paul foresaw the arrogance and forbade it, and the church committed it anyway, for centuries, and has confessed it since (Nostra Aetate, 1965; the church's statements at Auschwitz and Yad Vashem). What the fruit proves is what Jesus said fruit proves, the state of the tree that bore it, which was a church that had abandoned its own Scripture on this point; it does not touch the question whether the man the persecutors invoked rose from the dead, any more than the crimes of the Hasmoneans touch the Torah. The defense adds what the prosecution's count omits, without setting it in the balance as if it could balance: the Righteous Among the Nations, the Christians who died at Auschwitz for hiding Jews, and the Christian Zionists from Shaftesbury to Truman who helped bring the state into being, all reading the same book the persecutors read, and reading it as Paul wrote it.
+
+**The Exhibits.** Romans 9-11; Matthew 7:16-20; *Nostra Aetate* 4; the Yad Vashem Righteous database; Count 59.
+
+**The Standing.** History and logic. Conceded as fact; the inference to the founder's claims does not follow.
+
+### Count 151. The Torah is eternal; a religion that abolishes its commandments cannot be its fulfillment.
+
+**The Prosecution.** "The secret things belong to the LORD, but the things that are revealed belong to us and to our children forever, that we may do all the words of this law" (Deuteronomy 29:29); the commandments are for all generations. A Messiah who set aside the Sabbath, the food laws, and the sacrifices is a false prophet by definition.
+
+**The Defense.** The Torah foretells its own transformation, in its own prophets. Jeremiah promised "a new covenant... not like the covenant that I made with their fathers" (31:31-32), with the law written on hearts and sins remembered no more; Jeremiah also said the ark of the covenant "shall not come to mind or be remembered or missed" (3:16); Malachi foresaw offering made "in every place" among the nations (1:11), which the Torah confined to one place; Daniel foresaw the sacrifice caused to cease (9:27); and Deuteronomy itself promised a prophet like Moses whose word would bind (18:18-19). The Jewish tradition has changed the Torah's practice in exactly the way it charges: no sacrifice has been offered since AD 70, and the rabbis substituted prayer ("we will offer the bulls of our lips," Hosea 14:2), which is what the church did with the same verse; the Talmud states that "the commandments will be annulled in the age to come" (Niddah 61b); and Maimonides taught that the sacrificial laws were a concession to Israel's Egyptian habits. Jesus's own statement was "I have not come to abolish the Law or the Prophets but to fulfill them" (Matthew 5:17), and what the church did with the law was the distinction Acts 15 drew (Count 15): the moral law kept and intensified, the ceremonial law's purpose declared accomplished, and the Torah's own provision for the resident alien applied to the Gentiles. The Torah is eternal as the word of God; the temple is gone on both readings, and the question is what fulfilled it.
+
+**The Exhibits.** Deuteronomy 29:29, 18:15-19; Jeremiah 3:16, 31:31-34; Malachi 1:11; Daniel 9:27; Hosea 14:2; Niddah 61b; Maimonides, *Guide* 3.32; Matthew 5:17-20; Acts 15; the earlier discussion of the law's status in the first century.
+
+**The Standing.** Text. Rests on the prophets' own forecast of a new covenant and the tradition's own adaptation after 70.
+
+### Count 152. Jesus broke the Sabbath, annulled kosher law, and called himself greater than the temple: a false teacher by the Torah's test.
+
+**The Prosecution.** He healed on the Sabbath, his disciples plucked grain, Mark says he "declared all foods clean," and he claimed precedence over God's house.
+
+**The Defense.** Healing on the Sabbath was a live debate among the Pharisees themselves (the schools of Hillel and Shammai divided on what care was permitted), the principle that saving life overrides the Sabbath (*pikuach nefesh*) is rabbinic law, and Jesus's arguments in the Gospels are rabbinic in form: the *kal va-chomer* ("you circumcise on the Sabbath... are you angry with me because I made a man's whole body well?" John 7:23), the appeal to David and the showbread, the ox in the pit, all of them arguments a Pharisee could make and some did. He never broke the Sabbath as the Torah defines it; he broke the fence some Pharisees had built around it, and said so. The disciples' grain is permitted by Deuteronomy 23:25. "Declared all foods clean" is Mark's comment for Gentile readers (7:19), not Jesus's words; Jesus himself kept the food laws, and Peter was still refusing unclean food in Acts 10. "Greater than the temple" is the divine claim of Count 67, which is either true or false but is not a breach of Torah, since the Torah's own God is greater than his house. The Torah's test of a false teacher is Deuteronomy 13's "other gods" (Count 147), which he did not teach; a teacher who disputed the Pharisees' halakha on the Pharisees' own terms is what the Talmud is full of.
+
+**The Exhibits.** Mark 2:23-3:6; John 7:22-24; Luke 14:1-6; Deuteronomy 23:25; Mark 7:1-23; Acts 10:14; Yoma 85b (*pikuach nefesh*); Shabbat 14b (the schools' debates); Vermes, *Jesus the Jew* (1973).
+
+**The Standing.** Halakha. Rests on the distinction between Torah and its Pharisaic fence, and on Mark 7:19 being Mark's gloss.
+
+### Count 153. Isaiah 9:6's child is Hezekiah; the names are throne-names; the Hebrew tense is past.
+
+**The Prosecution.** "For to us a child is born" describes Hezekiah's birth; "Mighty God, Everlasting Father" are titles like "Isaiah" (the LORD saves), describing God, not the child; and the perfect tense shows the birth is past.
+
+**The Defense.** The Talmud itself records that God intended to make Hezekiah the Messiah and did not, because Hezekiah failed to sing (Sanhedrin 94a), which is the sages conceding that the verse's portrait exceeded Hezekiah. The prophetic perfect, the Hebrew past tense used for a future certainty, is standard in Isaiah and the objection's own commentators know it. "Mighty God," *El Gibbor*, is used of YHWH himself two chapters later (10:21), so the name cannot be reduced to a hope about God; and the child's reign is "of the increase of his government and of peace there will be no end, on the throne of David and over his kingdom... from this time forth and forevermore," which was not Hezekiah's, who died with the kingdom shrunk and Babylon's envoys already shown the treasury. The throne-name reading is possible for one name; four together, in a passage that then describes an endless reign, is the description of a king the Targum calls the Messiah, which is the reading Volume Three carries with the synagogue's beside it.
+
+**The Exhibits.** Isaiah 9:6-7, 10:21; Sanhedrin 94a; Targum Jonathan on Isaiah 9:5; 2 Kings 20:12-19; the Old Testament series, Volume Three.
+
+**The Weight.** *Hostile corroboration:* the Talmud's "Hezekiah could have been the Messiah." *Text:* the endless reign and the divine name. Standard: clear and convincing that the passage describes more than Hezekiah.
+
+### Count 154. Psalm 2's "son" is David at his coronation; Psalm 110's "my lord" is David sung by the Levites, or Abraham.
+
+**The Prosecution.** Both psalms are royal liturgy about a human king; Christians read them of a divine one.
+
+**The Defense.** Both psalms are royal liturgy, and both say things no king of Judah could claim, which is why the synagogue read them of the Messiah before the church did. Psalm 2's "son," "begotten," "the ends of the earth your possession," and "kiss the Son, lest he be angry, and you perish" were read of the Messiah in the Talmud (Sukkah 52a) and the Midrash on Psalms; the church's reading is the synagogue's with a name. Psalm 110's "the LORD says to my lord, sit at my right hand" was put to the Pharisees as a question by Jesus, "if David calls him Lord, how is he his son?" (Mark 12:35-37), and the Gospels record that no one could answer; the Abraham reading (Nedarim 32b) is one rabbinic view, the messianic one is another (Midrash Tehillim on 110), and the psalm's "priest forever after the order of Melchizedek" is an office no Davidic king held, which Hebrews spends three chapters on. Volume Five carries both panels.
+
+**The Exhibits.** Psalm 2; Psalm 110; Sukkah 52a; Midrash Tehillim 2 and 110; Nedarim 32b; Mark 12:35-37; Hebrews 5-7; the Old Testament series, Volume Five.
+
+**The Weight.** *Hostile corroboration:* both psalms read messianically in the rabbinic sources. Standard: clear and convincing that the psalms exceed their human kings.
+
+### Count 155. Jeremiah 31's new covenant is the same Torah written on hearts, not a new law, and it is with Israel and Judah, not the nations.
+
+**The Prosecution.** The new covenant is the old Torah internalized; nothing in it is Christian.
+
+**The Defense.** Both readings are true, and the church holds both. The new covenant is the Torah written on hearts, which is what Christians say the Spirit does (2 Corinthians 3:3, citing the verse); it is also "not like the covenant that I made with their fathers... my covenant that they broke," which the prophet says in so many words, and its distinctive clause is "I will forgive their iniquity, and I will remember their sin no more," a forgiveness not mediated by the temple, which is what the church says the cross secured. It is made with "the house of Israel and the house of Judah," and the church's claim is that the Gentiles are grafted into that covenant, not given a different one (Romans 11), which is why the Gentile church has read Jeremiah as its own for two thousand years: it entered Israel's promise, it did not replace it.
+
+**The Exhibits.** Jeremiah 31:31-34; 2 Corinthians 3:1-6; Hebrews 8; Romans 11:17-24; the Old Testament series, Volume Three (Jeremiah).
+
+### Count 156. Ezekiel 40-48's temple, with animal sacrifices, is the messianic temple; a Messiah who ended sacrifice contradicts the messianic age.
+
+**The Prosecution.** The prophet's final vision has a rebuilt temple and sin offerings; the Messiah's age includes them; Christianity's abolition of sacrifice is the abolition of Ezekiel.
+
+**The Defense.** The chapter is a puzzle on both sides, and the honest answer says so. The Jewish tradition found Ezekiel's temple laws contradicting the Torah's (the offerings, the calendar, the priesthood) so seriously that the Talmud reports Hananiah ben Hezekiah burning three hundred jars of oil reconciling them so the book would not be withdrawn from the canon (Shabbat 13b), and it leaves the contradictions for "Elijah to explain" (Menachot 45a); Maimonides held the messianic sacrifices would resume, other sages that they would not. The church has read the vision as a symbolic portrait of God's dwelling with his people (the river from the threshold, the city named "The LORD is there"), or as a memorial worship the way the Passover was memorial, and has never claimed to have settled it. What no reading can do is make the vision the test of the Messiah, since the tradition itself does not know what the vision's laws mean. The Old Testament series' Volume Three walks the vision and its river.
+
+**The Exhibits.** Ezekiel 40-48; Shabbat 13b; Menachot 45a; Maimonides, *Mishneh Torah*, Kings 11:1; Revelation 21-22 (the city with no temple, its river from the throne); the Old Testament series, Volume Three (Ezekiel).
+
+**The Standing.** Open on both sides; the count cannot be a test.
+
+### Count 157. Isaiah 11's wolf and lamb, Isaiah 2's swords into plowshares, Zechariah 14's universal Sukkot have not happened.
+
+**The Prosecution.** Restated from Count 144.
+
+**The Defense.** Answered there: the second portrait, assigned to the second coming by the same texts that gave the rabbis their second Messiah.
+
+### Count 158. Malachi's Elijah had to precede the Messiah; John the Baptist denied he was Elijah.
+
+**The Prosecution.** "Behold, I will send you Elijah the prophet before the great and awesome day of the LORD" (Malachi 4:5); asked "are you Elijah?", John said "I am not" (John 1:21). No Elijah, no Messiah.
+
+**The Defense.** John denied being Elijah in the sense the questioners meant, the prophet returned in person from the chariot, which is what the crowd was asking; Luke's angel had already defined the sense in which he was: "he will go before him in the spirit and power of Elijah, to turn the hearts of the fathers to the children" (1:17), quoting Malachi's own description of what Elijah would do. Jesus said it plainly: "if you are willing to accept it, he is Elijah who is to come" (Matthew 11:14), and after the transfiguration, "Elijah has already come, and they did not recognize him" (17:12). The Jewish tradition's Elijah is also a herald before the day, and the church's reading is that the herald came in Malachi's terms (turning hearts, preparing a people) before the day's first stage, and that Malachi's "great and awesome day" is the second, which the tradition's own two-stage Messiah (Count 144) accommodates.
+
+**The Exhibits.** Malachi 4:5-6; Luke 1:16-17; John 1:19-27; Matthew 11:7-15, 17:10-13; the Old Testament series, Volume Four (Malachi).
+
+### Count 159. The Torah forbids human sacrifice, and says no one dies for another's sin (Deuteronomy 24:16; Ezekiel 18:20); vicarious atonement by a human death is what the Torah rules out.
+
+**The Prosecution.** "Fathers shall not be put to death because of their children... each one shall be put to death for his own sin"; "the soul who sins shall die." A man dying for others' sins is the pagan idea Israel was called out of.
+
+**The Defense.** Deuteronomy 24:16 is a rule for Israel's courts, forbidding the execution of relatives for a criminal's crime, and Ezekiel 18 answers the exiles' proverb about sour grapes, teaching individual responsibility for guilt; neither concerns whether God may accept a substitute, and the Torah's own worship was built on his accepting one. The ram in Isaac's place; the Levites taken "instead of" every firstborn (Numbers 3:12); the scapegoat bearing the people's sins into the wilderness; the daily lamb; Moses offering to be blotted out for Israel's sin (Exodus 32:32); and Isaiah 53's Servant, whose death is called an *asham*, the guilt offering of Leviticus 5, and who "bore the sin of many," in a chapter the Talmud reads of individuals: the principle of one bearing another's guilt before God is the Torah's, not the pagans'. What the Torah forbids is the sacrifice of children to Molech, the murder of the unwilling by the guilty to buy a god's favor; what the church proclaims is the willing self-offering of the innocent by God himself, which is the ram, not the child. Count 133 answered the same objection from the Qur'an, and the Torah is the Qur'an's own source for it.
+
+**The Exhibits.** Deuteronomy 24:16; Ezekiel 18; Genesis 22:13; Numbers 3:11-13; Leviticus 5:14-19, 16:20-22; Exodus 32:30-32; Isaiah 53:5-6, 10-12; John 10:17-18; Count 133.
+
+**The Standing.** Text. Rests on the distinction between a court's rule and the altar's principle, both in the Torah.
+
+### Count 160. Blood is not required for atonement: repentance, prayer, and charity atone (Hosea 14:2; Leviticus 5:11; Jonah; Daniel 4:27).
+
+**The Prosecution.** Leviticus allows a flour offering for the poor; Hosea offers "the bulls of our lips"; Nineveh repented without an altar; Daniel told a pagan king to atone by mercy to the poor. Christianity's "without blood no forgiveness" is not the Torah's teaching.
+
+**The Defense.** "The life of the flesh is in the blood, and I have given it for you on the altar to make atonement for your souls, for it is the blood that makes atonement by the life" (Leviticus 17:11) is the Torah's own statement of its system's principle, and the Day of Atonement, the system's center, was blood from beginning to end. The flour offering of Leviticus 5:11 was the poor man's substitute placed on the altar "on top of the LORD's food offerings," that is, upon the blood already there; it did not replace the principle, it was carried by it. Hosea's "bulls of our lips" and the rabbis' substitution of prayer for sacrifice after 70 are the Jewish tradition doing what the church did: reading the prophets as teaching that the sacrifices pointed to something, and turning to that something when the altar was gone, the church saying the something had come and the synagogue saying it would. Nineveh's repentance and Daniel's counsel to a pagan are what the sacrifices were for; the prophets never taught that the altar was magic, and neither does the church, whose claim is not that God is paid in blood but that forgiveness costs a life and that the life was his own (Counts 2 and 3). Yoma 39b, in the Talmud, records that the Day of Atonement's sign of acceptance, the crimson thread turning white, stopped forty years before the temple fell, which is the tradition's own note that something changed about atonement in AD 30.
+
+**The Exhibits.** Leviticus 5:11-13, 16, 17:11; Hosea 14:2; Jonah 3; Daniel 4:27; Yoma 39b; Berakhot 26b (prayer instituted in place of sacrifice); Counts 2, 3.
+
+**The Standing.** Text. Rests on Leviticus 17:11 and on the tradition's own post-70 substitution.
+
+### Count 161. "God is not a man" (Numbers 23:19; Hosea 11:9): God does not become a man.
+
+**The Prosecution.** Restated from Count 146.
+
+**The Defense.** Answered there: both verses concern God's character, not his capacities, and the same Bible has him at Mamre and the Jabbok.
+
+### Count 162. The Messiah is a human king, not God; no Jewish text before Christianity expected a divine Messiah.
+
+**The Prosecution.** The Messiah of the Hebrew Bible and the intertestamental books is a man; the divine Messiah is a Christian invention.
+
+**The Defense.** The pre-Christian sources are the defense's exhibits. Daniel 7's "one like a son of man" comes "with the clouds of heaven," which in the Hebrew Bible is God's own transport, and is given dominion that all peoples serve, and Rabbi Akiva read the passage's thrones as one for God and one for the Messiah (Count 146). The Similitudes of Enoch, a Jewish text of the first century BC or AD, describe a pre-existent Son of Man, "named before the sun and the stars," who sits on God's throne and judges the world (1 Enoch 48, 62). Isaiah 9:6 calls the child "Mighty God"; Micah 5:2 gives him origins "from ancient days"; Jeremiah names the Davidic branch "the LORD our righteousness" (23:6); Psalm 110 seats him at God's right hand; Zechariah 12:10 has God say "they shall look on me whom they pierced." The rabbinic literature has Metatron, the angel whose name is as his Master's; the "two powers" polemic (Segal); and the Messiah's name among the things created before the world (Pesachim 54a). Daniel Boyarin, a Jewish scholar with no Christian stake, argued in *The Jewish Gospels* that the divine Messiah was a Jewish idea before Jesus and that the church's Christology grew from Jewish soil. The prosecution's "no Jewish text" is false; the Jewish texts are where the church got it.
+
+**The Exhibits.** Daniel 7:13-14; 1 Enoch 48:2-6, 62:7 (companion volume); Isaiah 9:6; Micah 5:2; Jeremiah 23:5-6; Psalm 110:1; Zechariah 12:10; Hagigah 14a; Pesachim 54a; Segal, *Two Powers in Heaven*; Boyarin, *The Jewish Gospels*; the Old Testament series, Volume Seven (Daniel 7 panel).
+
+**The Weight.** *Early attestation:* Daniel and Enoch predate the church. *Hostile corroboration:* the rabbinic readings and polemics. Standard: clear and convincing that a divine or pre-existent Messiah was a Jewish expectation before Jesus.
+
+### Count 163. Jesus broke the Sabbath, annulled kosher law, and claimed precedence over the temple.
+
+**The Prosecution.** Restated from Count 152.
+
+**The Defense.** Answered there.
+
+### Count 164. The genealogies disqualify him.
+
+**The Prosecution.** Restated from Counts 64 and 145.
+
+**The Defense.** Answered there.
+
+### Count 165. The Servant of Isaiah 53 "shall see his offspring" and "prolong his days," which a crucified, childless man did not.
+
+**The Prosecution.** *Zera* means physical descendants; "prolong his days" means a long life; neither fits a man who died at thirty-three without children.
+
+**The Defense.** The handbook conceded at Count 139 that *zera* ordinarily means physical seed and that the Christian reading takes it figuratively; the concession is the honest one, and the text itself supplies the figure. Isaiah uses *zera* of spiritual progeny ("offspring of the adulterer," 57:3-4; "the offspring of the blessed," 65:23), and the Servant's "offspring" in 53:10 is answered, four verses later, by the "servants of the LORD" (54:17) who fill the rest of the book, the singular's seed becoming the plural. "Prolong his days" follows "cut off out of the land of the living" (53:8) and "his grave" (53:9) in the same song, so the Servant's days are prolonged after his death, which is either resurrection or nonsense, and the collective reading has the same problem in a harder form, since Israel was never "cut off" and then given prolonged days. The Servant who died, saw a posterity, and lived on is the one whose posterity now prays the chapter in every language on earth.
+
+**The Exhibits.** Isaiah 53:8-12, 54:1-3, 54:17, 57:3, 65:23; Count 139; the Old Testament series, Volume Three.
+
+**The Standing.** Text. Concedes the ordinary sense; shows the song's own figure and sequence.
+
+### Count 166. Christians misread Hebrew grammar and vowel points they cannot read; the Septuagint is not the Bible, and the New Testament quotes it where it differs from the Hebrew.
+
+**The Prosecution.** The church's Old Testament is a Greek translation; the Jews have the Hebrew; the apostles' proof-texts are translation artifacts.
+
+**The Defense.** The Septuagint was the synagogue's Bible for three centuries before the church, translated by Jews for Jews, praised by Philo as inspired, read in the synagogues of the diaspora, and abandoned by the rabbis only after the church adopted it. The apostles quoted it because it was the Bible their hearers read, as a preacher today quotes the translation in the pew. Where it differs from the Hebrew, the Dead Sea Scrolls have repeatedly shown the Greek preserving an older Hebrew reading that the Masoretic text lost (Deuteronomy 32:8 and 32:43, Psalm 22:16, Jeremiah's shorter text, 1 Samuel's many variants), so that "the Hebrew" the prosecution means is the Masoretic text, a medieval edition whose vowel points were added between the seventh and tenth centuries AD, six hundred years after the apostles and long after the synagogue's own translators had read the consonants their way. "Vowel points Christians cannot read" therefore cuts the other way: the points are the synagogue's later interpretation of a consonantal text the apostles read without them, and the pre-Christian Jewish readings, in Greek and in the Scrolls, are the older witness. The church has read the Hebrew since Origen's *Hexapla* and Jerome's *Hebraica veritas*, and this series' Old Testament volumes were written from it.
+
+**The Exhibits.** Philo, *Life of Moses* 2.37-40; the Letter of Aristeas; 4QDeut(q) (Deuteronomy 32:43) and 4QDeut(j) (32:8); 5/6HevPs (Psalm 22:16); the Aleppo and Leningrad codices (the Masoretic vocalization's date); Tov, *Textual Criticism of the Hebrew Bible*; the orientation page on the Greek Bible.
+
+**The Weight.** *Manuscripts:* the Greek and the Scrolls as pre-Masoretic witnesses. Standard: the count reverses; the Septuagint is the older Jewish reading.
+
+### Count 167. Judaism has no concept of original sin; the Christian problem the cross solves is one the Torah never posed.
+
+**The Prosecution.** The Torah teaches that each person is born pure and chooses; there is no inherited guilt to atone for.
+
+**The Defense.** The Torah teaches that "the intention of man's heart is evil from his youth" (Genesis 8:21), the Psalms that "in sin did my mother conceive me" (51:5), Jeremiah that "the heart is deceitful above all things, and desperately sick" (17:9), Ecclesiastes that "there is not a righteous man on earth who does good and never sins" (7:20), and the rabbis that every human being is born with the *yetzer hara*, the evil inclination, present from the womb; Judaism has no doctrine of inherited guilt in Augustine's form, and neither does the Eastern church, which speaks of ancestral sin as a condition inherited (mortality, the disordered inclination) rather than a guilt imputed. What the cross addresses on the Christian account is the condition Genesis 3 describes and every Jew confesses on Yom Kippur: exile from God's presence, death, and a heart that does not do what it knows. The problem was posed in the garden, and the Torah's whole liturgy was the annual admission of it.
+
+**The Exhibits.** Genesis 3, 8:21; Psalm 51:5; Jeremiah 17:9; Ecclesiastes 7:20; Berakhot 61a (the *yetzer hara*); the Yom Kippur liturgy (*Al Chet*); the Eastern doctrine of ancestral sin (John Meyendorff, *Byzantine Theology*).
+
+**The Standing.** Doctrine. The Augustinian form is disputed within the church; the underlying condition is the Torah's own.
+
+### Count 168. Two thousand years of Christian persecution of Jews is the empirical test of the tree by its fruits.
+
+**The Prosecution.** Restated from Count 150.
+
+**The Defense.** Answered there, and the concession stands.
+
+### The verdict on Part Eight
+
+The Jewish witness has given the court its longest and best day, and the verdict must honor the fact that the two readings of these texts grew up in argument with each other and that neither side's mature reading is older than the first century. What the counts establish, on the record: that the pre-Christian Jewish witnesses, the Septuagint, the Scrolls, and Daniel and Enoch, read the disputed texts in the direction the church took them (the pierced hands of Psalm 22, the individual Servant of Song 4, the divine Son of Man); that the Talmud and Targum read Isaiah 53, Zechariah 12, Psalm 2, and Isaiah 9 of individuals and of the Messiah, and reserved the collective reading of Isaiah 53 for the medieval commentators; that the tradition's own two Messiahs and two manners of arrival are the church's one Messiah in two comings; that the Torah's principle of substitution, the prophets' new covenant, and the tradition's own substitution of prayer for sacrifice after 70 answer the counts on atonement and the eternal law; and that the Masoretic vowel points are later than the apostles' Greek. The counts the defense concedes are recorded: the near fulfillment of Isaiah 7:14, three textual points in Isaiah 53, the ordinary sense of *zera*, the open puzzle of Ezekiel's temple, the contested arithmetic of Daniel 9, and the church's crime against the witness's people, which no verdict on the texts can lessen. The witness and the defense disagree about one man. They read one book, and this handbook's whole series was built on the conviction that reading it together, at full strength on both sides, is the only honest way to argue about him.
+
+---
+
+*Part Eight complete. Next: Part Nine, the philosopher: the two natures, the ignorance of the Son, the justice of the atonement, the tools of history, and divine hiddenness.*
+
+---
+
+## PART NINE: THE PHILOSOPHER
+
+*Witness: the academic skeptic and the analytic philosopher. These are the hardest counts on the docket and the ones most apologetics waves at: not "did it happen?" but "is the claim coherent?" and "could history even establish it?" They are called last among the serious witnesses because the reader has now seen the method work a hundred and sixty times, and because they require the doctrine to be stated precisely, which is what the philosopher rightly demands. Six of the eighteen restate earlier counts and are referred back.*
+
+### Count 169. The ignorance of the Son: an omniscient God does not say "of that day and hour no one knows, not even the Son."
+
+**The Prosecution.** Restated from Count 68, in its sharpest form.
+
+**The Defense.** Answered at Count 68 and developed at Count 173 below: the Son's ignorance is predicated of his human nature, which is the doctrine of the incarnation, and Mark 13:32 places the Son above the angels in the same sentence.
+
+### Count 170. The problem of prayer: if Jesus is God, whom was he praying to? If to a separate person, that is polytheism; if to himself, cosmic theater.
+
+**The Prosecution.** Gethsemane, the high-priestly prayer, "Father, forgive them": either two gods, or one God talking to himself for the audience.
+
+**The Defense.** The dilemma's two horns are the two things the doctrine denies. The Son prayed to the Father, who is a distinct person; that is not polytheism, because the Father and the Son are not two gods but two persons of one God, sharing one nature, which is what "person" and "nature" are for in this vocabulary: a "person" is a who, a "nature" is a what, and there are three whos and one what. Nor is it theater, because the prayer is the real prayer of a real human will, the incarnate Son's, to the Father he loved, in a human agony that the Gospels describe with sweat and tears and that the doctrine says was not pretended; a God who took a human nature took a nature that prays, and prayed with it. The deeper answer is that the Trinity is the claim that God's own life is communion, the Father giving and the Son receiving and returning, eternally, and that the Son's prayers in time are that eternal relation made audible; the church has read John 17 as the sound of the divine life, not a performance of it. The objection assumes God is a single person, which is the premise the doctrine denies, and then finds the doctrine incoherent for not being what it denies.
+
+**The Exhibits.** Mark 14:32-42; John 17; Luke 23:34; the Cappadocian distinction of *hypostasis* and *ousia* (Basil, *Letter* 38); Augustine, *On the Trinity* 1.7-13 (the "form of a servant" rule for reading the prayers).
+
+**The Standing.** Doctrine. Rests on the person-nature distinction, which the objection collapses.
+
+### Count 171. Who died on the cross? God cannot die. If only the human nature died, how does a temporary human death pay an infinite debt? If God died, who ran the universe?
+
+**The Prosecution.** A sharpened form of Counts 1 and 4: either the death was God's, which is impossible, or it was a man's, which is insufficient.
+
+**The Defense.** The person died. That is the church's answer, stated at Constantinople in 553 against those who flinched from it: "one of the Trinity suffered in the flesh." Death is predicated of persons, not of natures; a nature does not die, a someone does, and the someone who died on the cross was the eternal Son, in the human nature that could die, while the divine nature, which cannot, was not extinguished, any more than a man's death extinguishes the atoms he was made of. "Who ran the universe" was answered at Count 1: the Son's upholding of all things was never done from a body. The infinite debt is answered by who paid it: the worth of a sacrifice, in every human reckoning, is measured by the dignity of the one who offers it, which is why a king's life given for his people is not the same gift as a conscript's, and Anselm's argument in *Cur Deus Homo* is that only a person who was both God and man could offer a human death of infinite worth, human because it was the debtor's nature that owed, infinite because the person who offered it was God. The death was not temporary in the sense the objection needs; it was a real death, ended by a resurrection, which is what every Christian hopes for his own. What the objection calls a paradox is the incarnation's central claim, that the infinite entered the finite without ceasing to be infinite, and Count 173 takes that claim's logic.
+
+**The Exhibits.** The Second Council of Constantinople (553), anathema 10; Anselm, *Cur Deus Homo* 2.6-11; Philippians 2:6-8; Hebrews 2:9, 14-15; Acts 20:28 ("the church of God, which he obtained with his own blood"); Count 1.
+
+**The Standing.** Doctrine. Rests on death being predicated of the person and worth of the person's dignity.
+
+### Count 172. The temptation: "God cannot be tempted with evil" (James 1:13), yet Jesus was tempted forty days; if the temptation was genuine he was not God, and if it was not genuine it was theater.
+
+**The Prosecution.** A being who cannot sin cannot be tempted in any sense that matters; the wilderness was a pageant.
+
+**The Defense.** James's sentence concerns the divine nature, which cannot be drawn toward evil; Hebrews's sentence concerns the incarnate Son, "tempted in every respect as we are, yet without sin" (4:15), and both are in the same Bible because both are true of the same person in his two natures. Whether an impeccable person can be genuinely tempted is the philosophical question, and the answer is that temptation is real when the good it offers is really felt as good and the refusal really costs; a man with an unbreakable resolve not to betray his friend, offered a fortune to do so, is genuinely tempted if he feels the fortune's pull and pays the price of refusing it, and his resolve's strength does not make the pull theater. Aquinas's account is that the Son's human will genuinely experienced the attraction of bread, of safety, and of a kingdom without a cross, and genuinely chose against them at a cost the Gospels record in sweat like blood, and that his inability to sin no more emptied the struggle than a bridge's ability to bear ten times its load empties the load. What Christians hold is that he felt every weight we feel, "yet without sin," and the objection's "theater" requires that only a person who might have failed can feel the weight, which is not true even of us.
+
+**The Exhibits.** James 1:13; Hebrews 2:18, 4:15, 5:7-8; Matthew 4:1-11; Luke 22:39-44; Aquinas, *Summa* III.41; Morris, *The Logic of God Incarnate* (1986), ch. 6.
+
+**The Standing.** Doctrine and philosophy. Rests on the two natures and on the nature of temptation.
+
+### Count 173. The Chalcedonian paradox: fully God (immortal, omniscient, impeccable) and fully man (mortal, limited, peccable) are contradictory property-sets; one being cannot have both; the incarnation is a logical impossibility.
+
+**The Prosecution.** A contradiction is not a mystery; a square circle is not deep. If the doctrine says one being is both A and not-A, it says nothing.
+
+**The Defense.** A contradiction is A and not-A in the same respect at the same time, and the doctrine, in its own words, says the opposite: two natures "without confusion, without change, without division, without separation," the properties of each preserved and predicated of one person in respect of the nature to which they belong. The Son is immortal in respect of his divine nature and mortal in respect of his human one; omniscient as God and limited as man; and the objection's task, which it has not attempted, is to show that these are predicated in the same respect, which the definition was written to deny. This is not special pleading; it is how predication works for any being with more than one aspect: a man is visible in respect of his body and invisible in respect of his thoughts, and no one calls him a square circle. The philosopher Thomas Morris's *The Logic of God Incarnate* sets out the position formally: distinguish what is essential to human nature (what a thing must have to be human) from what is merely common to humans (what we all happen to have), and the objection's list of human properties, mortality, ignorance, peccability, falls on the common side, not the essential; Adam before the fall was fully human and, on the Christian account, not yet mortal or sinful; a human nature perfected is still a human nature, and the Son's human nature had every essential property of ours (a body, a rational soul, a will, growth, hunger, fear, death) and none of the defects that are not essential to being human but are common to being fallen. "Fully human" does not mean "as broken as we are"; it means "everything a human is." The paradox the objection feels is real: how one person can live in two natures is not something anyone claims to picture. But a mystery is a claim we cannot fully conceive; a contradiction is a claim we can see to be false; and the burden of showing which this is lies with the one who says "contradiction," and has for fifteen centuries.
+
+**The Exhibits.** The Chalcedonian Definition (451); Leo's *Tome* (449); Morris, *The Logic of God Incarnate* (1986), chs. 2-4; Swinburne, *The Christian God* (1994), ch. 9; Aquinas, *Summa* III.16 (the *communicatio idiomatum*).
+
+**The Standing.** Philosophy. Rests on "in the same respect" being the test of contradiction, and on the distinction between essential and common human properties.
+
+### Count 174. The moral asymmetry of substitutionary atonement: punishing an innocent volunteer and releasing the guilty is corruption in any system of justice.
+
+**The Prosecution.** No judge may let a volunteer serve a murderer's sentence; the cross makes cosmic justice the one thing every court forbids.
+
+**The Defense.** Three things the objection has not taken into account, and one concession. The concession: a version of the doctrine that pictures the Father punishing an unwilling third party to satisfy an abstract law is a caricature, and some sixteenth-century formulations came close enough to it to earn the objection; the church's teaching is wider and older. First, the one who bears the cost is the one who was wronged: "God was in Christ reconciling the world to himself" (2 Corinthians 5:19), and the Son who offers himself is one God with the Father who accepts the offering, so the transaction is not judge, criminal, and stranger, but the offended party absorbing the offense, which is what every act of forgiveness in human life does (Count 2), and which no court forbids, since a creditor may cancel a debt at his own expense. Second, the substitution is not between strangers but within a union: the New Testament's whole vocabulary is "in Christ," "one body," the second Adam standing for the race as the first did, so that the believer's sin is borne by the one he is joined to, the way a family's debt is borne by its head, and the believer's life is Christ's; Paul calls it dying and rising with him, not watching him. Third, the church has never made one model of the atonement dogma; it has held together the Christus Victor of the fathers (the cross as the defeat of death and the devil), the satisfaction of Anselm, the recapitulation of Irenaeus (Christ retracing Adam's steps and getting them right), the moral influence of Abelard, and the substitution of the Reformers, each a facet, none the whole, and the objection has attacked one facet as if it were the stone. The human intuition the objection appeals to, that the guilty should pay and the innocent should not suffer, is the intuition the cross satisfies rather than violates: someone paid, and it was not a bystander; it was the judge, who stepped down from the bench.
+
+**The Exhibits.** 2 Corinthians 5:18-21; Romans 5:12-21, 6:1-11; Galatians 2:20; Isaiah 53:4-6; Irenaeus, *Against Heresies* 5; Athanasius, *On the Incarnation* 8-10; Anselm, *Cur Deus Homo*; Aulén, *Christus Victor* (1931); Stott, *The Cross of Christ* (1986), ch. 6 (the self-substitution of God); Count 2.
+
+**The Standing.** Doctrine and ethics. Rests on who the substitute is and on the union between the substitute and the substituted.
+
+### Count 175. The triviality of the "infinite sacrifice": a being certain of rising in thirty-six hours and reigning forever has had a bad weekend.
+
+**The Prosecution.** Restated from Count 4, at the philosopher's pitch.
+
+**The Defense.** Answered at Count 4 on the content of the cost, the forsakenness rather than the duration; the philosopher's version adds the claim that certainty of the outcome empties the sacrifice, and the reply is that the sacrifice, on the church's account, was not the weekend but the incarnation itself: "though he was in the form of God... he emptied himself, taking the form of a servant" (Philippians 2:6-7), the eternal Son's assumption of a creature's life, with its hunger, weariness, and death, for a duration that does not end, since the risen body is still a body and the Son is still man. The cross was the bottom of a descent that began at Bethlehem and was not undone at Easter; the resurrection did not return the Son to what he was before, it raised the man he had become. A "bad weekend" describes an episode; the doctrine describes a permanent condescension, and the certainty of vindication no more trivialized the dying than a soldier's certainty that his country will win trivializes his death for it.
+
+**The Exhibits.** Philippians 2:5-11; Hebrews 2:9-18; Luke 24:39; Count 4.
+
+### Count 176. The criterion of dissimilarity self-defeat: the historian's tool for recovering the historical Jesus systematically strips out every divinity claim, so his divinity cannot be historically defended.
+
+**The Prosecution.** A saying is judged authentic if it is dissimilar to both Judaism and the early church, because only such sayings cannot have been borrowed or invented; applied honestly, that removes every "Son of God" claim as church theology.
+
+**The Defense.** The criterion was designed to establish a minimum, a bedrock of sayings that even the most skeptical must grant, and using it to establish a maximum, "only what passes is authentic," is a fallacy its own designers acknowledged; John Meier and E. P. Sanders both warn that dissimilarity, so used, produces a Jesus dissimilar to everything, who taught nothing his followers repeated and nothing his people believed, which is not a historical figure but a residue. Applied to the divinity claims, the criterion also cuts the other way: a Galilean Jew claiming to forgive sins and to be Daniel's Son of Man was dissimilar to Judaism, which is the point of the blasphemy charge, and the awkward, indirect form of the Synoptic claims (Count 67) is dissimilar to the church's later, direct ones, which is why the church did not invent them in that form. The claims pass the criteria the field actually weighs most, multiple attestation (Mark, Q, M, L, John, Paul) and embarrassment (the "not even the Son knows" that a divinizing church would never have written), and the newer criterion of historical plausibility (Theissen), which asks what makes sense of the effects, has to account for a movement worshiping its founder as Lord within a year or two of his execution, which a Jesus who never claimed anything does not explain. Sanders's own reconstruction, no apologist's, has Jesus seeing himself as God's final agent with authority over the temple; the historical tools, honestly used, return a man who claimed a great deal.
+
+**The Exhibits.** Meier, *A Marginal Jew*, vol. 1, ch. 6; Sanders, *Jesus and Judaism* (1985), pp. 16-17, 319-340; Theissen and Winter, *The Quest for the Plausible Jesus* (2002); Hurtado, *Lord Jesus Christ*; Count 67.
+
+**The Standing.** Method. Rests on the criterion's proper use as a floor, not a ceiling.
+
+### Count 177. The Paul-Gospels disconnect: the earliest Christian writings show almost no interest in Jesus's earthly life.
+
+**The Prosecution.** Restated from Count 22.
+
+**The Defense.** Answered there: Paul's letters affirm the birth, the Davidic descent, the brother, the betrayal night, the teaching on divorce and on the support of preachers, the crucifixion, the burial, the appearances, and the character ("the meekness and gentleness of Christ"), and are occasional letters to churches that already had the story, not biographies.
+
+### Count 178. The messianic secret as damage control for a Jesus no one remembered as Messiah.
+
+**The Prosecution.** Restated from Count 47.
+
+**The Defense.** Answered there: the secret has a historical explanation (the wrong Messiah the crowds wanted to crown, John 6:15), it is broken at the trial, and the inscription on the cross records the charge the objection says no one made.
+
+### Count 179. The total absence of contemporary impact: a torn veil, darkness, and a resurrection, and no ripple in Roman or Jewish records; Christianity conquered by Constantine three centuries later.
+
+**The Prosecution.** An event of that magnitude would have shaken the empire; instead, silence, then politics.
+
+**The Defense.** The objection expects the wrong ripple. The resurrection, on the Gospels' own account, was not a spectacle staged before Rome (Count 7); it was an event witnessed by a few hundred people in one province and proclaimed by them, and the ripple it made is exactly the one such an event would make: within twenty years a Roman biographer records Jews expelled from Rome over "Chrestus" (49), within eighty a Roman governor at the empire's edge reports temples emptied by Christ-worshipers (112), within ninety a Roman senator records the founder's execution and the "immense multitude" of his followers in Rome (Tacitus), and within three centuries the empire's own calendar counts from his birth. The Jewish records are not silent: the Talmud records his execution at Passover (Count 28) and the four omens of AD 30 (Yoma 39b), and the priest Josephus records his brother's death and the movement's persistence. "Conquered by Constantine" was refuted at Count 57: the growth came under persecution, and Constantine joined what had already won. The objection asks why the Roman archives do not record a resurrection; the answer is that Rome kept no archive of Judean tombs, and that the effect the resurrection was meant to have, on the Gospels' terms, was on the people who saw it, who then turned the empire over in the only way Jesus had said they would, one witness at a time.
+
+**The Exhibits.** Suetonius, *Claudius* 25; Pliny, *Letters* 10.96; Tacitus, *Annals* 15.44; Yoma 39b; Josephus, *Antiquities* 20.200; Counts 7, 19, 57.
+
+**The Standing.** History. The premise (no ripple) is false on the record; the expected ripple is a misreading of the claim.
+
+### Count 180. Divine hiddenness, resurrection version: why appear only to devoted, grieving followers and not to Pilate, the Sanhedrin, or the crowds?
+
+**The Prosecution.** Restated from Counts 7 and 114.
+
+**The Defense.** Answered there: he appeared to the hostile (James, Paul), the Sanhedrin had already responded to a resurrection by plotting to kill Lazarus, and the method was witness rather than compulsion.
+
+### Count 181. Blind faith praised: "blessed are those who have not seen and yet have believed" rewards credulity and penalizes Thomas's healthy skepticism.
+
+**The Prosecution.** The one disciple who demanded evidence is gently rebuked; the ones who believe without it are blessed. The passage is a charter for gullibility.
+
+**The Defense.** Thomas was given the evidence he demanded, and was not rebuked for demanding it; he was invited to touch, and his response was the highest confession in the Gospel, which is left standing as the Gospel's climax. The blessing that follows is addressed, in John's own next sentence, to the readers of the book: "these are written so that you may believe" (20:31), that is, to everyone after the first generation, who cannot touch the wounds and must believe, if they believe, on the testimony of those who did, which is how every court, every history, and every science works for events one did not witness oneself. The blessing is not on believing without evidence; it is on believing on testimony, which is the only way ninety-nine percent of what anyone knows is known. Thomas's skepticism was healthy, and the Gospel honors it by recording it, and by giving it what it asked for; the reader's position is different, not worse, and the blessing says so.
+
+**The Exhibits.** John 20:24-31; Luke 1:1-4; 1 John 1:1-3; Count 106.
+
+**The Standing.** Text and epistemology. Rests on testimony as a source of knowledge, which the objection's own discipline depends on.
+
+### Count 182. The Canaanite woman: Jesus called a desperate mother's people "dogs" before helping her.
+
+**The Prosecution.** Matthew 15:26: "it is not right to take the children's bread and throw it to the dogs." An ethnic slur from the mouth of God.
+
+**The Defense.** Read the scene to its end, which the objection stops short of. The word is *kynaria*, the diminutive, "little dogs," the household pets under the table, not the street dogs of the insult; Mark's version has "let the children be fed first" (7:27), first, not only; the exchange is a test of the woman's wit and faith, which she wins ("even the dogs eat the crumbs that fall from their masters' table"), and Jesus's response is the highest praise he gives anyone in the Gospels, "O woman, great is your faith!", said elsewhere only to a Roman centurion, another Gentile. The scene's point, in a Gospel written for Jewish Christians, is that a Gentile woman's faith outran Israel's, and it sits in a Gospel whose Jesus heals the centurion's servant, praises the Samaritan, and ends by sending his disciples to all nations. The "slur" is the setup of a story whose punchline is her vindication, and the mission order it reflects, Israel first and then the nations, is Paul's ("to the Jew first and also to the Greek") and Isaiah's before him.
+
+**The Exhibits.** Matthew 15:21-28; Mark 7:24-30; Matthew 8:5-13; Romans 1:16; Isaiah 49:6.
+
+**The Standing.** Text. The objection quotes the setup and omits the resolution.
+
+### Count 183. Luke 12:47: Jesus's parable treats beating slaves as an accepted norm.
+
+**The Prosecution.** Restated from Count 74.
+
+**The Defense.** Answered there: parables use the world as it was, including unjust judges and dishonest stewards, without endorsing it, and the New Testament's own doctrines are the ones that ended slavery.
+
+### Count 184. The lack of scientific foresight: Jesus shared no medical or sanitary knowledge that would have saved millions, and attributed epilepsy to demons.
+
+**The Prosecution.** One sentence about washing hands or boiling water would have outweighed every parable; instead, superstition reinforced.
+
+**The Defense.** The objection assumes the mission was public health, which neither the Gospels nor the church ever claimed; the Son came, on his own account, to seek and save the lost, and what he did about disease was heal it, in a way the objection's germ theory could not have. The Torah he taught already contained, for its time, the most advanced sanitary code in the ancient world: quarantine for infectious disease, washing after contact with the dead and with discharges, burial of waste outside the camp (Deuteronomy 23:12-13), and the inspection of skin disease by a priest, practices whose value modern medicine recognized only in the nineteenth century, and the hospitals that carried medicine to the poor were the church's invention (Part Four's discussion in the Old Testament series). On demons: Matthew 4:24 lists the demon-possessed and the epileptic as separate groups, so the Gospels distinguished them; the boy of Mark 9 is described with the symptoms of a seizure disorder in accurate detail, and whether a spiritual affliction can accompany a physical one is a metaphysical question the objection has decided by assumption, not a medical error the text made. What Jesus did share, and what the objection omits, is the doctrine that every sick person bears God's image and is a neighbor, which is why his followers built the institutions the objection wishes he had described.
+
+**The Exhibits.** Leviticus 13-15; Numbers 19; Deuteronomy 23:12-14; Matthew 4:23-24; Mark 9:14-29; Luke 10:25-37; Luke 19:10; the history of the hospital (Count 100's series discussion).
+
+**The Standing.** Doctrine and history. Rests on what the mission was and on the Torah's sanitary law.
+
+### Count 185. The evolution of Christology from Mark to John tracks the growth of a myth.
+
+**The Prosecution.** Restated from Count 67.
+
+**The Defense.** Answered there: the divine prerogatives are in Mark and Q, the Lord-texts and Maranatha are in Paul before Mark, and Ehrman's own conclusion is that the belief was "immediate."
+
+### Count 186. The Sanhedrin's and Rome's missing trial records.
+
+**The Prosecution.** Restated from Count 19.
+
+**The Defense.** Answered there: no trial record survives for anyone Pilate executed, and the Judean archives burned in 70.
+
+### The verdict on Part Nine
+
+The philosopher has asked the questions the doctrine was built to answer, and the court records that the answers are older than the questions: the person-nature distinction of the fourth century, Chalcedon's "in the same respect" of the fifth, the theopaschite formula of the sixth, the two wills of the seventh, Anselm's dignity of the offerer in the eleventh, and the modern analytic defenses of the whole (Morris, Swinburne) that take the objection at full strength and show it has not been made out. None of it is proof; the incarnation is a mystery in the proper sense, a claim beyond conceiving, and the defense claims only that it is not a contradiction, which is what the witness asserted. The counts on method (dissimilarity, the missing ripple, Thomas) are answered on the witness's own discipline. What the philosopher has not done, and what no witness in nine parts has done, is offer an account of the empty tomb, the appearances, the converted enemy, and the martyred eyewitnesses that survives cross-examination. The court's remaining business is short: the minor witnesses, the comparables, and the method of the verdict.
+
+---
+
+## PART TEN: THE SATANIST AND THE NIETZSCHEAN
+
+*Witness: LaVey, Crowley, and Nietzsche, whose objections are not to the evidence but to the values, and who deserve a shorter hearing because they concede the history and dispute the worth.*
+
+### Count 187. Christianity is slave morality: it glorifies weakness, guilt, and submission, and hates the strong and the beautiful.
+
+**The Prosecution.** Nietzsche's *Genealogy of Morals*: the values of the meek, the poor, and the sick, imposed on the noble by resentment.
+
+**The Defense.** Nietzsche described the thing accurately and the church takes the description: Christianity did invert the ancient world's valuation, dignifying the slave, the child, the woman, the sick, and the enemy, and Nietzsche was honest enough to hate it for that rather than deny it. The dispute is not about facts but about whether the inversion was right, and the twentieth century ran the experiment on Nietzsche's alternative, the will to power unbound, and the results are in the ground in Europe. The "weakness" charge also misdescribes the practitioners: Paul, Augustine, Aquinas, Francis, Newton, Pascal, Wilberforce, Bonhoeffer, and the nuns who ran the plague hospitals were not weak, and the Sermon on the Mount is the hardest ethical demand ever made, requiring more strength to keep than any code of the noble. The Christian claim is that true strength is the strength to lay power down, which the Son did, and that the noble who cannot do it are the slaves, of themselves.
+
+**The Exhibits.** Nietzsche, *On the Genealogy of Morals* I; Matthew 5-7; Philippians 2:5-11; Holland, *Dominion*, ch. 21 (Nietzsche read correctly).
+
+**The Standing.** Values. The description conceded; the evaluation reversed.
+
+### Count 188. Lucifer is the light-bringer who gave man knowledge; the serpent told the truth in Eden and God lied ("you shall surely die").
+
+**The Prosecution.** They ate and did not die; the serpent's promise, that their eyes would be opened, came true; the God who forbade knowledge was the jailer.
+
+**The Defense.** "Lucifer" is the Vulgate's Latin for the "day star" of Isaiah 14:12, a taunt against the king of Babylon, and became a name for the devil by later association; the light-bringer of the Satanist is a Latin translation of a Babylonian king. In Eden, the serpent's "you will not surely die" was answered by the text: they died that day in the sense the story means, cut off from the tree of life and the presence of God, and in the flesh afterward, which is what "in the day you eat of it" meant to a reader who knew that exile is death. The serpent's other promise, "you will be like God, knowing good and evil," came true in the way a lie comes true: they knew evil by committing it, and the knowledge was the loss of innocence, not enlightenment, which is why the first thing they did with it was hide. The tree was not knowledge in general (they had names for every animal and tended a garden), it was the knowledge of good and evil taken by grasping rather than received by trust, the autonomy that the Satanist prizes and the story diagnoses as the fall.
+
+**The Exhibits.** Isaiah 14:12-15; Genesis 2:16-17, 3:1-24; Ezekiel 28 (the other "fall" text); Romans 5:12.
+
+**The Standing.** Text. The "Lucifer" name is a translation artifact; the serpent's promises are fulfilled as lies are.
+
+### Count 189. The God of the Bible demands blood, fear, and self-denial; Satanism affirms life, pleasure, and the self.
+
+**The Prosecution.** LaVey's *Satanic Bible*: indulgence instead of abstinence, vital existence instead of spiritual pipe dreams.
+
+**The Defense.** Blood was answered at Count 3 (God does not need it; the cross was his own), fear at Count 116 ("perfect love casts out fear"), and self-denial is the New Testament's method for the self's fulfillment, not its extinction: "whoever loses his life for my sake will find it," the seed that dies to bear fruit, the "life abundantly" that Jesus said he came to give (John 10:10). The Christian claim is that the self, indulged, shrinks, and that every addiction and every tyranny is the demonstration; the Satanist's "vital existence" is what the Bible calls the flesh, and its history is the shortest of any philosophy on offer, since it ends where its practitioners do. Chesterton's line is the answer: the Christian has "the rushing joy of pardon" and the pagan the "settled sorrow" of the world's pleasures, which run out.
+
+**The Exhibits.** John 10:10, 12:24-25; Mark 8:34-37; Galatians 5:16-24; 1 John 4:18; Chesterton, *Orthodoxy*, ch. 9.
+
+### Count 190. Jesus's teaching produces guilt, sexual repression, and self-hatred.
+
+**The Prosecution.** The command to be perfect, the lust of the heart as adultery, the hatred of the body: a religion of shame.
+
+**The Defense.** Guilt, in the Christian account, is to wrongdoing what pain is to injury, a signal that something is wrong, and the gospel's whole purpose is its removal, "there is therefore now no condemnation" (Romans 8:1); a religion that made guilt permanent would have no forgiveness to offer, and this one has nothing else. The command to love one's neighbor "as yourself" presupposes self-love as the measure; the body is "the temple of the Holy Spirit," to be raised, and the hatred of it is the Gnostic error the church condemned (Count 55). Sexual restraint the Christian ethic does demand, as every serious ethic has, and whether that is "repression" or the condition of love is a question the objection settles by naming it. The self-hatred the objection describes is real in some Christian lives and is a distortion the tradition's own doctors (Augustine on the goodness of creation, Aquinas on the passions, Julian of Norwich on the love that holds all things) spent their lives correcting.
+
+**The Exhibits.** Romans 8:1; Mark 12:31; 1 Corinthians 6:19-20; Genesis 1:31; Aquinas, *Summa* I-II.24 (the passions as good); Julian of Norwich, *Revelations*, ch. 5.
+
+### Count 191. The church invented the devil to control people through fear of hell.
+
+**The Prosecution.** A medieval instrument of power, with horns added for effect.
+
+**The Defense.** The adversary is in the Hebrew Bible (Job 1-2; Zechariah 3; 1 Chronicles 21:1), developed in the Jewish literature between the Testaments (Enoch, Jubilees, the Qumran War Scroll), and taught by Jesus in the earliest strata of the Gospels, which is to say the doctrine predates the church by centuries and the church's power by more. The horns are medieval art, borrowed from pagan imagery; the doctrine is that there is a personal will set against God's, which is the only account of evil that takes evil's intelligence seriously. Control by fear was answered at Count 116; the church's own saints treated the devil with contempt rather than terror (Luther threw an inkwell), and the New Testament's word on the subject is "resist him, firm in your faith."
+
+**The Exhibits.** Job 1-2; Zechariah 3:1-2; 1 Enoch 6-16; Mark 1:12-13, 3:22-27; 1 Peter 5:8-9; James 4:7.
+
+### Count 192. Christianity plagiarized its holidays, symbols, and rituals from paganism: Easter from Eostre, Christmas from Saturnalia, the cross from Tammuz.
+
+**The Prosecution.** The Christian year is a pagan year with new labels.
+
+**The Defense.** The English word "Easter" comes, on Bede's eighth-century guess, from an Anglo-Saxon month name; in every other language the feast is *Pascha*, Passover, its date fixed by the Jewish calendar from the first century, and its content the resurrection, which no Anglo-Saxon goddess supplied. December 25 is not in the Bible, was settled in the fourth century, and the older scholarly account (the "computation hypothesis") derives it not from Saturnalia but from a Christian calculation that Jesus was conceived on the date of his death, March 25, and born nine months later; whether or not the church also chose to baptize a solstice, the date of a feast is not the content of a faith, and the faith was proclaiming the birth before it had a date for it. The cross "from Tammuz" comes from Alexander Hislop's *The Two Babylons* (1853), a book discredited by every historian who has examined it; the cross is the Roman instrument on which a man was executed, adopted as a symbol because of what happened on it, and the earliest Christian use of it is the Alexamenos graffito, drawn by a pagan to mock. Where the church did adopt a pagan date or place (Gregory the Great advised it), the practice was to replace the content, which is not plagiarism but conquest, and the objection's own sources say so.
+
+**The Exhibits.** Bede, *De Temporum Ratione* 15; Tertullian, *On the Passover*; Talley, *The Origins of the Liturgical Year* (1986); Hislop, *The Two Babylons* (1853) and Woodrow's retraction, *The Babylon Connection?* (1997); Gregory the Great, letter to Mellitus (Bede, *History* 1.30).
+
+### Count 193. "Do what thou wilt" is more honest than "thy will be done."
+
+**The Prosecution.** Crowley's law: the self's will as the only law, without the hypocrisy of submission.
+
+**The Defense.** The two sentences are the two options at Gethsemane, and the defense agrees that they are the whole choice. "Do what thou wilt" is not new; it is Judges' epitaph on an age, "everyone did what was right in his own eyes," and Genesis's account of the fall; it is the sentence every human being already lives by, which is why no one needs a religion to teach it. Its honesty is the honesty of describing where we start. "Thy will be done" is the harder sentence and the one that took a garden and a cross to say, and the Christian claim is that it is where freedom is found, since a will bent on itself is the definition of a prison. Crowley took his maxim from Rabelais's fictional abbey; Jesus took his from a night he did not want.
+
+**The Exhibits.** Luke 22:42; Judges 21:25; Genesis 3:5-6; Rabelais, *Gargantua* 57; Augustine, *Confessions* 8.
+
+### The verdict on Part Ten
+
+The witness has not disputed a fact in the case, and the court records his testimony as the most honest of the prosecution's: he agrees on what Christianity is and objects to its being good. That is a dispute about values, which the juror will settle by his own, and the defense's only submission is that the objection's alternative was tried at scale within living memory.
+
+---
+
+## PART ELEVEN: THE OTHER JESUSES
+
+*Witness: the traditions that honor Jesus and redefine him: Jehovah's Witnesses, the Latter-day Saints, the Ahmadiyya, and the New Age. Short counts, because each turns on a text or a fact.*
+
+### Count 194. John 1:1 should read "the Word was a god" (Jehovah's Witnesses).
+
+**The Prosecution.** The Greek lacks the article before "God" in the last clause (*theos ēn ho logos*); the New World Translation renders it "a god," and the Trinitarian reading adds what the Greek omits.
+
+**The Defense.** The absence of the article in a predicate noun placed before the verb is ordinary Greek for a qualitative statement, "the Word was God" in nature, "what God was, the Word was," and every standard grammar says so (Colwell's rule and its refinements); "a god" would require John, a monotheist who has just said the Word was "with God" in the sense of the one God, to introduce a second deity in his first sentence. The New World Translation's own practice convicts it: the same construction, an anarthrous *theos*, appears elsewhere in John 1 (verses 6, 12, 13, 18), and the translation renders every one of them "God," reserving "a god" for the one verse its theology needs.
+
+**The Exhibits.** John 1:1-18 (Greek); Colwell, "A Definite Rule for the Use of the Article in the Greek New Testament," *JBL* 52 (1933); Wallace, *Greek Grammar Beyond the Basics*, pp. 256-270; Metzger, "The Jehovah's Witnesses and Jesus Christ," *Theology Today* 10 (1953).
+
+### Count 195. Jesus is Michael the archangel (Jehovah's Witnesses).
+
+**The Prosecution.** The Son is God's first creation, the archangel, through whom the rest was made.
+
+**The Defense.** Hebrews 1 is written to deny it: "to which of the angels did God ever say, 'You are my Son'?... And let all God's angels worship him... but of the Son he says, 'Your throne, O God, is forever and ever'" (1:5-8). Michael is "one of the chief princes" (Daniel 10:13), and Jude has him decline to rebuke the devil on his own authority (Jude 9), where Jesus rebukes demons on his; no text of Scripture identifies the two, and the one that compares the Son to the angels ranks him above them as their Creator (Colossians 1:16, "all things were created through him and for him... whether thrones or dominions or rulers or authorities," which is where the angels are).
+
+**The Exhibits.** Hebrews 1:1-14; Daniel 10:13; Jude 9; Colossians 1:15-20; Revelation 5:11-14 (the angels worship the Lamb).
+
+### Count 196. The church fell into total apostasy after the apostles; the true gospel was restored in 1830 (Latter-day Saints).
+
+**The Prosecution.** Priesthood authority was lost; the creeds are an abomination; Joseph Smith restored what Rome had corrupted.
+
+**The Defense.** Jesus promised that "the gates of hell shall not prevail" against his church (Matthew 16:18) and that he would be with it "always, to the end of the age" (28:20); a total apostasy of eighteen centuries is the failure of both promises. The historical record shows continuity, not rupture: Clement of Rome writing in 96 to a church that knew Peter and Paul, Ignatius on his way to the lions in 110 with a doctrine of the church and the Eucharist, Irenaeus around 180 tracing the bishops of Rome by name from the apostles, and the same Scriptures, sacraments, and creed from the second century to the nineteenth. The Book of Mormon's account of pre-Columbian America has no archaeological support and a series of anachronisms (horses, steel, wheat, chariots, and coined money in the Americas before Columbus; the Smithsonian and the National Geographic Society have stated in writing that their archaeologists find no connection between its narrative and the record), which is a test the New Testament's geography, offices, and names pass at every point (Count 32).
+
+**The Exhibits.** Matthew 16:18, 28:20; 1 Clement; Ignatius, *Smyrnaeans* 8; Irenaeus 3.3; the Smithsonian Institution's statement on the Book of Mormon (1996); Coe, "Mormons and Archaeology: An Outside View," *Dialogue* 8 (1973).
+
+### Count 197. Jesus visited the Americas after his resurrection (Latter-day Saints).
+
+**The Prosecution.** 3 Nephi records his ministry to the Nephites.
+
+**The Defense.** The claim rests on the Book of Mormon alone, whose historical basis Count 196 addresses; no text, tradition, or artifact outside it knows of the visit, and the peoples it describes have left no trace where it places them.
+
+### Count 198. Jesus survived the cross and died in Srinagar (Ahmadiyya).
+
+**The Prosecution.** Restated from Count 78.
+
+**The Defense.** Answered there, and at Count 85 on the survival.
+
+### Count 199. Jesus was an enlightened teacher like Buddha; the "Christ" is a state of consciousness; "the kingdom of God is within you" (New Age).
+
+**The Prosecution.** The historical Jesus attained Christ-consciousness, which anyone may attain; the church made a person of a principle.
+
+**The Defense.** Luke 17:21's "within you" (*entos hymōn*) is addressed to Pharisees who were asking when the kingdom would come, and means "in your midst," the King standing before them; the sentence is about his presence, not their interior. "Christ" is not a state but a title, "the Anointed," Israel's Messiah, and the Gospels' Jesus claims it as a person who forgives, judges, and dies for the sins of others, which no state of consciousness does; the Buddha, whom the objection compares him to, claimed to have found a path and denied being a savior, while Jesus claimed to be the path ("I am the way"). The New Age Christ is the Gnostic one of Count 49, a second-century revealer of inner secrets, dressed in twentieth-century vocabulary, and the same dating problem applies: the earliest sources know a Jew from Galilee, not a Himalayan adept.
+
+**The Exhibits.** Luke 17:20-21 (Greek); John 14:6; Mark 2:5-12; the Gospel of Thomas 3 (the Gnostic "kingdom within" in its original form); Count 49.
+
+### Count 200. All religions lead to the same God; Jesus is one path among many.
+
+**The Prosecution.** Restated from Count 115, with the parable of the blind men and the elephant.
+
+**The Defense.** Answered there. The elephant parable presumes that its teller can see the elephant, which is the claim to sight it denies everyone else; and the religions' paths lead to incompatible destinations by their own descriptions (extinction of the self, absorption into the One, judgment before a personal God), so "the same God" is a claim none of them makes about the others. Jesus's own claim was exclusive about the road and inclusive about the travelers (Count 16), and the court has tried it on its evidence, which is what a path among many would not have.
+
+### The verdict on Parts Ten and Eleven
+
+The minor witnesses have shortened the trial. The Satanist concedes the history and disputes the values; the other Jesuses each rest on a single text misread or a single document without support; and none has offered the court an account of the empty tomb. The prosecution rests.
+
+---
+
+*Parts Nine, Ten, and Eleven complete. Next: Part Twelve, the Comparables (Jesus beside Alexander, Caesar, Tiberius, Socrates, Hannibal, the Buddha, and Muhammad on one scorecard), and Part Thirteen, the Verdict Method.*
+
+---
+
+## PART TWELVE: THE COMPARABLES
+
+*The same scorecard, applied to everyone else. The prosecution's counts on the sources (Parts Two and Three) all assume a standard: contemporary records, named authors, eyewitness memoirs, archives. This part asks whether anyone in the ancient world meets it, and then whether anyone in the modern world does, so the juror can see what the evidence for Jesus looks like beside the evidence for figures no one doubts.*
+
+### The scorecard
+
+| Figure | Died | Earliest surviving narrative source | Sources from his own side | Hostile or neutral sources | Contemporary archaeology naming him | His own writings | Manuscript tradition |
+|---|---|---|---|---|---|---|---|
+| **Jesus of Nazareth** | AD 30 | Paul's letters, 20 years; the creed, 5 years; Mark, 40 years; all four Gospels within 70 | Paul, four Gospels (four independent streams), Acts, the creed | Josephus, Tacitus, Pliny, Suetonius, Lucian, Mara bar Serapion, the Talmud, Celsus | None naming him; his judge (Pilate Stone), his high priest (Caiaphas ossuary), his proconsul (Gallio), and his brother's death (Josephus) confirmed | None | c. 5,800 Greek MSS; earliest fragment within decades (P52); complete by the 4th c. |
+| **Alexander the Great** | 323 BC | Diodorus, c. 290 years; Arrian and Plutarch, c. 450 years; all contemporary histories lost | The lost contemporaries (Ptolemy, Aristobulus) known only through Arrian | None hostile survive | Coins and inscriptions of his reign | None survive | Arrian: a handful of MSS, earliest 12th c. |
+| **Julius Caesar** | 44 BC | His own *Gallic War* and *Civil War*; Cicero's letters (contemporary); Suetonius and Plutarch, c. 150 years | Himself; his officers (Hirtius) | Cicero (ambivalent); the Pompeian tradition through Lucan | Coins, inscriptions, the Forum | Yes | *Gallic War*: c. 10 good MSS, earliest 9th c., a 900-year gap |
+| **Tiberius** | AD 37 | Velleius (contemporary, a brief panegyric); Tacitus, c. 80 years; Suetonius, c. 100; Dio, c. 200 | Velleius | Tacitus, Suetonius (both hostile) | Coins, inscriptions, the Villa Jovis | None survive | Tacitus, *Annals* 1-6: one manuscript, 9th c. |
+| **Socrates** | 399 BC | Plato and Xenophon (disciples, within years); Aristophanes, *Clouds* (hostile, in his lifetime) | Two disciples | One hostile comedy | None | None; he wrote nothing | Plato: earliest complete MSS 9th c. |
+| **Hannibal** | 183 BC | Polybius, c. 50 years (a Greek in Roman service); Livy, c. 170 years | None; every Carthaginian record was destroyed with Carthage | All: every source is Roman or pro-Roman | Coins from his campaigns | None | Livy: incomplete, medieval MSS |
+| **Boudica** | AD 61 | Tacitus, c. 40 years; Dio, c. 150 years | None | Both sources Roman | None naming her; the burnt layer of London | None | As Tacitus |
+| **The Buddha** | c. 400 BC | The Pali canon, committed to writing c. 1st c. BC after 300 to 400 years of oral transmission; the first full biography (*Buddhacarita*), c. 500 years | The monastic tradition | None | None from his lifetime | None | Earliest MSS (Gandharan scrolls) c. 1st c. BC to 1st c. AD, fragmentary |
+| **Muhammad** | AD 632 | The Qur'an (his lifetime; standardized c. 650); the first biography, Ibn Ishaq, c. 135 years, surviving only in Ibn Hisham's revision, c. 200 years; the hadith collections (Bukhari), c. 240 years | The Islamic tradition | The *Doctrina Jacobi* (c. 634-640) and Thomas the Presbyter (c. 640), Christian notices of "the Arabs of Muhammad," earlier than any Muslim biography | Coins and inscriptions from the 690s (the Dome of the Rock) | The Qur'an, as recited | Qur'an: early fragments (Birmingham, Sana'a) 7th c.; the *Sira* in later MSS |
+
+### What the scorecard shows
+
+Read the columns, not the names. On the earliest narrative source, Jesus is within a generation and every ancient figure but Socrates and Caesar is worse, most of them by centuries; Alexander's contemporaries are known only because a writer four hundred and fifty years later quoted them, and no one doubts Alexander. On sources from his own side, Jesus has more than anyone in the table, and they are independent of one another; Hannibal has none at all, and no one doubts Hannibal. On hostile corroboration, Jesus has eight named non-Christian sources within two centuries, more than any other figure on the list; Boudica has two, both from the empire she fought, and no one doubts Boudica. On contemporary archaeology, Jesus has none naming him, like Socrates, Hannibal's fellow generals, and Boudica, and unlike the kings and emperors whose coins carried their faces, which is what one expects of a provincial teacher with no coinage; but his judge, his high priest, his proconsul, and his brother's death are all confirmed in stone or in Josephus, and that is more than the archaeology has done for Socrates. On his own writings, Jesus wrote nothing, like Socrates, the Buddha, and (in surviving form) Alexander and Tiberius, and Socrates is the closest parallel in the whole table: a teacher who wrote nothing, known through two disciples and one hostile contemporary, whose existence no historian has ever questioned. On the manuscript tradition, Jesus is not comparable to anyone; the New Testament's coverage exceeds that of every other ancient text by two orders of magnitude, and its earliest fragment is closer to its composition than any other text's by centuries.
+
+The prosecution's standard, applied consistently, would remove Alexander, Hannibal, Boudica, the Buddha, and most of the Roman emperors from history, and would leave Muhammad known only through two Christian notices of a prophet among the Arabs, since every Muslim narrative source is later than every Christian source for Jesus by a century or more. The historians who study these figures do not apply that standard, because it is not the standard of history; it is a standard invented for one man.
+
+### The modern comparables
+
+The prosecution might reply that ancient history is simply thin, and the standard should be a modern one. Then take modern figures, universally accepted, and ask what the evidence is.
+
+**Sacagawea (died 1812).** She is on an American coin, in every schoolbook, and in a thousand statues. The evidence for her is the journals of the men she traveled with, Lewis, Clark, and three sergeants, who spell her name eight different ways and mention her in passing; a fur trader's journal entry in 1812 noting that "the wife of Charbonneau" had died; and nothing else. No portrait from life, no writing of her own, no birth record, no certain grave, and a tradition among the Shoshone that she lived until 1884 which historians reject on the journals' authority. Her existence rests on the accounts of her companions, written on the journey, which is exactly the shape of the evidence the prosecution rejects for Jesus, and no one doubts her.
+
+**John Chapman, "Johnny Appleseed" (died 1845).** Accepted as a real man by every historian who has looked, and the evidence is a handful of land deeds, a few contemporary mentions in letters and a missionary report, and a set of recollections gathered from people who had known him and published in *Harper's* in 1871, twenty-six years after his death, which is the same interval as Mark's Gospel from the crucifixion. The recollections disagree on details, embroider his eccentricities, and were collected from aging witnesses; the core, an itinerant nurseryman who planted orchards across Ohio and Indiana and preached as he went, is not doubted by anyone.
+
+**Pontius Pilate himself (died after AD 36).** Until 1961, the governor who tried Jesus was known from Josephus, Philo, Tacitus, and the Gospels, all writing after his term; a skeptic of the prosecution's temper could have called him unattested by any contemporary record. Then a limestone block was found reused in a theater at Caesarea, bearing his name and title. Caiaphas's family tomb was found in 1990. The Lysanias of Luke 3:1, once called an error, was found in an inscription at Abila. The politarchs of Thessalonica, once called Luke's invention, turned up on an arch. The record of the last century is that the Gospels' incidental names keep being confirmed, which is the behavior of a historical document and not of a legend, and it is more than the modern comparables can show.
+
+The point of the modern cases is not that they are as well attested as Jesus; it is that they are less well attested, by every column of the scorecard, and accepted without a murmur, which means the doubt about Jesus does not come from the evidence. It comes from what he is said to have done, and that is a question the juror must weigh on its own counts, having first admitted, as any historian would, that the man lived and that the documents are what the defense has said.
+
+---
+
+## PART THIRTEEN: THE VERDICT METHOD
+
+*How the court has weighed the evidence, stated in the open so the juror can run the case himself and disagree with the verdict on the record.*
+
+### The criteria
+
+Every count that turned on a fact was scored on the criteria historians of antiquity actually use, and they are these. **Multiple independent attestation:** a fact reported in sources that did not copy one another is more secure than one reported in one, and the Gospels, Paul, the creed, Josephus, and Tacitus are independent of one another for the core facts. **Early attestation:** the shorter the interval between event and record, the less room for legend, and the creed within five years, Paul within twenty, and Mark within forty are short by any ancient measure. **Embarrassment:** a detail that makes the author or his cause look bad is unlikely to have been invented, and the Gospels are full of such details, from the women at the tomb to the disciples' flight. **Hostile corroboration:** a fact conceded by an enemy is nearly certain, and the enemies concede the man, the execution, the empty tomb (by explaining it), the wonders (by attributing them to sorcery), and the omens of AD 30. **Coherence:** a claim that fits the rest of the established evidence, and the culture of its time and place, is stronger than one that does not, and the Gospels' names, offices, customs, and geography fit. **Archaeological anchoring:** a source whose incidental details keep turning up in the ground has earned trust on the details that cannot, and the Gospels' record on this since 1961 is the one Part Twelve describes.
+
+### The standards
+
+Each count was told which courtroom standard its evidence met. **Preponderance:** more likely than not, the civil standard. **Clear and convincing:** substantially more likely than not, the standard for the gravest civil matters. **Beyond reasonable doubt:** the criminal standard, which does not mean beyond all doubt but beyond the doubt a reasonable person would entertain on the evidence. The handbook's findings, gathered: that Jesus lived, taught, and was crucified under Pilate, beyond reasonable doubt (Part Two); that the documents are early, independent, and in the biographical genre, clear and convincing (Part Three); that he was buried in a known tomb, clear and convincing (Count 81); that he died on the cross, beyond reasonable doubt (Count 85); that the tomb was found empty, clear and convincing, and conceded by the earliest opponents (Counts 89, 92); that his followers sincerely believed they had seen him alive, beyond reasonable doubt, on the testimony of the skeptical scholars themselves (Count 91); that the skeptic James and the persecutor Paul were converted by the same claim, beyond reasonable doubt (Counts 7, 22); that the leading eyewitnesses were killed for the claim and did not recant, clear and convincing (Count 96); and that every natural explanation offered in two centuries fails the evidence it was designed to explain (Counts 85-91). The resurrection itself, as the explanation of these facts, is the best available on the evidence and the only one that accounts for all of them, and the standard it meets depends on a prior the court has left to the juror.
+
+### Why no number
+
+Bayes' theorem has been applied to this case by Richard Swinburne (97 percent that the resurrection occurred), by Timothy and Lydia McGrew (a likelihood ratio of ten to the forty-fourth from the disciples' testimony), and by Richard Carrier (a probability of one in three to one in twelve thousand that Jesus existed at all), and the three results, from one theorem, show why the court has not offered a fourth. The theorem is only as good as the numbers put into it, and the numbers for a one-time event, the prior probability that God would raise a man and the likelihood of the evidence under each hypothesis, are not measurable; they are judgments, and a judgment wearing a decimal point is not more objective than one that does not. The scorecard is the honest instrument: it shows the juror where the weight comes from, criterion by criterion, and leaves him to set the one thing no one can set for him.
+
+### The prior, and the juror's remaining question
+
+The one thing the court has not tried is whether God exists and acts, which is the prior on which every count in Part Five finally turns. If the juror holds, before the evidence, that there is no God or that God does not act in history, then no evidence for a resurrection can move him, because any natural explanation, however strained, will always be more probable to him than a miracle, and the court has shown at Count 72 that this position is a circle, not a finding; it decides the case before hearing it. If the juror holds the question open, then the evidence can be weighed as evidence, and the court's submission is that, so weighed, it points where the first witnesses said it did. The New Atheist witness was heard on the prior in Part Six; his arguments were answered as arguments; and the juror will set the prior by them and by his own life, which is where the Bible always said the matter would be settled: "if anyone's will is to do God's will, he will know whether the teaching is from God" (John 7:17).
+
+### The consistency rule, and a note on good faith
+
+One rule of weight governs everything above: the standard applied to Jesus must be the standard applied to everyone. The court has held to it in both directions, conceding what the standard concedes (the census, the crucifixion day, the disputed epistles, the pattern-readings, Ezekiel's temple, the *zera* of Isaiah 53) and refusing what the standard refuses (contemporaneous archives for a provincial teacher, autographs of any ancient author, a Roman docket for a Judean execution). The prosecution's witnesses have not always held to it, and the juror should notice when a standard appears that is demanded of Jesus and of no one else. The most instructive case is Richard Dawkins's definition of faith as "belief without evidence," offered by a scientist. No physicist has ever proved anything; physics runs on an abundance of evidence weighed against stated assumptions, on models trusted because they have been tested and not because they have been demonstrated, and on a confidence that is revised when the evidence changes, which is precisely what the New Testament means by *pistis* and precisely what this handbook has offered for two hundred counts. Dawkins concedes in the same book that Jesus "probably existed," accepts Socrates on two disciples and a comedian, would not dream of demanding a contemporary archive for Boudica, and yet describes belief in the best-attested figure of antiquity as belief without evidence. A standard that is applied to one claim and to no other is not a standard; it is a verdict looking for a rule, and the juror who has read this far can judge for himself whether it is offered in good faith. The court's own rule is the one it has followed: read everything, concede what must be conceded, weigh the rest by the criteria, and say plainly which standard the evidence meets. Anyone who will hold the prosecution to the same rule is welcome to the jury.
+
+### The court's closing
+
+The people have called every witness they have: the mythicist, the textual critic, the church historian, the New Atheist, the Muslim, the Jew, the philosopher, the Satanist, and the other Jesuses, and the questions everyone asks. The defense has answered two hundred counts with the evidence linked and the weight stated, conceded forty of them in whole or in part, and rested nothing on any count it could not carry. What the prosecution has not produced is a body, a recantation, or a rival account of the first Easter that survives its own cross-examination. What the defense has produced is a man who lived, a death that is the most certain fact of ancient history, a tomb the enemies explained rather than denied, witnesses who died rather than deny what they said they saw, an enemy who became the chief witness, and a movement that began in the one city where it could have been stopped by opening a door. The juror will decide what explains it. The court has done what a court can do: it has put the evidence on the record, in the open, for anyone to check, and it invites the reader to check it, beginning with this Scripture.
+
+---
+
+*The People v. Jesus of Nazareth: A Cross-Examination. Two hundred counts. The evidence is linked; the concessions are recorded; the verdict is the reader's.*
